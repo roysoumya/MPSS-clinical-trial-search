@@ -1,2 +1,1 @@
 # COCTR_multidimensional_ranking
-# COCTR_multidimensional_ranking
