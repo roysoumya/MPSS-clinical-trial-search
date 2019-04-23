@@ -1,0 +1,230 @@
+"name","code","ngram","cui","term","term_word_count","term_extract_sum","name_word_cnt","problematic"
+"Aching in limb",10000448,"limb","C0015385","limb",1,1,3,1
+"Altered smell sensation",10001853,"smell","C0037361","smell",1,2,3,1
+"Altered smell sensation",10001853,"sensation","C0542538","sensation",1,2,3,1
+"Aortic aneurysm",10002882,"Aortic","C0003483","Aortic",1,1,2,1
+"Appetite lost",10003028,"Appetite","C0003618","Appetite",1,1,2,1
+"Bad dreams",10004063,"dreams","C0013117","dreams",1,1,2,1
+"Bad mood",10004064,"mood","C0026516","mood",1,1,2,1
+"Bizarre dreams",10004969,"dreams","C0013117","dreams",1,1,2,1
+"Black stools",10004977,"stools","C0015733","stools",1,1,2,1
+"Bleeding menstrual heavy",10005123,"menstrual","C0025344","menstrual",1,2,3,1
+"Bleeding menstrual heavy",10005123,"Bleeding","C0019080","Bleeding",1,2,3,1
+"Blindness unilateral",10005186,"Blindness","C0456909","Blindness",1,1,2,1
+"Blistering of mouth",10005215,"Blistering","C0344311","blistering",1,1,3,1
+"Blood pressure high",10005747,"Blood pressure","C0005823","Blood pressure",2,2,3,1
+"Bone fragile",10005966,"Bone","C0262950","Bone",1,1,2,1
+"Breast enlargement male",10006244,"Breast","C0006141","Breast",1,2,3,1
+"Breast enlargement male",10006244,"enlargement","C0020564","enlargement",1,2,3,1
+"Broken leg",10006391,"leg","C1140621","leg",1,1,2,1
+"Burning rectal",10006783,"Burning","C0085624","Burning",1,1,2,1
+"Cardio-respiratory arrest",10007617,"respiratory arrest","C0162297","respiratory arrest",2,2,3,1
+"Character change",10008406,"Character","C0007952","Character",1,1,2,1
+"Cholesterol levels raised",10008663,"Cholesterol","C0201950","Cholesterol",1,1,3,1
+"Cleft palate",10009269,"palate","C0700374","palate",1,1,2,1
+"Coeliac disease",10009839,"disease","C0012634","disease",1,1,2,1
+"Cold sores",10009865,"Cold","C0009443","Cold",1,1,2,1
+"Concentration loss",10010251,"Concentration","C0086045","Concentration",1,1,2,1
+"Crawling sensation of skin",10011326,"sensation","C0542538","sensation",1,1,4,1
+"Daytime sleepiness",10011865,"sleepiness","C0013144","sleepiness",1,1,2,1
+"Defaecation urgency",10012110,"Defaecation","C0011135","defaecation",1,1,2,1
+"Defecation urgency",10012114,"Defecation","C0011135","Defecation",1,1,2,1
+"Discomfort in joints",10013088,"Discomfort","C2364135","Discomfort",1,1,3,1
+"Disease aggravation",10013097,"Disease","C0012634","Disease",1,1,2,1
+"Drug effect incomplete",10013682,"Drug","C0013227","Drug",1,2,3,1
+"Drug effect incomplete",10013682,"effect","C1518681","effect",1,2,3,1
+"Drug ineffective",10013709,"Drug","C0013227","Drug",1,1,2,1
+"Ear buzzing",10013996,"Ear","C0013443","Ear",1,1,2,1
+"Ear feels clogged",10014008,"feels","C1527305","feels",1,2,3,1
+"Ear feels clogged",10014008,"Ear","C0013443","Ear",1,2,3,1
+"Excess sweating",10015590,"sweating","C0038990","sweating",1,1,2,1
+"Eye red",10015962,"Eye","C0015392","Eye",1,1,2,1
+"Eyes red",10016009,"Eyes","C0015392","Eyes",1,1,2,1
+"Eyes rolling",10016010,"Eyes","C0015392","Eyes",1,1,2,1
+"Faecal incontinence",10016092,"incontinence","C0021167","incontinence",1,1,2,1
+"Faeces discoloured",10016100,"discoloured","C0332572","discoloured",1,1,2,1
+"Faeces pale",10016102,"pale","C0030232","pale",1,1,2,1
+"Feeling bad",10016324,"Feeling","C1527305","Feeling",1,1,2,1
+"Feeling down",10016329,"Feeling","C1527305","Feeling",1,1,2,1
+"Feeling high",10016333,"Feeling","C1527305","Feeling",1,1,2,1
+"Feeling hot",10016334,"Feeling","C1527305","Feeling",1,1,2,1
+"Feeling hot and cold",10016335,"cold","C0009443","cold",1,2,4,1
+"Feeling hot and cold",10016335,"Feeling","C1527305","Feeling",1,2,4,1
+"Feeling irritated",10016337,"Feeling","C1527305","Feeling",1,1,2,1
+"Feeling of relaxation",10016352,"Feeling","C1527305","Feeling",1,1,3,1
+"Feeling sick",10016365,"Feeling","C1527305","Feeling",1,1,2,1
+"Feeling unwell",10016370,"Feeling","C1527305","Feeling",1,1,2,1
+"Feels awful",10016375,"Feels","C4553821","Feels",1,1,2,1
+"Feels poorly",10016377,"Feels","C4553821","Feels",1,1,2,1
+"Flaking skin",10016749,"Flaking","C1880783","Flaking",1,1,2,1
+"Foggy feeling in head",10016876,"head","C0018670","head",1,2,4,1
+"Foggy feeling in head",10016876,"feeling","C1527305","feeling",1,2,4,1
+"Foot callus",10016963,"Foot","C0016504","Foot",1,1,2,1
+"Frequent bowel movements",10017367,"bowel movements","C0011135","bowel movements",2,2,3,1
+"Fungal infection",10017533,"infection","C0009450","infection",1,1,2,1
+"Greenish stool",10018719,"stool","C0015733","stool",1,1,2,1
+"Gritty eyes",10018728,"eyes","C0015392","eyes",1,1,2,1
+"Gum discolouration",10018773,"discolouration","C0332572","discolouration",1,1,2,1
+"Gum pain",10018787,"pain","C0030193","pain",1,1,2,1
+"Gum swelling",10018789,"swelling","C0038999","swelling",1,1,2,1
+"Hair thinning",10019050,"Hair","C0018494","Hair",1,1,2,1
+"Head throbbing",10019204,"Head","C0018670","Head",1,1,2,1
+"Head tightness",10019205,"Head","C0018670","Head",1,1,2,1
+"Heart rate high",10019302,"Heart rate","C0018810","Heart rate",2,2,3,1
+"Heart rate irregular",10019304,"Heart rate","C0018810","Heart rate",2,2,3,1
+"Heartbeats skipped",10019325,"skipped","C0560435","skipped",1,1,2,1
+"Heaviness in limbs",10019349,"limbs","C0015385","limbs",1,1,3,1
+"High temperature",10020083,"High","C4321237","High",1,1,2,1
+"Hip fracture",10020100,"fracture","C0016658","fracture",1,1,2,1
+"Impacted wax",10021513,"Impacted","C0040456","Impacted",1,1,2,1
+"Inability to orgasm",10021574,"orgasm","C0029260","orgasm",1,1,3,1
+"Inguinal hernia",10022016,"Inguinal","C0018246","Inguinal",1,1,2,1
+"Itching all over",10023086,"Itching","C0033774","Itching",1,1,3,1
+"Itching both hands",10023087,"Itching","C0033774","Itching",1,2,3,1
+"Itching both hands",10023087,"hands","C0018563","hands",1,2,3,1
+"Itchy eyes",10023090,"eyes","C0015392","eyes",1,1,2,1
+"Itchy legs",10023091,"legs","C1140621","legs",1,1,2,1
+"Itchy rash",10023092,"rash","C0015230","rash",1,1,2,1
+"Itchy scalp",10023093,"scalp","C0036270","scalp",1,1,2,1
+"Joint ache",10023197,"ache","C0234238","ache",1,1,2,1
+"Judgement impaired",10023236,"Judgement","C0022423","Judgement",1,1,2,1
+"Kidney failure",10023418,"Kidney","C0022646","Kidney",1,1,2,1
+"Lack of drug effect",10023610,"drug effect","C0728867","drug effect",2,2,4,1
+"Light-headed",10024490,"Light","C3842678","Light",1,1,2,1
+"Lip dry",10024552,"Lip","C0023759","Lip",1,1,2,1
+"Loose bowels",10024838,"bowels","C0021853","bowels",1,1,2,1
+"Loss of all pleasure",10024852,"pleasure","C0679105","pleasure",1,1,4,1
+"Loss of confidence",10024854,"confidence","C0237529","confidence",1,1,3,1
+"Loss of control of legs",10024860,"legs","C1140621","legs",1,1,5,1
+"Loss of energy",10024862,"energy","C0424589","energy",1,1,3,1
+"Loss of libido",10024870,"libido","C0023618","libido",1,1,3,1
+"Loss of sensation",10024874,"sensation","C0542538","sensation",1,1,3,1
+"Loss of smell",10024877,"smell","C0037361","smell",1,1,3,1
+"Lost consciousness",10024885,"consciousness","C0009791","consciousness",1,1,2,1
+"Lost weight",10024886,"weight","C1305866","weight",1,1,2,1
+"Mole of skin",10027806,"Mole","C0027960","Mole",1,1,3,1
+"Mood change",10027941,"Mood","C0026516","Mood",1,1,2,1
+"Movements reduced",10028045,"Movements","C0026649","Movements",1,1,2,1
+"Mucosal dryness",10028111,"Mucosal","C1561514","Mucosa",1,1,2,1
+"Mucous stools",10028140,"stools","C0015733","stools",1,1,2,1
+"Multiple allergies",10028164,"allergies","C0020517","allergies",1,1,2,1
+"Multiple injuries",10028224,"injuries","C3263723","injuries",1,1,2,1
+"Nasal dryness",10028740,"Nasal","C0028429","Nasal",1,1,2,1
+"No drug effect",10029437,"drug effect","C0728867","drug effect",2,2,3,1
+"Nocturnal leg muscle cramps",10029456,"leg muscle cramps","C0023218","leg muscle cramps",3,3,4,1
+"Non-Hodgkin's lymphoma",10029547,"Hodgkin's lymphoma","C0019829","Hodgkin's lymphoma",3,3,4,1
+"Oesophageal ulcer",10030201,"ulcer","C0041582","ulcer",1,1,2,1
+"Oral discomfort",10030973,"discomfort","C2364135","discomfort",1,1,2,1
+"Pains in legs",10033522,"legs","C1140621","legs",1,1,3,1
+"Paralysis one side of body",10033826,"Paralysis","C0522224","Paralysis",1,1,5,1
+"Perspiration excessive",10034734,"Perspiration","C0038984","Perspiration",1,1,2,1
+"Premature baby",10036590,"Premature","C0151526","Premature",1,1,2,1
+"Pricking skin sensation",10036665,"Pricking","C0439821","pricking",1,2,3,1
+"Pricking skin sensation",10036665,"sensation","C0542538","sensation",1,2,3,1
+"Pulse rapid",10037484,"Pulse","C0034107","Pulse",1,1,2,1
+"Rash all over",10037848,"Rash","C0015230","Rash",1,1,3,1
+"Rash scaly",10037889,"Rash","C0015230","Rash",1,1,2,1
+"Recurrent cancer",10038111,"cancer","C0006826","cancer",1,1,2,1
+"Red throat",10038196,"throat","C0031354","throat",1,1,2,1
+"Runny nose",10039296,"nose","C0028429","nose",1,1,2,1
+"Saliva altered",10039379,"Saliva","C0036087","Saliva",1,1,2,1
+"Sexual problem",10040486,"problem","C0033213","problem",1,1,2,1
+"Sinus congestion",10040742,"congestion","C0700148","congestion",1,1,2,1
+"Sinus headache",10040744,"headache","C0018681","headache",1,1,2,1
+"Skin greasy",10040858,"Skin","C0444099","Skin",1,1,2,1
+"Skin red",10040916,"Skin","C0444099","Skin",1,1,2,1
+"Skin scaly",10040920,"Skin","C0444099","Skin",1,1,2,1
+"Skin warm",10040952,"Skin","C0444099","Skin",1,1,2,1
+"Sleep disturbed",10040999,"Sleep","C0037313","Sleep",1,1,2,1
+"Sleep excessive",10041000,"Sleep","C0037313","Sleep",1,1,2,1
+"Slowed thinking",10041049,"thinking","C0039869","thinking",1,1,2,1
+"Sore tongue",10041369,"tongue","C0040408","tongue",1,1,2,1
+"Speech loss",10041470,"Speech","C0037817","Speech",1,1,2,1
+"Spots before eyes",10041741,"eyes","C0015392","eyes",1,1,3,1
+"Stools hard",10042155,"Stools","C0015733","Stools",1,1,2,1
+"Swollen abdomen",10042714,"abdomen","C0000726","abdomen",1,1,2,1
+"Swollen ankles",10042715,"ankles","C0003086","ankles",1,1,2,1
+"Swollen eyelid",10042718,"eyelid","C0015426","eyelid",1,1,2,1
+"Swollen eyes",10042719,"eyes","C0015392","eyes",1,1,2,1
+"Swollen glands",10042720,"glands","C1285092","glands",1,1,2,1
+"Swollen lips",10042723,"lips","C0023759","lips",1,1,2,1
+"Swollen tongue",10042727,"tongue","C0040408","tongue",1,1,2,1
+"Taste changed",10043129,"changed","C0442739","unchanged",1,1,2,1
+"Teary eyes",10043172,"eyes","C0015392","eyes",1,1,2,1
+"Testicular swelling",10043354,"swelling","C0038999","swelling",1,1,2,1
+"Throat tightness",10043528,"Throat","C0031354","Throat",1,1,2,1
+"Tingling skin",10043881,"Tingling","C0030554","Tingling",1,1,2,1
+"Tired all the time",10043885,"Tired","C0015672","Tired",1,1,4,1
+"Tongue white",10043993,"Tongue","C0040408","Tongue",1,1,2,1
+"Tooth loss",10044044,"Tooth","C0040426","Tooth",1,1,2,1
+"Upper abdominal pain",10046272,"abdominal pain","C0000737","abdominal pain",2,2,3,1
+"Upper respiratory tract infection",10046306,"respiratory tract infection","C0035243","respiratory tract infection",3,3,4,1
+"Uterine polyp",10046811,"Uterine","C0042149","Uterine",1,1,2,1
+"Violent behaviour",10047428,"behaviour","C0677505","behaviours",1,1,2,1
+"Voice disturbance",10047682,"Voice","C0042939","Voice",1,1,2,1
+"Vomiting projectile",10047708,"Vomiting","C0042963","Vomiting",1,1,2,1
+"Weakness generalised",10047864,"Weakness","C3714552","Weakness",1,1,2,1
+"Weakness generalized",10047865,"Weakness","C3714552","Weakness",1,1,2,1
+"Weakness left or right side",10047866,"Weakness","C3714552","Weakness",1,2,5,1
+"Weakness left or right side",10047866,"right","C0015726","fright",1,2,5,1
+"Weird feeling",10047904,"feeling","C1527305","feeling",1,1,2,1
+"Writing impaired",10048053,"Writing","C2584304","Writing",1,1,2,1
+"Intestinal polyp",10048616,"Intestinal","C0021853","Intestinal",1,1,2,1
+"Oral infection",10048685,"infection","C0009450","infection",1,1,2,1
+"Soft stools",10048838,"stools","C0015733","stools",1,1,2,1
+"Application site dryness",10048943,"Application","C1947919","Application",1,1,3,1
+"Inability to lose weight",10049116,"lose weight","C1262477","lose weight",2,2,4,1
+"Heaviness of head",10049121,"head","C0018670","head",1,1,3,1
+"Tingling mouth",10049315,"Tingling","C0030554","Tingling",1,1,2,1
+"Peeling mouth",10049316,"Peeling","C0520893","Peeling",1,1,2,1
+"Tongue dry",10049713,"Tongue","C0040408","Tongue",1,1,2,1
+"Burning mouth",10049858,"Burning","C0085624","Burning",1,1,2,1
+"Morbid thoughts",10050464,"thoughts","C0039869","Thoughts",1,1,2,1
+"Nodule on extremity",10050690,"extremity","C0015385","extremity",1,1,3,1
+"Blood pressure inadequately controlled",10051128,"controlled","C2911690","Controlled",1,3,4,1
+"Blood pressure inadequately controlled",10051128,"Blood pressure","C0005823","Blood pressure",2,3,4,1
+"Lump feeling in throat",10051196,"throat","C0031354","throat",1,2,4,1
+"Lump feeling in throat",10051196,"feeling","C1527305","feeling",1,2,4,1
+"Joint warmth",10054106,"warmth","C0392197","warmth",1,1,2,1
+"Gum discoloration",10055524,"discoloration","C0332572","discoloration",1,1,2,1
+"Fluid intake reduced",10056291,"Fluid intake","C0429791","Fluid intake",2,2,3,1
+"Violent behavior",10057073,"behavior","C0677505","behaviors",1,1,2,1
+"Urine odour abnormal",10057135,"Urine","C0042036","Urine",1,2,3,1
+"Urine odour abnormal",10057135,"abnormal","C0205161","abnormal",1,2,3,1
+"Teeth clenching",10057326,"Teeth","C0040426","Teeth",1,1,2,1
+"Hearing loss bilateral",10057844,"Hearing loss","C1384666","Hearing loss",2,2,3,1
+"Skin callus",10057981,"Skin","C0444099","Skin",1,1,2,1
+"Yeast infection of the mouth",10058087,"Yeast infection","C0750466","Yeast infection",2,2,5,1
+"Brown urine",10058129,"urine","C0042036","urine",1,1,2,1
+"Sexual desire decreased",10059272,"desire","C0871633","desire",1,2,3,1
+"Sexual desire decreased",10059272,"decreased","C0442797","decreased",1,2,3,1
+"Hot flush",10060800,"flush","C0016382","flush",1,1,2,1
+"Cloudy vision",10060817,"vision","C0042789","vision",1,1,2,1
+"Joint injury",10060820,"injury","C3263723","injury",1,1,2,1
+"Abdominal hernia",10060954,"Abdominal","C0000726","Abdominal",1,1,2,1
+"Finger deformity",10061156,"Finger","C0016129","Finger",1,1,2,1
+"Foot deformity",10061159,"Foot","C0016504","Foot",1,1,2,1
+"Oral fungal infection",10061324,"fungal infection","C0026946","fungal infection",2,2,3,1
+"Upper limb fracture",10061394,"limb fracture","C0596838","limb fracture",2,2,3,1
+"Allergy to chemicals",10061626,"Allergy","C0020517","Allergy",1,1,3,1
+"Spider vein",10062696,"vein","C0042449","vein",1,1,2,1
+"Infantile spitting up",10063338,"spitting","C0232515","spitting",1,1,3,1
+"Diminished sense of smell",10064102,"sense of smell","C0037361","sense of smell",3,3,4,1
+"Urine colour abnormal",10064748,"Urine","C0042036","Urine",1,2,3,1
+"Urine colour abnormal",10064748,"abnormal","C0205161","abnormal",1,2,3,1
+"Medication stuck in throat",10064940,"throat","C0031354","throat",1,2,4,1
+"Medication stuck in throat",10064940,"Medication","C0013227","Medication",1,2,4,1
+"Excessive eye blinking",10065166,"eye","C0015392","eye",1,1,3,1
+"Bone loss",10065687,"Bone","C0262950","Bone",1,1,2,1
+"Near fainting",10066202,"fainting","C0039070","fainting",1,1,2,1
+"Absent-minded",10067170,"Absent","C4285062","Absent",1,1,2,1
+"Low birth weight baby",10067508,"Low birth weight","C0024032","Low birth weight",3,3,4,1
+"Word finding difficulty",10067711,"finding","C0037088","finding",1,2,3,1
+"Word finding difficulty",10067711,"difficulty","C1299586","difficulty",1,2,3,1
+"Reduced dexterity",10067727,"dexterity","C0565699","dexterity",1,1,2,1
+"Drug effect delayed",10068303,"Drug","C0013227","Drug",1,2,3,1
+"Drug effect delayed",10068303,"effect","C1518681","effect",1,2,3,1
+"Oily hair",10072816,"hair","C0018494","hair",1,1,2,1
+"Urine odor abnormal",10074143,"abnormal","C0205161","abnormal",1,2,3,1
+"Urine odor abnormal",10074143,"Urine","C0042036","Urine",1,2,3,1
+"Feces soft",10074865,"Feces","C0015733","Feces",1,1,2,1

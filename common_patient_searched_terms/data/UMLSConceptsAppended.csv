@@ -1,0 +1,1918 @@
+name,code,ngram,cui,term,semtype
+Abdomen enlarged,10000045,Abdomen,C0000726,Abdomen,{'T029'}
+Abdomen enlarged,10000045,enlarged,C1293134,Enlarged,{'T061'}
+Abdominal bloating,10048746,Abdominal bloating,C0000731,Abdominal bloating,{'T033'}
+Abdominal cramps,10000057,Abdominal cramps,C0000729,Abdominal cramps,{'T184'}
+Abdominal crampy pains,10000058,Abdominal,C0000726,Abdominal,{'T029'}
+Abdominal crampy pains,10000058,crampy,C0270814,crampy,{'T047'}
+Abdominal crampy pains,10000058,pains,C0030193,pains,{'T184'}
+Abdominal discomfort,10000059,Abdominal discomfort,C0232487,Abdominal discomfort,{'T184'}
+Abdominal hernia,10060954,Abdominal,C0000726,Abdominal,{'T029'}
+Abdominal infection,10056519,Abdominal infection,C1112209,Abdominal infection,{'T047'}
+Abdominal mass,10000077,Abdominal mass,C0000734,Abdominal mass,{'T033'}
+Abdominal pain,10000081,Abdominal pain,C0000737,Abdominal pain,{'T184'}
+Abdominal tenderness,10000097,Abdominal tenderness,C0232498,Abdominal tenderness,{'T184'}
+Abnormal behaviour,10061422,Abnormal,C0205161,Abnormal,{'T033'}
+Abnormal behaviour,10061422,behaviour,C0677505,behaviours,{'T033'}
+Abnormal dreams,10000125,Abnormal,C0205161,Abnormal,{'T033'}
+Abnormal dreams,10000125,dreams,C0013117,dreams,{'T041'}
+Abnormal faeces,10000133,Abnormal,C0205161,Abnormal,{'T033'}
+Abnormal faeces,10000133,faeces,C0015733,faeces,{'T031'}
+Abnormal feces,10000134,Abnormal feces,C0162287,Abnormal feces,{'T033'}
+Abnormal hair growth,10000147,Abnormal,C0205161,Abnormal,{'T033'}
+Abnormal hair growth,10000147,growth,C0018270,growth,{'T040'}
+Abnormal hair growth,10000147,hair,C0018494,hair,{'T023'}
+Abnormal sensation in eye,10000173,Abnormal sensation,C0423571,Abnormal sensation,{'T184'}
+Abnormal sensation in eye,10000173,eye,C0015392,eye,{'T023'}
+Abnormal stools,10000181,Abnormal,C0205161,Abnormal,{'T033'}
+Abnormal stools,10000181,stools,C0015733,stools,{'T031'}
+Abscess,10000269,Abscess,C0000833,Abscess,{'T047'}
+Absence attacks,10000321,Absence attacks,C0235956,Absence attacks,{'T184'}
+Absence of menstruation,10000326,Absence of menstruation,C0002453,Absence of menstruation,{'T047'}
+Absent-minded,10067170,Absent,C4285062,Absent,{'T033'}
+Ache,10000424,Ache,C0030193,Ache,{'T184'}
+Achilles tendon pain,10050471,Achilles,C0001074,Achilles,{'T023'}
+Achilles tendon pain,10050471,pain,C0030193,pain,{'T184'}
+Aching in limb,10000448,limb,C0015385,limb,{'T023'}
+Acne,10000496,Acne,C0001144,Acne,{'T047'}
+Addiction,10001125,Addiction,C0085281,Addiction,{'T048'}
+Aggression,10001488,Aggression,C4050402,Aggression,{'T170'}
+Aggressive behavior,10062375,Aggressive,C1547300,Aggressive,{'T170'}
+Aggressive behavior,10062375,behavior,C0677505,behaviors,{'T033'}
+Aggressive behaviour,10001490,Aggressive,C1547300,Aggressive,{'T170'}
+Aggressive behaviour,10001490,behaviour,C0677505,behaviours,{'T033'}
+Aggressiveness,10001494,Aggressiveness,C1457883,aggressiveness,{'T048'}
+Agitated,10001495,Agitated,C0085631,agitated,{'T184'}
+Agitation,10001497,Agitation,C0085631,Agitation,{'T184'}
+Agoraphobia,10001502,Agoraphobia,C0001818,Agoraphobia,{'T048'}
+Airways obstruction,10001539,obstruction,C0028778,obstruction,{'T046'}
+Airways obstruction,10001539,Airways,C0458827,Airways,{'T023'}
+Alcohol abuse,10001584,Alcohol abuse,C0085762,Alcohol abuse,{'T048'}
+Alertness decreased,10049875,decreased,C0442797,decreased,{'T033'}
+Alertness decreased,10049875,Alertness,C1443086,alertness,{'T041'}
+Allergic rash,10001717,rash,C0015230,rash,{'T184'}
+Allergic rash,10001717,Allergic,C3467963,Allergican,{'T109'}
+Allergic rash,10001717,Allergic,C3467963,Allergican,{'T121'}
+Allergic reaction,10001718,Allergic reaction,C0020517,Allergic reaction,{'T046'}
+Allergic rhinitis,10001723,Allergic rhinitis,C2607914,Allergic rhinitis,{'T047'}
+Allergy,10001738,Allergy,C0020517,Allergy,{'T046'}
+Allergy to chemicals,10061626,Allergy,C0020517,Allergy,{'T046'}
+Altered smell sensation,10001853,sensation,C0542538,sensation,{'T033'}
+Altered smell sensation,10001853,smell,C0037361,smell,{'T040'}
+Anaemia,10002034,Anaemia,C0002871,Anaemia,{'T047'}
+Anal bleeding,10049563,bleeding,C0019080,bleeding,{'T046'}
+Anal bleeding,10049563,Anal,C0003461,Anal,{'T023'}
+Anal fissure,10002153,Anal fissure,C0016167,Anal fissure,{'T047'}
+Anal pain,10002167,Anal pain,C0238637,Anal pain,{'T184'}
+Anaphylactic reaction,10002198,Anaphylactic reaction,C4316895,anaphylactic reaction,{'T046'}
+Anemia,10002272,Anemia,C0002871,Anemia,{'T047'}
+Anger,10002368,Anger,C0002957,Anger,{'T041'}
+Angina attack,10002377,Angina,C0002962,Angina,{'T184'}
+Angina attack,10002377,attack,C1304680,attack,{'T033'}
+Anginal pain,10002391,pain,C0030193,pain,{'T184'}
+Anginal pain,10002391,Anginal,C0002962,Angina,{'T184'}
+Ankle fracture,10002544,Ankle fracture,C0159877,Ankle fracture,{'T037'}
+Ankle swelling,10002553,Ankle swelling,C0235439,Ankle swelling,{'T046'}
+Anxiety,10002855,Anxiety,C0003467,Anxiety,{'T048'}
+Anxiety attack,10002856,Anxiety,C0003467,Anxiety,{'T048'}
+Anxiety attack,10002856,attack,C1304680,attack,{'T033'}
+Anxious mood,10002875,Anxious mood,C2239195,Anxious mood,{'T033'}
+Aortic aneurysm,10002882,Aortic,C0003483,Aortic,{'T023'}
+Aortic valve disease,10061589,Aortic valve disease,C1260873,Aortic valve disease,{'T047'}
+Aortic valve incompetence,10002915,Aortic valve,C0003501,Aortic valve,{'T023'}
+Aortic valve incompetence,10002915,incompetence,C0231189,incompetence,{'T046'}
+Apathy,10002942,Apathy,C0085632,Apathy,{'T048'}
+Appendicitis,10003011,Appendicitis,C0003615,Appendicitis,{'T047'}
+Appetite lost,10003028,Appetite,C0003618,Appetite,{'T040'}
+Application site blister,10053414,Application,C1947919,Application,{'T170'}
+Application site blister,10053414,blister,C0344311,blister,{'T033'}
+Application site burn,10065059,Application,C1947919,Application,{'T170'}
+Application site burn,10065059,burn,C0006434,burn,{'T037'}
+Application site burning,10048942,Application,C1947919,Application,{'T170'}
+Application site burning,10048942,burning,C0085624,burning,{'T184'}
+Application site discharge,10052162,Application,C1947919,Application,{'T170'}
+Application site discharge,10052162,discharge,C0012621,discharge,{'T031'}
+Application site dryness,10048943,Application,C1947919,Application,{'T170'}
+Application site infection,10049041,site infection,C0578491,site infection,{'T047'}
+Application site infection,10049041,Application,C1947919,Application,{'T170'}
+Application site inflammation,10049042,inflammation,C0021368,inflammation,{'T046'}
+Application site inflammation,10049042,Application,C1947919,Application,{'T170'}
+Application site irritation,10003046,Application,C1947919,Application,{'T170'}
+Application site irritation,10003046,irritation,C1706307,Irritation,{'T033'}
+Application site itching,10003047,Application,C1947919,Application,{'T170'}
+Application site itching,10003047,itching,C0033774,itching,{'T033'}
+Application site pain,10003051,Application,C1947919,Application,{'T170'}
+Application site pain,10003051,pain,C0030193,pain,{'T184'}
+Application site rash,10003054,Application,C1947919,Application,{'T170'}
+Application site rash,10003054,rash,C0015230,rash,{'T184'}
+Application site reaction,10003055,Application,C1947919,Application,{'T170'}
+Application site reaction,10003055,reaction,C0000828,Abreaction,{'T041'}
+Application site redness,10003058,Application,C1947919,Application,{'T170'}
+Application site redness,10003058,redness,C0332575,redness,{'T033'}
+Application site swelling,10053424,Application,C1947919,Application,{'T170'}
+Application site swelling,10053424,swelling,C0038999,swelling,{'T033'}
+Application site ulcer,10003059,Application,C1947919,Application,{'T170'}
+Application site ulcer,10003059,ulcer,C0041582,ulcer,{'T046'}
+Application site warmth,10003060,Application,C1947919,Application,{'T170'}
+Application site warmth,10003060,warmth,C0392197,warmth,{'T039'}
+Arm discomfort,10049877,discomfort,C2364135,discomfort,{'T184'}
+Arm discomfort,10049877,Arm,C0446516,Arm,{'T029'}
+Arm paralysis,10003098,paralysis,C0522224,paralysis,{'T033'}
+Arm paralysis,10003098,Arm,C0446516,Arm,{'T029'}
+Arrhythmia,10003119,Arrhythmia,C0003811,Arrhythmia,{'T047'}
+Arteriosclerosis,10003210,Arteriosclerosis,C0003850,Arteriosclerosis,{'T047'}
+Arthritis,10003246,Arthritis,C0003864,Arthritis,{'T047'}
+Asthma,10003553,Asthma,C0004096,Asthma,{'T047'}
+Asthmatic attack,10003566,attack,C1304680,attack,{'T033'}
+Asthmatic attack,10003566,Asthmatic,C0004096,asthmatic,{'T047'}
+Astigmatism,10003569,Astigmatism,C0004106,Astigmatism,{'T047'}
+Atherosclerosis,10003601,Atherosclerosis,C0004153,Atherosclerosis,{'T047'}
+Atrial fibrillation,10003658,Atrial fibrillation,C0004238,Atrial fibrillation,{'T047'}
+Attention deficit disorder,10003731,Attention deficit disorder,C0041671,Attention deficit disorder,{'T048'}
+Attention deficit/hyperactivity disorder,10003736,hyperactivity disorder,C1263846,hyperactivity disorder,{'T048'}
+Attention deficit/hyperactivity disorder,10003736,Attention deficit,C0041671,Attention deficit,{'T048'}
+Auditory hallucinations,10003785,Auditory hallucinations,C0233762,Auditory hallucinations,{'T184'}
+Aura,10003791,Aura,C0236018,Aura,{'T033'}
+Autism,10003805,Autism,C0004352,Autism,{'T048'}
+Back ache,10003978,Back,C0004600,Back,{'T029'}
+Back ache,10003978,ache,C0234238,ache,{'T184'}
+Back discomfort,10003982,discomfort,C2364135,discomfort,{'T184'}
+Back discomfort,10003982,Back,C0004600,Back,{'T029'}
+Back injury,10003986,injury,C3263723,injury,{'T037'}
+Back injury,10003986,Back,C0004600,Back,{'T029'}
+Back muscle spasms,10067893,muscle spasms,C0037763,muscle spasms,{'T184'}
+Back muscle spasms,10067893,Back,C0004600,Back,{'T029'}
+Back pain,10003988,Back pain,C0004604,Back pain,{'T184'}
+Bacterial infection,10060945,Bacterial infection,C0004623,Bacterial infection,{'T047'}
+Bad breath,10004062,Bad breath,C0018520,Bad breath,{'T184'}
+Bad dreams,10004063,dreams,C0013117,dreams,{'T041'}
+Bad mood,10004064,mood,C0026516,mood,{'T041'}
+Balance difficulty,10004070,difficulty,C1299586,difficulty,{'T033'}
+Balance difficulty,10004070,Balance,C0014653,Balance,{'T040'}
+Basal cell carcinoma,10004146,Basal cell carcinoma,C0007117,Basal cell carcinoma,{'T191'}
+Bed sore,10004196,Bed sore,C0011127,Bed sore,{'T047'}
+Bed wetting,10004197,Bed wetting,C0270327,bed wetting,{'T048'}
+Belching,10004222,Belching,C0014724,Belching,{'T184'}
+Bell's palsy,10004223,Bell's palsy,C0376175,Bell's palsy,{'T047'}
+Belly ache,10004226,Belly,C0224086,Belly,{'T023'}
+Belly ache,10004226,ache,C0234238,ache,{'T184'}
+Binge eating,10004716,Binge eating,C0596170,Binge eating,{'T048'}
+Bipolar disorder,10057667,Bipolar disorder,C0005586,Bipolar disorder,{'T048'}
+Birth defects,10048305,Birth defects,C4019266,Birth defects,{'T201'}
+Bizarre dreams,10004969,dreams,C0013117,dreams,{'T041'}
+Black stools,10004977,stools,C0015733,stools,{'T031'}
+Blackout,10004982,Blackout,C0312422,Blackout,{'T184'}
+Bladder cancer,10005003,Bladder cancer,C0005684,Bladder cancer,{'T191'}
+Bladder discomfort,10005034,discomfort,C2364135,discomfort,{'T184'}
+Bladder discomfort,10005034,Bladder,C0005682,Bladder,{'T023'}
+Bladder infection,10005047,Bladder infection,C0600041,Bladder infection,{'T047'}
+Bladder pain,10005063,Bladder pain,C0232849,Bladder pain,{'T184'}
+Bladder spasm,10048994,Bladder spasm,C0426390,Bladder spasm,{'T184'}
+Bleeding,10005103,Bleeding,C0019080,Bleeding,{'T046'}
+Bleeding gastric ulcer,10005115,Bleeding gastric ulcer,C0341164,Bleeding gastric ulcer,{'T047'}
+Bleeding menstrual heavy,10005123,menstrual,C0025344,menstrual,{'T040'}
+Bleeding menstrual heavy,10005123,Bleeding,C0019080,Bleeding,{'T046'}
+Bleeding tendency,10005134,Bleeding tendency,C1458140,Bleeding tendency,{'T047'}
+Blind,10005161,Blind,C0456909,Blind,{'T033'}
+Blindness,10005169,Blindness,C0456909,Blindness,{'T033'}
+Blindness unilateral,10005186,Blindness,C0456909,Blindness,{'T033'}
+Blister,10005191,Blister,C0344311,Blister,{'T033'}
+Blistering of mouth,10005215,Blistering,C0344311,blistering,{'T033'}
+Blisters,10005216,Blisters,C0344311,Blister,{'T033'}
+Bloated feeling,10005264,Bloated feeling,C0857257,Bloated feeling,{'T184'}
+Blood blister,10005372,blister,C0344311,blister,{'T033'}
+Blood blister,10005372,Blood,C0005767,Blood,{'T031'}
+Blood glucose decreased,10005555,Blood glucose decreased,C0595883,Blood glucose decreased,{'T033'}
+Blood glucose increased,10005557,Blood glucose increased,C0595877,Blood glucose increased,{'T033'}
+Blood in stool,10005603,Blood in stool,C1321898,Blood in stool,{'T184'}
+Blood in urine,10005604,Blood in urine,C0018965,Blood in urine,{'T047'}
+Blood pressure high,10005747,Blood pressure,C0005823,Blood pressure,{'T040'}
+Blood pressure inadequately controlled,10051128,Blood pressure,C0005823,Blood pressure,{'T040'}
+Blood pressure inadequately controlled,10051128,controlled,C2911690,Controlled,{'T033'}
+Blood pressure low,10005753,Blood pressure,C0005823,Blood pressure,{'T040'}
+Blood pressure low,10005753,low,C1550472,low,{'T170'}
+Blood sugar decreased,10005808,decreased,C0442797,decreased,{'T033'}
+Blood sugar decreased,10005808,Blood,C0005767,Blood,{'T031'}
+Blood sugar decreased,10005808,sugar,C0242209,sugar,{'T121'}
+Blood sugar decreased,10005808,sugar,C0242209,sugar,{'T109'}
+Blood sugar increased,10005809,Blood,C0005767,Blood,{'T031'}
+Blood sugar increased,10005809,sugar,C0242209,sugar,{'T109'}
+Blood sugar increased,10005809,sugar,C0242209,sugar,{'T121'}
+Blood sugar increased,10005809,increased,C0151576,increased ck,{'T033'}
+Bloodshot eye,10005871,Bloodshot eye,C0005858,Bloodshot eye,{'T184'}
+Bloody diarrhea,10005872,Bloody diarrhea,C0151594,Bloody diarrhea,{'T047'}
+Bloody diarrhoea,10055957,Bloody diarrhoea,C0151594,Bloody diarrhoea,{'T047'}
+Bloody discharge,10057687,discharge,C0012621,discharge,{'T031'}
+Bloody discharge,10057687,Bloody,C4554530,Bloody,{'T033'}
+Bloody stool,10005873,Bloody stool,C1321898,Bloody stool,{'T184'}
+Bloody vaginal discharge,10049851,vaginal discharge,C0227791,vaginal discharge,{'T033'}
+Bloody vaginal discharge,10049851,Bloody,C4554530,Bloody,{'T033'}
+Blue lips,10005881,Blue,C3810842,Blue,{'T033'}
+Blue lips,10005881,lips,C0023759,lips,{'T023'}
+Blurred vision,10005886,Blurred vision,C0344232,Blurred vision,{'T033'}
+Body hair increased,10053924,Body,C1551342,Body,{'T170'}
+Body hair increased,10053924,hair,C0018494,hair,{'T023'}
+Body hair increased,10053924,increased,C0151576,increased ck,{'T033'}
+Body odor,10005901,Body odor,C0085595,Body odor,{'T033'}
+Body odour,10005902,Body odour,C0085595,Body odour,{'T033'}
+Boil,10005914,Boil,C0242301,Boil,{'T047'}
+Bone cancer,10005949,cancer,C0006826,cancer,{'T191'}
+Bone cancer,10005949,Bone,C0262950,Bone,{'T023'}
+Bone fragile,10005966,Bone,C0262950,Bone,{'T023'}
+Bone loss,10065687,Bone,C0262950,Bone,{'T023'}
+Bone marrow failure,10065553,Bone marrow failure,C1855710,Bone marrow failure,{'T033'}
+Bone pain,10006002,Bone pain,C0151825,Bone pain,{'T184'}
+Bone swelling,10053631,swelling,C0038999,swelling,{'T033'}
+Bone swelling,10053631,Bone,C0262950,Bone,{'T023'}
+Bowel discomfort,10054248,discomfort,C2364135,discomfort,{'T184'}
+Bowel discomfort,10054248,Bowel,C0021853,Bowel,{'T023'}
+Bowel incontinence,10050492,Bowel incontinence,C0015732,Bowel incontinence,{'T047'}
+Bowel movement irregularity,10063541,Bowel,C0021853,Bowel,{'T023'}
+Bowel movement irregularity,10063541,irregularity,C1857644,RPE irregularity,{'T033'}
+Bowel movement irregularity,10063541,movement,C0026649,Movement,{'T040'}
+Bowel obstruction,10006055,Bowel obstruction,C0021843,Bowel obstruction,{'T047'}
+Brain damage,10056389,Brain damage,C0270611,Brain damage,{'T037'}
+Brain death,10049054,Brain death,C0006110,Brain death,{'T046'}
+Brain injury,10067967,Brain injury,C0270611,Brain injury,{'T037'}
+Brain tumor,10006153,Brain tumor,C0006118,Brain tumor,{'T191'}
+Brain tumour,10061030,Brain tumour,C0006118,Brain tumour,{'T191'}
+Breast cancer,10006187,Breast cancer,C0006142,Breast cancer,{'T191'}
+Breast cancer metastatic,10055113,cancer metastatic,C0346957,cancer metastatic,{'T191'}
+Breast cancer metastatic,10055113,Breast,C0006141,Breast,{'T023'}
+Breast cancer recurrent,10006198,cancer recurrent,C0549379,cancer recurrent,{'T191'}
+Breast cancer recurrent,10006198,Breast,C0006141,Breast,{'T023'}
+Breast cyst,10006220,Breast,C0006141,Breast,{'T023'}
+Breast cyst,10006220,cyst,C0010709,cyst,{'T047'}
+Breast discharge,10006223,discharge,C0012621,discharge,{'T031'}
+Breast discharge,10006223,Breast,C0006141,Breast,{'T023'}
+Breast discomfort,10049872,discomfort,C2364135,discomfort,{'T184'}
+Breast discomfort,10049872,Breast,C0006141,Breast,{'T023'}
+Breast enlargement,10006242,enlargement,C0020564,enlargement,{'T046'}
+Breast enlargement,10006242,Breast,C0006141,Breast,{'T023'}
+Breast enlargement male,10006244,enlargement,C0020564,enlargement,{'T046'}
+Breast enlargement male,10006244,Breast,C0006141,Breast,{'T023'}
+Breast mass,10006272,Breast,C0006141,Breast,{'T023'}
+Breast mass,10006272,mass,C0577559,mass,{'T033'}
+Breast pain,10006298,Breast pain,C0024902,Breast pain,{'T184'}
+Breast size decrease,10006309,Breast size,C0425782,Breast size,{'T033'}
+Breast size decrease,10006309,decrease,C0442797,decreased,{'T033'}
+Breast swelling,10006312,swelling,C0038999,swelling,{'T033'}
+Breast swelling,10006312,Breast,C0006141,Breast,{'T023'}
+Breast tenderness,10006313,tenderness,C0234233,tenderness,{'T184'}
+Breast tenderness,10006313,Breast,C0006141,Breast,{'T023'}
+Breathlessness,10006345,Breathlessness,C0013404,Breathlessness,{'T184'}
+Brittle nails,10006373,Brittle nails,C0546956,Brittle nails,{'T033'}
+Brittle teeth,10006374,Brittle,C3810845,Brittle,{'T033'}
+Brittle teeth,10006374,teeth,C0040426,teeth,{'T023'}
+Broken leg,10006391,leg,C1140621,leg,{'T023'}
+Bronchitis,10006451,Bronchitis,C0006277,Bronchitis,{'T047'}
+Brown urine,10058129,urine,C0042036,urine,{'T031'}
+Bruise,10006502,Bruise,C0009938,Bruise,{'T037'}
+Bruising,10006504,Bruising,C0009938,Bruising,{'T037'}
+Bruising of arm,10006505,Bruising,C0009938,Bruising,{'T037'}
+Bruising of arm,10006505,arm,C0446516,arm,{'T029'}
+Bruising of face,10006507,Bruising,C0009938,Bruising,{'T037'}
+Bruising of face,10006507,face,C0015450,face,{'T029'}
+Bruising of leg,10006510,Bruising,C0009938,Bruising,{'T037'}
+Bruising of leg,10006510,leg,C1140621,leg,{'T023'}
+Bulimia,10006549,Bulimia,C0006370,Bulimia,{'T048'}
+Burn,10006634,Burn,C0006434,Burn,{'T037'}
+Burning eyes,10006774,Burning,C0085624,Burning,{'T184'}
+Burning eyes,10006774,eyes,C0015392,eyes,{'T023'}
+Burning foot,10049854,Burning,C0085624,Burning,{'T184'}
+Burning foot,10049854,foot,C0016504,foot,{'T023'}
+Burning in throat,10006778,Burning,C0085624,Burning,{'T184'}
+Burning in throat,10006778,throat,C0031354,throat,{'T023'}
+Burning leg,10049857,Burning,C0085624,Burning,{'T184'}
+Burning leg,10049857,leg,C1140621,leg,{'T023'}
+Burning mouth,10049858,Burning,C0085624,Burning,{'T184'}
+Burning rectal,10006783,Burning,C0085624,Burning,{'T184'}
+Burning sensation,10006784,Burning sensation,C0085624,Burning sensation,{'T184'}
+Burning sensation in face,10006787,Burning sensation,C0085624,Burning sensation,{'T184'}
+Burning sensation in face,10006787,face,C0015450,face,{'T029'}
+Burning tongue,10006793,Burning tongue,C0241426,Burning tongue,{'T047'}
+Burping,10006804,Burping,C0014724,Burping,{'T184'}
+Bursitis,10006811,Bursitis,C0006444,Bursitis,{'T047'}
+Buttock pain,10048677,Buttock pain,C0231710,Buttock pain,{'T184'}
+Cancer,10007050,Cancer,C0006826,Cancer,{'T191'}
+Cardiac arrest,10007515,Cardiac arrest,C0018790,Cardiac arrest,{'T047'}
+Cardiac discomfort,10054211,discomfort,C2364135,discomfort,{'T184'}
+Cardiac discomfort,10054211,Cardiac,C0018787,Cardiac,{'T023'}
+Cardiac pain,10054231,Cardiac pain,C0423636,Cardiac pain,{'T184'}
+Cardiac valve disease,10061406,Cardiac valve,C0018826,Cardiac valve,{'T023'}
+Cardiac valve disease,10061406,disease,C0012634,disease,{'T047'}
+Cardio-respiratory arrest,10007617,respiratory arrest,C0162297,respiratory arrest,{'T046'}
+Carpal tunnel syndrome,10007697,Carpal tunnel syndrome,C0007286,Carpal tunnel syndrome,{'T047'}
+Cataract,10007739,Cataract,C1962983,Cataract,{'T033'}
+Cataracts,10007771,Cataracts,C0521707,Cataracts,{'T047'}
+Catheter site infection,10056520,site infection,C0578491,site infection,{'T047'}
+Catheter site infection,10056520,Catheter,C0085590,Catheter,{'T074'}
+Catheter site pain,10052268,Catheter,C0085590,Catheter,{'T074'}
+Catheter site pain,10052268,pain,C0030193,pain,{'T184'}
+Celiac disease,10007864,Celiac disease,C0007570,Celiac disease,{'T047'}
+Cellulitis,10007882,Cellulitis,C0007642,Cellulitis,{'T046'}
+Change in bowel habits,10008395,Change in bowel habits,C0278008,Change in bowel habits,{'T184'}
+Chapped lips,10049047,Chapped lips,C0424489,Chapped lips,{'T033'}
+Chapped skin,10008405,Chapped skin,C0549202,chapped skin,{'T047'}
+Character change,10008406,Character,C0007952,Character,{'T041'}
+Chest discomfort,10008469,discomfort,C2364135,discomfort,{'T184'}
+Chest discomfort,10008469,Chest,C0817096,Chest,{'T029'}
+Chest infection,10008477,infection,C0009450,infection,{'T047'}
+Chest infection,10008477,Chest,C0817096,Chest,{'T029'}
+Chest pain,10008479,Chest pain,C0008031,Chest pain,{'T184'}
+Chest pain - cardiac,10008481,Chest pain - cardiac,C0002962,Chest pain - cardiac,{'T184'}
+Chest pressure,10008486,Chest pressure,C0438716,Chest pressure,{'T184'}
+Chest tightness,10008492,Chest tightness,C0232292,Chest tightness,{'T184'}
+Chickenpox,10008505,Chickenpox,C0008049,Chickenpox,{'T047'}
+Chills,10008531,Chills,C0085593,Chills,{'T184'}
+Choke on medication,10059278,medication,C0013227,medication,{'T121'}
+Choke on medication,10059278,Choke,C1706556,Choke,{'T074'}
+Choking,10008589,Choking,C0008301,Choking,{'T046'}
+Choking sensation,10008590,Choking sensation,C0546947,Choking sensation,{'T184'}
+Cholesterol levels raised,10008663,Cholesterol,C0201950,Cholesterol,{'T059'}
+Chronic fatigue,10066564,Chronic fatigue,C0518656,Chronic fatigue,{'T033'}
+Chronic fatigue syndrome,10008874,Chronic fatigue syndrome,C0015674,Chronic fatigue syndrome,{'T047'}
+Chronic obstructive pulmonary disease,10009033,Chronic obstructive pulmonary disease,C0024117,Chronic obstructive pulmonary disease,{'T047'}
+Chronic pain,10049475,Chronic pain,C0150055,Chronic pain,{'T184'}
+Clammy,10009231,Clammy,C0392162,Clammy,{'T033'}
+Claustrophobia,10009244,Claustrophobia,C0008909,Claustrophobia,{'T048'}
+Cleft palate,10009269,palate,C0700374,palate,{'T023'}
+Clotting disorder,10064732,disorder,C0012634,disorder,{'T047'}
+Clotting disorder,10064732,Clotting,C1328723,clotting,{'T039'}
+Cloudy vision,10060817,vision,C0042789,vision,{'T040'}
+Clumsiness,10009696,Clumsiness,C0233844,Clumsiness,{'T184'}
+Coeliac disease,10009839,disease,C0012634,disease,{'T047'}
+Cognitive impairment,10009846,Cognitive impairment,C0338656,Cognitive impairment,{'T048'}
+Cold,10009851,Cold,C0009443,Cold,{'T047'}
+Cold feet,10009859,Cold feet,C0424741,Cold feet,{'T033'}
+Cold hands,10009860,Cold hands,C0424740,Cold hands,{'T033'}
+Cold hands & feet,10009861,Cold hands,C0424740,Cold hands,{'T033'}
+Cold hands & feet,10009861,feet,C0016504,feet,{'T023'}
+Cold sores,10009865,Cold,C0009443,Cold,{'T047'}
+Cold sweat,10009866,sweat,C0038984,sweat,{'T031'}
+Cold sweat,10009866,Cold,C0009443,Cold,{'T047'}
+Cold symptoms,10009867,Cold,C0009443,Cold,{'T047'}
+Cold symptoms,10009867,symptoms,C1457887,symptom,{'T184'}
+Coldness,10009871,Coldness,C0812387,coldness,{'T033'}
+Coldness of limbs,10009874,limbs,C0015385,limbs,{'T023'}
+Coldness of limbs,10009874,Coldness,C0812387,coldness,{'T033'}
+Colic,10009881,Colic,C0232488,Colic,{'T033'}
+Colitis,10009887,Colitis,C0009319,Colitis,{'T047'}
+Collapse of lung,10009913,Collapse of lung,C0004144,Collapse of lung,{'T046'}
+Colon cancer,10009944,Colon cancer,C0007102,Colon cancer,{'T191'}
+Colonic polyp,10010003,Colonic polyp,C2911243,Colonic polyps,{'T033'}
+Coma,10010071,Coma,C0009421,Coma,{'T047'}
+Comatose,10058472,Comatose,C0009421,Comatose,{'T047'}
+Common cold,10010106,Common cold,C0009443,Common cold,{'T047'}
+Concentration loss,10010251,Concentration,C0086045,Concentration,{'T041'}
+Concussion,10010254,Concussion,C0006107,Concussion,{'T037'}
+Confused,10010298,Confused,C0009676,Confused,{'T048'}
+Confusion,10010300,Confusion,C0009676,Confusion,{'T048'}
+Congestive heart failure,10010684,Congestive heart failure,C0018802,Congestive heart failure,{'T047'}
+Conjunctival bleeding,10010700,bleeding,C0019080,bleeding,{'T046'}
+Conjunctival bleeding,10010700,Conjunctival,C0009758,Conjunctiva,{'T023'}
+Conjunctivitis,10010741,Conjunctivitis,C0009763,Conjunctivitis,{'T047'}
+Constipation,10010774,Constipation,C0009806,Constipation,{'T184'}
+Constricted pupils,10010779,Constricted pupils,C0026205,Constricted pupils,{'T047'}
+Convulsion,10010904,Convulsion,C0036572,Convulsion,{'T184'}
+Corneal inflammation,10011023,Corneal inflammation,C0022568,Corneal inflammation,{'T047'}
+Coronary artery disease,10011078,Coronary artery disease,C1956346,Coronary artery disease,{'T047'}
+Cough,10011224,Cough,C0010200,Cough,{'T184'}
+Coughing,10011232,Coughing,C0010200,Coughing,{'T184'}
+Coughing blood,10011234,Coughing,C0010200,Coughing,{'T184'}
+Coughing blood,10011234,blood,C0005767,blood,{'T031'}
+Cracked lips,10049347,Cracked,C1706353,Cracked,{'T033'}
+Cracked lips,10049347,lips,C0023759,lips,{'T023'}
+Cramp,10011285,Cramp,C0026821,Cramp,{'T184'}
+Cramp in hand,10011287,Cramp,C0026821,Cramp,{'T184'}
+Cramp in hand,10011287,hand,C0018563,hand,{'T023'}
+Cramp of limb,10011292,Cramp of limb,C0010263,Cramp of limb,{'T184'}
+Crawling sensation of skin,10011326,sensation,C0542538,sensation,{'T033'}
+Crohn's disease,10011401,Crohn's disease,C0010346,Crohn's disease,{'T047'}
+Cushing's syndrome,10011652,Cushing's syndrome,C0010481,Cushing's syndrome,{'T047'}
+Cyst,10011732,Cyst,C0010709,Cyst,{'T047'}
+Cystitis,10011781,Cystitis,C0010692,Cystitis,{'T047'}
+Daydreaming,10057315,Daydreaming,C0011018,daydreaming,{'T041'}
+Daytime sleepiness,10011865,sleepiness,C0013144,sleepiness,{'T033'}
+Deafness,10011878,Deafness,C0011053,Deafness,{'T033'}
+Deafness temporary,10011899,temporary,C3245481,temporary,{'T170'}
+Deafness temporary,10011899,Deafness,C0011053,Deafness,{'T033'}
+Decreased activity,10011953,Decreased activity,C0474395,increased activity,{'T033'}
+Decreased interest,10011971,interest,C0543488,interest,{'T041'}
+Decreased interest,10011971,Decreased,C0442797,decreased,{'T033'}
+Decreased muscle tone,10011973,Decreased muscle tone,C0026827,Decreased muscle tone,{'T033'}
+Defaecation urgency,10012110,Defaecation,C0011135,defaecation,{'T040'}
+Defecation urgency,10012114,Defecation,C0011135,Defecation,{'T040'}
+Dehydration,10012174,Dehydration,C0011175,Dehydration,{'T047'}
+Delayed period,10012204,Delayed,C1545665,Delayed,{'T201'}
+Delayed period,10012204,period,C0025344,period,{'T040'}
+Deliberate self-harm,10012213,Deliberate self-harm,C0036601,Deliberate self-harm,{'T037'}
+Delirious,10012217,Delirious,C0011206,delirious,{'T048'}
+Delirium,10012218,Delirium,C0011206,Delirium,{'T048'}
+Delusion,10012239,Delusion,C0011253,Delusion,{'T048'}
+Dementia,10012267,Dementia,C0497327,Dementia,{'T048'}
+Dermatitis,10012431,Dermatitis,C0011603,Dermatitis,{'T047'}
+Detached retina,10012533,Detached retina,C0035305,Detached retina,{'T047'}
+Diabetes,10012594,Diabetes,C0011847,Diabetes,{'T047'}
+Diabetes in pregnancy,10012598,Diabetes in pregnancy,C0032969,Diabetes in pregnancy,{'T047'}
+Diabetic,10012641,Diabetic,C0241863,Diabetic,{'T033'}
+Diabetic retinopathy,10012689,Diabetic retinopathy,C0011884,Diabetic retinopathy,{'T047'}
+Diarrhea,10012727,Diarrhea,C0011991,Diarrhea,{'T184'}
+Diarrhoea,10012735,Diarrhoea,C0011991,Diarrhoea,{'T184'}
+Difficulty breathing,10012791,Difficulty breathing,C0476273,Difficulty breathing,{'T184'}
+Difficulty focusing eyes,10012792,Difficulty,C1299586,Difficulty,{'T033'}
+Difficulty focusing eyes,10012792,eyes,C0015392,eyes,{'T023'}
+Difficulty in standing,10050218,Difficulty in standing,C0241237,Difficulty in standing,{'T184'}
+Difficulty in walking,10012794,Difficulty in walking,C0311394,Difficulty in walking,{'T033'}
+Difficulty sleeping,10012804,Difficulty sleeping,C0037317,Difficulty sleeping,{'T184'}
+Difficulty thinking,10012805,Difficulty,C1299586,Difficulty,{'T033'}
+Difficulty thinking,10012805,thinking,C0039869,thinking,{'T041'}
+Dilated pupils,10013014,Dilated,C0700124,Dilated,{'T033'}
+Dilated pupils,10013014,pupils,C0034121,pupils,{'T023'}
+Diminished sense of smell,10064102,sense of smell,C0037361,sense of smell,{'T040'}
+Discomfort,10013082,Discomfort,C2364135,Discomfort,{'T184'}
+Discomfort in joints,10013088,Discomfort,C2364135,Discomfort,{'T184'}
+Disease aggravation,10013097,Disease,C0012634,Disease,{'T047'}
+Disease progression,10061818,Disease progression,C0242656,Disease progression,{'T046'}
+Disease recurrence,10061819,recurrence,C1458156,recurrence,{'T191'}
+Disease recurrence,10061819,Disease,C0012634,Disease,{'T047'}
+Disorientated,10013394,Disorientated,C0233407,disorientated,{'T184'}
+Distended abdomen,10013480,Distended abdomen,C0000731,Distended abdomen,{'T033'}
+Dizziness,10013573,Dizziness,C0012833,Dizziness,{'T184'}
+Dizziness on standing up,10013577,Dizziness,C0012833,Dizziness,{'T184'}
+Dizziness on standing up,10013577,standing,C4300452,W standing,{'T201'}
+Dizzy,10013580,Dizzy,C0012833,Dizzy,{'T184'}
+Dizzy spells,10013582,Dizzy spells,C0857087,Dizzy spells,{'T033'}
+Double vision,10013614,Double vision,C0012569,Double vision,{'T033'}
+Dreamy state,10013634,Dreamy,C0013117,Dream,{'T041'}
+Drooling,10013642,Drooling,C0013132,Drooling,{'T033'}
+Drowsiness,10013649,Drowsiness,C0013144,Drowsiness,{'T033'}
+Drug abuse,10013654,Drug abuse,C0013146,Drug abuse,{'T048'}
+Drug addiction,10013658,addiction,C0085281,addiction,{'T048'}
+Drug addiction,10013658,Drug,C0013227,Drug,{'T121'}
+Drug allergy,10013661,Drug allergy,C0013182,Drug allergy,{'T046'}
+Drug dependence,10013663,Drug dependence,C1510472,Drug dependence,{'T048'}
+Drug effect decreased,10013678,decreased,C0442797,decreased,{'T033'}
+Drug effect decreased,10013678,effect,C1518681,effect,{'T033'}
+Drug effect decreased,10013678,Drug,C0013227,Drug,{'T121'}
+Drug effect delayed,10068303,effect,C1518681,effect,{'T033'}
+Drug effect delayed,10068303,Drug,C0013227,Drug,{'T121'}
+Drug effect incomplete,10013682,effect,C1518681,effect,{'T033'}
+Drug effect incomplete,10013682,Drug,C0013227,Drug,{'T121'}
+Drug effect increased,10013683,effect increased,C0595938,effect increased,{'T046'}
+Drug effect increased,10013683,Drug,C0013227,Drug,{'T121'}
+Drug ineffective,10013709,Drug,C0013227,Drug,{'T121'}
+Drug interaction,10013710,Drug interaction,C0687133,Drug interaction,{'T046'}
+Drug withdrawal syndrome,10013754,Drug withdrawal syndrome,C0152128,Drug withdrawal syndrome,{'T047'}
+Dry cough,10013773,Dry cough,C0850149,Dry cough,{'T184'}
+Dry eyes,10013778,Dry eyes,C0022575,Dry eyes,{'T047'}
+Dry heaves,10052104,heaves,C3714496,heaves,{'T047'}
+Dry heaves,10052104,Dry,C0151908,Dry,{'T184'}
+Dry lips,10013780,Dry lips,C0424489,Dry lips,{'T033'}
+Dry mouth,10013781,Dry mouth,C0043352,Dry mouth,{'T033'}
+Dry skin,10013786,Dry skin,C0151908,Dry skin,{'T184'}
+Dry throat,10013789,throat,C0031354,throat,{'T023'}
+Dry throat,10013789,Dry,C0151908,Dry,{'T184'}
+Duodenal ulcer,10013836,Duodenal ulcer,C0013295,Duodenal ulcer,{'T047'}
+Dysentery,10051402,Dysentery,C0013369,Dysentery,{'T047'}
+Dyspepsia,10013946,Dyspepsia,C0013395,Dyspepsia,{'T184'}
+Ear ache,10013992,ache,C0234238,ache,{'T184'}
+Ear ache,10013992,Ear,C0013443,Ear,{'T023'}
+Ear buzzing,10013996,Ear,C0013443,Ear,{'T023'}
+Ear congestion,10052136,congestion,C0700148,congestion,{'T046'}
+Ear congestion,10052136,Ear,C0013443,Ear,{'T023'}
+Ear discharge,10014003,Ear discharge,C0155540,Ear discharge,{'T033'}
+Ear discomfort,10052137,discomfort,C2364135,discomfort,{'T184'}
+Ear discomfort,10052137,Ear,C0013443,Ear,{'T023'}
+Ear feels clogged,10014008,feels,C1527305,feels,{'T041'}
+Ear feels clogged,10014008,Ear,C0013443,Ear,{'T023'}
+Ear infection,10014011,infection,C0009450,infection,{'T047'}
+Ear infection,10014011,Ear,C0013443,Ear,{'T023'}
+Ear pain,10014020,Ear pain,C0013456,Ear pain,{'T184'}
+Ear swelling,10014025,swelling,C0038999,swelling,{'T033'}
+Ear swelling,10014025,Ear,C0013443,Ear,{'T023'}
+Eating disorder,10014062,disorder,C0012634,disorder,{'T047'}
+Eating disorder,10014062,Eating,C0013470,Eating,{'T040'}
+Eczema,10014184,Eczema,C0013595,Eczema,{'T047'}
+Electric shock sensation,10014358,Electric shock,C0013781,Electric shock,{'T037'}
+Electric shock sensation,10014358,sensation,C0542538,sensation,{'T033'}
+Embolism,10061169,Embolism,C0013922,Embolism,{'T046'}
+Embolism lung,10050071,Embolism,C0013922,Embolism,{'T046'}
+Embolism lung,10050071,lung,C0024109,lung,{'T023'}
+Emotional distress,10049119,Emotional distress,C0700361,Emotional distress,{'T033'}
+Emotional instability,10014554,Emotional instability,C0085633,Emotional instability,{'T048'}
+Emotional problems,10014558,Emotional problems,C0677660,Emotional problems,{'T048'}
+Emphysema,10014561,Emphysema,C0013990,Emphysema,{'T046'}
+Endometrial cancer,10014733,Endometrial cancer,C0007103,Endometrial cancer,{'T191'}
+Energy decreased,10057841,decreased,C0442797,decreased,{'T033'}
+Energy decreased,10057841,Energy,C4330907,Energy,{'T170'}
+Energy increased,10048779,Energy,C4330907,Energy,{'T170'}
+Energy increased,10048779,increased,C0151576,increased ck,{'T033'}
+Enlarged prostate,10049240,Enlarged,C1293134,Enlarged,{'T061'}
+Enlarged prostate,10049240,prostate,C0033572,prostate,{'T023'}
+Epilepsy,10015037,Epilepsy,C0014544,Epilepsy,{'T047'}
+Epileptic fit,10015051,fit,C0036572,fit,{'T184'}
+Epileptic fit,10015051,Epileptic,C0014544,epileptic,{'T047'}
+Erectile dysfunction,10061461,Erectile dysfunction,C0242350,Erectile dysfunction,{'T047'}
+Esophageal ulcer,10015451,Esophageal ulcer,C0151970,Esophageal ulcer,{'T047'}
+Euphoric mood,10015535,Euphoric mood,C0235146,Euphoric mood,{'T041'}
+Exacerbation of disease,10015576,Exacerbation,C4086268,Exacerbation,{'T033'}
+Exacerbation of disease,10015576,disease,C0012634,disease,{'T047'}
+Excess sweating,10015590,sweating,C0038990,sweating,{'T033'}
+Excessive eye blinking,10065166,eye,C0015392,eye,{'T023'}
+Exercise tolerance decreased,10051301,Exercise tolerance,C0162521,Exercise tolerance,{'T201'}
+Exercise tolerance decreased,10051301,decreased,C0442797,decreased,{'T033'}
+Exhaustion,10015667,Exhaustion,C0392674,Exhaustion,{'T184'}
+Eye bleeding,10071804,bleeding,C0019080,bleeding,{'T046'}
+Eye bleeding,10071804,Eye,C0015392,Eye,{'T023'}
+Eye discharge,10015915,discharge,C0012621,discharge,{'T031'}
+Eye discharge,10015915,Eye,C0015392,Eye,{'T023'}
+Eye infection,10015929,Eye infection,C0015403,Eye infection,{'T047'}
+Eye inflammation,10015943,Eye inflammation,C4551678,Eye inflammation,{'T046'}
+Eye injury,10061128,injury,C3263723,injury,{'T037'}
+Eye injury,10061128,Eye,C0015392,Eye,{'T023'}
+Eye irritation,10015946,Eye irritation,C0235266,Eye irritation,{'T033'}
+Eye movement disorder,10061129,Eye movement disorder,C0028850,Eye movement disorder,{'T047'}
+Eye pain,10015958,Eye pain,C0151827,Eye pain,{'T184'}
+Eye red,10015962,Eye,C0015392,Eye,{'T023'}
+Eye swelling,10015967,swelling,C0038999,swelling,{'T033'}
+Eye swelling,10015967,Eye,C0015392,Eye,{'T023'}
+Eyelid pain,10059208,Eyelid,C0015426,Eyelid,{'T023'}
+Eyelid pain,10059208,pain,C0030193,pain,{'T184'}
+Eyelid twitching,10064261,Eyelid twitching,C0005747,Eyelid twitching,{'T047'}
+Eyelids itchy sensation of,10016001,sensation,C0542538,sensation,{'T033'}
+Eyelids itchy sensation of,10016001,Eyelids,C0015426,Eyelids,{'T023'}
+Eyelids itchy sensation of,10016001,itchy,C0033774,itchy,{'T033'}
+Eyes red,10016009,Eyes,C0015392,Eyes,{'T023'}
+Eyes rolling,10016010,Eyes,C0015392,Eyes,{'T023'}
+Eyes stinging,10016012,stinging,C0677500,stinging,{'T184'}
+Eyes stinging,10016012,Eyes,C0015392,Eyes,{'T023'}
+Face injury,10050392,injury,C3263723,injury,{'T037'}
+Face injury,10050392,Face,C0015450,Face,{'T029'}
+Facial droop,10016044,Facial droop,C0427055,Facial droop,{'T184'}
+Facial pain,10016059,Facial pain,C0015468,Facial pain,{'T184'}
+Facial puffiness,10016063,Facial puffiness,C0542571,Facial puffiness,{'T033'}
+Facial swelling,10016065,Facial swelling,C0151602,Facial swelling,{'T033'}
+Faecal incontinence,10016092,incontinence,C0021167,incontinence,{'T047'}
+Faeces discoloured,10016100,discoloured,C0332572,discoloured,{'T033'}
+Faeces pale,10016102,pale,C0030232,pale,{'T033'}
+Faint,10016167,Faint,C0039070,Faint,{'T184'}
+Fainting,10016169,Fainting,C0039070,Fainting,{'T184'}
+Fall,10016173,Fall,C0085639,Fall,{'T033'}
+Fatigue,10016256,Fatigue,C0015672,Fatigue,{'T184'}
+Fear,10016275,Fear,C0015726,Fear,{'T041'}
+Fecal incontinence,10016296,Fecal incontinence,C0015732,Fecal incontinence,{'T047'}
+Feces discolored,10016307,discolored,C0332572,discolored,{'T033'}
+Feces discolored,10016307,Feces,C0015733,Feces,{'T031'}
+Feces pale,10016311,Feces,C0015733,Feces,{'T031'}
+Feces pale,10016311,pale,C0030232,pale,{'T033'}
+Feces soft,10074865,Feces,C0015733,Feces,{'T031'}
+Feeling anxious,10016323,Feeling,C1527305,Feeling,{'T041'}
+Feeling anxious,10016323,anxious,C0003467,anxious,{'T048'}
+Feeling bad,10016324,Feeling,C1527305,Feeling,{'T041'}
+Feeling cold,10016326,Feeling,C1527305,Feeling,{'T041'}
+Feeling cold,10016326,cold,C0009443,cold,{'T047'}
+Feeling dazed,10050462,Feeling,C1527305,Feeling,{'T041'}
+Feeling dazed,10050462,dazed,C0009676,dazed,{'T048'}
+Feeling detached,10016328,detached,C1561504,detached,{'T170'}
+Feeling detached,10016328,Feeling,C1527305,Feeling,{'T041'}
+Feeling down,10016329,Feeling,C1527305,Feeling,{'T041'}
+Feeling drunk,10016330,Feeling,C1527305,Feeling,{'T041'}
+Feeling drunk,10016330,drunk,C0001969,drunk,{'T048'}
+Feeling high,10016333,Feeling,C1527305,Feeling,{'T041'}
+Feeling hot,10016334,Feeling,C1527305,Feeling,{'T041'}
+Feeling hot and cold,10016335,Feeling,C1527305,Feeling,{'T041'}
+Feeling hot and cold,10016335,cold,C0009443,cold,{'T047'}
+Feeling hungry,10016336,Feeling,C1527305,Feeling,{'T041'}
+Feeling hungry,10016336,hungry,C0020175,hungry,{'T184'}
+Feeling irritated,10016337,Feeling,C1527305,Feeling,{'T041'}
+Feeling jittery,10016338,Feeling jittery,C0549209,Feeling jittery,{'T184'}
+Feeling miserable,10016342,miserable,C0344315,miserable,{'T048'}
+Feeling miserable,10016342,Feeling,C1527305,Feeling,{'T041'}
+Feeling of despair,10016344,Feeling,C1527305,Feeling,{'T041'}
+Feeling of despair,10016344,despair,C0233488,despair,{'T184'}
+Feeling of fullness in abdomen,10016348,Feeling,C1527305,Feeling,{'T041'}
+Feeling of fullness in abdomen,10016348,abdomen,C0000726,abdomen,{'T029'}
+Feeling of fullness in abdomen,10016348,fullness,C0541911,Dullness,{'T033'}
+Feeling of relaxation,10016352,Feeling,C1527305,Feeling,{'T041'}
+Feeling of total lack of energy,10016356,lack of energy,C0015672,lack of energy,{'T184'}
+Feeling of total lack of energy,10016356,Feeling,C1527305,Feeling,{'T041'}
+Feeling of warmth,10016357,Feeling,C1527305,Feeling,{'T041'}
+Feeling of warmth,10016357,warmth,C0392197,warmth,{'T039'}
+Feeling queasy,10016361,Feeling,C1527305,Feeling,{'T041'}
+Feeling queasy,10016361,queasy,C0027497,queasy,{'T184'}
+Feeling sad,10016364,Feeling sad,C2706102,Feeling sad,{'T201'}
+Feeling sick,10016365,Feeling,C1527305,Feeling,{'T041'}
+Feeling strange,10016366,Feeling strange,C0235129,Feeling strange,{'T184'}
+Feeling unwell,10016370,Feeling,C1527305,Feeling,{'T041'}
+Feelings of worthlessness,10016374,Feelings,C1527305,Feelings,{'T041'}
+Feelings of worthlessness,10016374,worthlessness,C1821293,Worthlessness,{'T033'}
+Feels awful,10016375,Feels,C4553821,Feels,{'T041'}
+Feels poorly,10016377,Feels,C4553821,Feels,{'T041'}
+Felt faint,10016379,faint,C0039070,faint,{'T184'}
+Felt ill,10016383,ill,C0231218,ill,{'T184'}
+Female infertility,10016398,Female infertility,C0021361,Female infertility,{'T046'}
+Fever,10016558,Fever,C0015967,Fever,{'T184'}
+Fever chills,10016559,chills,C0085593,chills,{'T184'}
+Fever chills,10016559,Fever,C0015967,Fever,{'T184'}
+Feverish,10073718,Feverish,C0015967,feverish,{'T184'}
+Fibromyalgia,10048439,Fibromyalgia,C0016053,Fibromyalgia,{'T047'}
+Fibula fracture,10016667,fracture,C0016658,fracture,{'T037'}
+Fibula fracture,10016667,Fibula,C0016068,Fibula,{'T023'}
+Finger deformity,10061156,Finger,C0016129,Finger,{'T023'}
+Fingers stiffness,10016695,stiffness,C0427008,stiffness,{'T184'}
+Fingers stiffness,10016695,Fingers,C0016129,Fingers,{'T023'}
+Flaking skin,10016749,Flaking,C1880783,Flaking,{'T033'}
+Flank pain,10016750,Flank pain,C0016199,Flank pain,{'T184'}
+Flashing lights,10016757,Flashing lights,C0085635,Flashing lights,{'T047'}
+Flatulence,10016766,Flatulence,C0016204,Flatulence,{'T184'}
+Floaters in eye,10016779,Floaters,C0016242,Floaters,{'T033'}
+Floaters in eye,10016779,eye,C0015392,eye,{'T023'}
+Flu,10016790,Flu,C0021400,Flu,{'T047'}
+Flu symptoms,10052545,Flu,C0021400,Flu,{'T047'}
+Flu symptoms,10052545,symptoms,C1457887,symptom,{'T184'}
+Flu-like illness,10016796,illness,C0221423,illness,{'T184'}
+Flu-like illness,10016796,like,C0870814,like,{'T041'}
+Flu-like illness,10016796,Flu,C0021400,Flu,{'T047'}
+Flu-like symptoms,10016797,like,C0870814,like,{'T041'}
+Flu-like symptoms,10016797,Flu,C0021400,Flu,{'T047'}
+Flu-like symptoms,10016797,symptoms,C1457887,symptom,{'T184'}
+Fluid intake reduced,10056291,Fluid intake,C0429791,Fluid intake,{'T201'}
+Fluid retention,10016807,Fluid retention,C0268000,Fluid retention,{'T046'}
+Flushed,10016821,Flushed,C0016382,Flushed,{'T184'}
+Flushed face,10016823,Flushed,C0016382,Flushed,{'T184'}
+Flushed face,10016823,face,C0015450,face,{'T029'}
+Foggy feeling in head,10016876,feeling,C1527305,feeling,{'T041'}
+Foggy feeling in head,10016876,head,C0018670,head,{'T029'}
+Food allergy,10016946,Food allergy,C0016470,Food allergy,{'T046'}
+Food poisoning,10016952,Food poisoning,C0016479,Food poisoning,{'T037'}
+Foot callus,10016963,Foot,C0016504,Foot,{'T023'}
+Foot cramps,10016964,cramps,C0026821,cramps,{'T184'}
+Foot cramps,10016964,Foot,C0016504,Foot,{'T023'}
+Foot deformity,10061159,Foot,C0016504,Foot,{'T023'}
+Foot discomfort,10054267,discomfort,C2364135,discomfort,{'T184'}
+Foot discomfort,10054267,Foot,C0016504,Foot,{'T023'}
+Foot fracture,10016970,fracture,C0016658,fracture,{'T037'}
+Foot fracture,10016970,Foot,C0016504,Foot,{'T023'}
+Foot infection,10051053,infection,C0009450,infection,{'T047'}
+Foot infection,10051053,Foot,C0016504,Foot,{'T023'}
+Foreign body sensation in eyes,10051116,Foreign body,C0016542,Foreign body,{'T037'}
+Foreign body sensation in eyes,10051116,sensation,C0542538,sensation,{'T033'}
+Foreign body sensation in eyes,10051116,eyes,C0015392,eyes,{'T023'}
+Forgetfulness,10017060,Forgetfulness,C0542476,Forgetfulness,{'T184'}
+Fracture,10017076,Fracture,C0016658,Fracture,{'T037'}
+Frequent bowel movements,10017367,bowel movements,C0011135,bowel movements,{'T040'}
+Frequent headaches,10052403,Frequent headaches,C0948396,Frequent headaches,{'T184'}
+Frozen shoulder,10017391,Frozen shoulder,C0311223,Frozen shoulder,{'T047'}
+Frustration,10064862,Frustration,C0016770,Frustration,{'T041'}
+Fungal infection,10017533,infection,C0009450,infection,{'T047'}
+Fuzzy head,10017566,Fuzzy head,C0541974,Fuzzy head,{'T033'}
+Gagging,10017572,Gagging,C0016927,Gagging,{'T033'}
+Gallbladder inflammation,10017633,Gallbladder inflammation,C0008325,Gallbladder inflammation,{'T047'}
+Gallbladder injury,10017642,Gallbladder,C0016976,Gallbladder,{'T023'}
+Gallbladder injury,10017642,injury,C3263723,injury,{'T037'}
+Gallbladder pain,10017638,Gallbladder pain,C0151824,Gallbladder pain,{'T047'}
+Gallstones,10017650,Gallstones,C0008350,Gallstones,{'T047'}
+Gangrene,10017711,Gangrene,C0017086,Gangrene,{'T047'}
+Gas,10017735,Gas,C0596601,Gas,{'T184'}
+Gasping,10017745,Gasping,C2315245,Gasping,{'T033'}
+Gastric bleeding,10017757,bleeding,C0019080,bleeding,{'T046'}
+Gastric bleeding,10017757,Gastric,C0038351,Gastric,{'T023'}
+Gastric cancer,10017758,Gastric cancer,C0024623,Gastric cancer,{'T191'}
+Gastric polyps,10017817,Gastric polyps,C0236048,Gastric polyps,{'T047'}
+Gastric ulcer,10017822,Gastric ulcer,C0038358,Gastric ulcer,{'T047'}
+Gastritis,10017853,Gastritis,C0017152,Gastritis,{'T047'}
+Gastroenteritis,10017888,Gastroenteritis,C0017160,Gastroenteritis,{'T047'}
+Gastroesophageal reflux,10017924,Gastroesophageal reflux,C0017168,Gastroesophageal reflux,{'T047'}
+Gastroesophageal reflux disease,10066874,Gastroesophageal reflux disease,C0017168,Gastroesophageal reflux disease,{'T047'}
+Gastrointestinal bleeding,10017936,Gastrointestinal bleeding,C0017181,Gastrointestinal bleeding,{'T046'}
+Gastrointestinal discomfort,10054209,Gastrointestinal,C2707256,Gastrointestinal,{'T201'}
+Gastrointestinal discomfort,10054209,discomfort,C2364135,discomfort,{'T184'}
+Gastrointestinal infection,10017964,Gastrointestinal infection,C4082764,Gastrointestinal infection,{'T047'}
+Gastrointestinal inflammation,10064147,Gastrointestinal inflammation,C1535950,Gastrointestinal inflammation,{'T047'}
+Gastrointestinal pain,10017999,Gastrointestinal pain,C0687713,Gastrointestinal pain,{'T184'}
+Gastrointestinal ulcer,10061459,Gastrointestinal,C2707256,Gastrointestinal,{'T201'}
+Gastrointestinal ulcer,10061459,ulcer,C0041582,ulcer,{'T046'}
+Gastrooesophageal reflux,10017884,reflux,C0232483,reflux,{'T046'}
+Gastrooesophageal reflux,10017884,Gastrooesophageal,C0744316,Gastroesophageal,{'T029'}
+Gastrooesophageal reflux disease,10017885,disease,C0012634,disease,{'T047'}
+Gastrooesophageal reflux disease,10017885,reflux,C0232483,reflux,{'T046'}
+Gastrooesophageal reflux disease,10017885,Gastrooesophageal,C0744316,Gastroesophageal,{'T029'}
+General body pain,10048971,body pain,C0741585,body pain,{'T184'}
+General body pain,10048971,General,C3812897,General,{'T058'}
+Genital bleeding,10071812,bleeding,C0019080,bleeding,{'T046'}
+Genital bleeding,10071812,Genital,C0017420,Genital,{'T023'}
+Genital burning sensation,10054815,burning sensation,C0085624,burning sensation,{'T184'}
+Genital burning sensation,10054815,Genital,C0017420,Genital,{'T023'}
+Genital herpes,10018150,Genital herpes,C0019342,Genital herpes,{'T047'}
+Genital itching,10018154,Genital,C0017420,Genital,{'T023'}
+Genital itching,10018154,itching,C0033774,itching,{'T033'}
+Genital rash,10018175,Genital,C0017420,Genital,{'T023'}
+Genital rash,10018175,rash,C0015230,rash,{'T184'}
+Giddiness,10018263,Giddiness,C0392701,Giddiness,{'T184'}
+Gingivitis,10018292,Gingivitis,C0017574,Gingivitis,{'T047'}
+Glaucoma,10018304,Glaucoma,C0017601,Glaucoma,{'T047'}
+Glucose increased,10018421,Glucose,C0017725,Glucose,{'T109'}
+Glucose increased,10018421,Glucose,C0017725,Glucose,{'T121'}
+Glucose increased,10018421,Glucose,C0017725,Glucose,{'T123'}
+Glucose increased,10018421,increased,C0151576,increased ck,{'T033'}
+Glucose low,10018423,Glucose low,C0860801,Glucose low,{'T033'}
+Gluten intolerance,10018460,Gluten intolerance,C4317045,Gluten intolerance,{'T047'}
+Goiter,10018491,Goiter,C0018021,Goiter,{'T046'}
+Goitre,10018498,Goitre,C0018021,Goitre,{'T046'}
+Gout,10018627,Gout,C0018099,Gout,{'T047'}
+Greenish stool,10018719,stool,C0015733,stool,{'T031'}
+Gritty eyes,10018728,eyes,C0015392,eyes,{'T023'}
+Groin pain,10018735,Groin pain,C0239783,Groin pain,{'T184'}
+Gum bleeding,10018771,Gum bleeding,C0017565,Gum bleeding,{'T046'}
+Gum discoloration,10055524,discoloration,C0332572,discoloration,{'T033'}
+Gum discolouration,10018773,discolouration,C0332572,discolouration,{'T033'}
+Gum infection,10018784,Gum infection,C0744403,Gum infection,{'T047'}
+Gum pain,10018787,pain,C0030193,pain,{'T184'}
+Gum recession,10065160,Gum recession,C0017572,Gum recession,{'T047'}
+Gum swelling,10018789,swelling,C0038999,swelling,{'T033'}
+Haemorrhoidal bleeding,10053553,bleeding,C0019080,bleeding,{'T046'}
+Haemorrhoidal bleeding,10053553,Haemorrhoidal,C0034896,Hemorrhoidal,{'T023'}
+Haemorrhoids,10019022,Haemorrhoids,C0019112,haemorrhoids,{'T047'}
+Hair discoloration,10019034,discoloration,C0332572,discoloration,{'T033'}
+Hair discoloration,10019034,Hair,C0018494,Hair,{'T023'}
+Hair discolouration,10019036,discolouration,C0332572,discolouration,{'T033'}
+Hair discolouration,10019036,Hair,C0018494,Hair,{'T023'}
+Hair growth increased,10053821,growth,C0018270,growth,{'T040'}
+Hair growth increased,10053821,Hair,C0018494,Hair,{'T023'}
+Hair growth increased,10053821,increased,C0151576,increased ck,{'T033'}
+Hair loss,10019045,Hair loss,C0002170,Hair loss,{'T047'}
+Hair texture abnormal,10019049,Hair texture abnormal,C4554666,Hair texture abnormal,{'T033'}
+Hair thinning,10019050,Hair,C0018494,Hair,{'T023'}
+Hairiness,10019052,Hairiness,C0019572,hairiness,{'T033'}
+Hallucinating,10019062,Hallucinating,C0018524,hallucinating,{'T048'}
+Hallucinations,10019077,Hallucinations,C0018524,Hallucinations,{'T048'}
+Hand fracture,10019114,fracture,C0016658,fracture,{'T037'}
+Hand fracture,10019114,Hand,C0018563,Hand,{'T023'}
+Hand rash,10019117,Hand,C0018563,Hand,{'T023'}
+Hand rash,10019117,rash,C0015230,rash,{'T184'}
+Hangover,10019133,Hangover,C0221100,Hangover,{'T184'}
+Hay fever,10019170,Hay fever,C0018621,Hay fever,{'T047'}
+Head discomfort,10019194,discomfort,C2364135,discomfort,{'T184'}
+Head discomfort,10019194,Head,C0018670,Head,{'T029'}
+Head injury,10019196,Head injury,C0018674,Head injury,{'T037'}
+Head pain,10019198,Head,C0018670,Head,{'T029'}
+Head pain,10019198,pain,C0030193,pain,{'T184'}
+Head pressure,10019200,pressure,C0460139,pressure,{'T033'}
+Head pressure,10019200,Head,C0018670,Head,{'T029'}
+Head spinning,10019203,Head,C0018670,Head,{'T029'}
+Head spinning,10019203,spinning,C0021885,pinning,{'T061'}
+Head throbbing,10019204,Head,C0018670,Head,{'T029'}
+Head tightness,10019205,Head,C0018670,Head,{'T029'}
+Headache,10019211,Headache,C0018681,Headache,{'T184'}
+Hearing decreased,10019241,decreased,C0442797,decreased,{'T033'}
+Hearing decreased,10019241,Hearing,C0018767,Hearing,{'T039'}
+Hearing impaired,10019245,Hearing impaired,C1384666,Hearing impaired,{'T047'}
+Hearing loss,10019246,Hearing loss,C1384666,Hearing loss,{'T047'}
+Hearing loss bilateral,10057844,Hearing loss,C1384666,Hearing loss,{'T047'}
+Heart attack,10019250,Heart attack,C0027051,Heart attack,{'T047'}
+Heart enlarged,10019278,Heart,C0018787,Heart,{'T023'}
+Heart enlarged,10019278,enlarged,C1293134,Enlarged,{'T061'}
+Heart failure,10019279,Heart failure,C0018801,Heart failure,{'T047'}
+Heart fluttering,10019286,fluttering,C0016385,fluttering,{'T046'}
+Heart fluttering,10019286,Heart,C0018787,Heart,{'T023'}
+Heart pounding,10019297,Heart,C0018787,Heart,{'T023'}
+Heart pounding,10019297,pounding,C1293120,sounding,{'T059'}
+Heart racing,10066996,Heart racing,C0039231,Heart racing,{'T033'}
+Heart rate high,10019302,Heart rate,C0018810,Heart rate,{'T201'}
+Heart rate irregular,10019304,Heart rate,C0018810,Heart rate,{'T201'}
+Heart rate low,10019305,Heart rate,C0018810,Heart rate,{'T201'}
+Heart rate low,10019305,low,C1550472,low,{'T170'}
+Heart valve disorders,10019316,Heart valve disorders,C0018824,Heart valve disorders,{'T047'}
+Heartbeats skipped,10019325,skipped,C0560435,skipped,{'T033'}
+Heartburn,10019326,Heartburn,C0018834,Heartburn,{'T184'}
+Heat rash,10019343,Heat rash,C0162423,Heat rash,{'T047'}
+Heat stroke,10019345,Heat stroke,C0018843,Heat stroke,{'T037'}
+Heaviness in limbs,10019349,limbs,C0015385,limbs,{'T023'}
+Heaviness of head,10049121,head,C0018670,head,{'T029'}
+Heavy periods,10019360,Heavy periods,C0025323,Heavy periods,{'T046'}
+Hemorrhoidal bleeding,10019609,Hemorrhoidal,C0034896,Hemorrhoidal,{'T023'}
+Hemorrhoidal bleeding,10019609,bleeding,C0019080,bleeding,{'T046'}
+Hemorrhoids,10019611,Hemorrhoids,C0019112,Hemorrhoids,{'T047'}
+Hepatic cancer,10073069,Hepatic,C0205054,Hepatic,{'T029'}
+Hepatic cancer,10073069,cancer,C0006826,cancer,{'T191'}
+Hepatitis,10019717,Hepatitis,C0019158,Hepatitis,{'T047'}
+Hepatitis B,10019731,Hepatitis B,C0019163,Hepatitis B,{'T047'}
+Hepatitis C,10019744,Hepatitis C,C0019196,Hepatitis C,{'T047'}
+Herpes virus infection,10019973,virus infection,C0042769,virus infection,{'T047'}
+Herpes virus infection,10019973,Herpes,C0019340,Herpes,{'T047'}
+Hiatus hernia,10020028,Hiatus hernia,C3489393,Hiatus hernia,{'T047'}
+Hiccups,10020039,Hiccups,C0019521,Hiccups,{'T033'}
+High temperature,10020083,High,C4321237,High,{'T033'}
+Hip fracture,10020100,fracture,C0016658,fracture,{'T037'}
+Hives,10020197,Hives,C0042109,Hives,{'T047'}
+Hoarse voice,10020200,Hoarse voice,C0019825,Hoarse voice,{'T184'}
+Hoarseness,10020201,Hoarseness,C0019825,Hoarseness,{'T184'}
+Hostility,10020400,Hostility,C0020039,Hostility,{'T041'}
+Hot flashes,10020407,Hot flashes,C0600142,Hot flashes,{'T184'}
+Hot flush,10060800,flush,C0016382,flush,{'T184'}
+Hot flushes,10020408,Hot flushes,C0600142,Hot flushes,{'T184'}
+Humerus fracture,10020462,fracture,C0016658,fracture,{'T037'}
+Humerus fracture,10020462,Humerus,C0020164,Humerus,{'T023'}
+Hunger,10020466,Hunger,C0020175,Hunger,{'T184'}
+Hunger abnormal,10020467,abnormal,C0205161,abnormal,{'T033'}
+Hunger abnormal,10020467,Hunger,C0020175,Hunger,{'T184'}
+Hyperactive,10020554,Hyperactive,C0424295,hyperactive,{'T048'}
+Hyperactivity,10020558,Hyperactivity,C0424295,Hyperactivity,{'T048'}
+Hyperglycaemia,10020635,Hyperglycaemia,C0020456,hyperglycaemia,{'T047'}
+Hyperglycemia,10020639,Hyperglycemia,C0020456,Hyperglycemia,{'T047'}
+Hypertension,10020772,Hypertension,C0020538,Hypertension,{'T047'}
+Hypoglycaemia,10020993,Hypoglycaemia,C0020615,Hypoglycaemia,{'T047'}
+Hypoglycemia,10021005,Hypoglycemia,C0020615,Hypoglycemia,{'T047'}
+Hypotension,10021097,Hypotension,C0020649,Hypotension,{'T033'}
+Hypothermia,10021113,Hypothermia,C0020672,Hypothermia,{'T033'}
+Hypothyroidism,10021114,Hypothyroidism,C0020676,Hypothyroidism,{'T047'}
+Hysteria,10021154,Hysteria,C0020701,Hysteria,{'T048'}
+Impacted wax,10021513,Impacted,C0040456,Impacted,{'T033'}
+Impaired liver function,10021520,Impaired liver function,C0086565,Impaired liver function,{'T033'}
+Impatience,10049976,Impatience,C0919568,impatience,{'T048'}
+Implant site infection,10059650,site infection,C0578491,site infection,{'T047'}
+Implant site infection,10059650,Implant,C0021102,Implant,{'T074'}
+Implant site pain,10063782,Implant,C0021102,Implant,{'T074'}
+Implant site pain,10063782,pain,C0030193,pain,{'T184'}
+Implant site swelling,10063867,swelling,C0038999,swelling,{'T033'}
+Implant site swelling,10063867,Implant,C0021102,Implant,{'T074'}
+Impotence,10021550,Impotence,C0242350,Impotence,{'T047'}
+Impulsive behaviour,10021567,Impulsive,C0021125,Impulsive,{'T048'}
+Impulsive behaviour,10021567,behaviour,C0677505,behaviours,{'T033'}
+Inability to lose weight,10049116,lose weight,C1262477,lose weight,{'T033'}
+Inability to orgasm,10021574,orgasm,C0029260,orgasm,{'T040'}
+Incision site infection,10065616,site infection,C0578491,site infection,{'T047'}
+Incision site infection,10065616,Incision,C0184898,Incision,{'T061'}
+Incision site pain,10058043,Incision,C0184898,Incision,{'T061'}
+Incision site pain,10058043,pain,C0030193,pain,{'T184'}
+Incoherent,10021630,Incoherent,C0542044,Incoherent,{'T033'}
+Incontinence,10021639,Incontinence,C0021167,Incontinence,{'T047'}
+Increased appetite,10021654,Increased appetite,C0232461,Increased appetite,{'T033'}
+Increased muscle tone,10021670,Increased muscle tone,C0026826,Increased muscle tone,{'T033'}
+Increased salivation,10021677,salivation,C0037036,salivation,{'T047'}
+Increased salivation,10021677,Increased,C1295665,Increased T4,{'T033'}
+Increased sexual arousal,10021679,sexual arousal,C0233972,sexual arousal,{'T039'}
+Increased sexual arousal,10021679,Increased,C1295665,Increased T4,{'T033'}
+Increased skin sensitivity,10021681,Increased skin sensitivity,C0520901,Increased skin sensitivity,{'T184'}
+Increased stool frequency,10048456,stool,C0015733,stool,{'T031'}
+Increased stool frequency,10048456,frequency,C2347273,Frequency,{'T170'}
+Increased stool frequency,10048456,Increased,C1295665,Increased T4,{'T033'}
+Increased tendency to bruise,10021688,Increased tendency to bruise,C0423798,Increased tendency to bruise,{'T033'}
+Indifference,10021703,Indifference,C0085632,Indifference,{'T048'}
+Indigestion,10021706,Indigestion,C0013395,Indigestion,{'T184'}
+Infantile spitting up,10063338,spitting,C0232515,spitting,{'T039'}
+Infarction,10061216,Infarction,C0021308,Infarction,{'T046'}
+Infected cyst,10058015,Infected,C0439663,Infected,{'T033'}
+Infected cyst,10058015,cyst,C0010709,cyst,{'T047'}
+Infected skin ulcer,10021784,skin ulcer,C0037299,skin ulcer,{'T047'}
+Infected skin ulcer,10021784,Infected,C0439663,Infected,{'T033'}
+Infection,10021789,Infection,C0009450,Infection,{'T047'}
+Infertility,10021926,Infertility,C0021359,Infertility,{'T046'}
+Inflammation,10061218,Inflammation,C0021368,Inflammation,{'T046'}
+Inflammation lips,10049345,Inflammation,C0021368,Inflammation,{'T046'}
+Inflammation lips,10049345,lips,C0023759,lips,{'T023'}
+Inflammation of eyelids,10021962,Inflammation of eyelids,C0005741,Inflammation of eyelids,{'T047'}
+Inflammatory bowel disease,10021972,Inflammatory bowel disease,C0021390,Inflammatory bowel disease,{'T047'}
+Influenza,10022000,Influenza,C0021400,Influenza,{'T047'}
+Influenza like illness,10022004,Influenza,C0021400,Influenza,{'T047'}
+Influenza like illness,10022004,illness,C0221423,illness,{'T184'}
+Infrequent bowel movements,10059158,Infrequent bowel movements,C0401149,Infrequent bowel movements,{'T184'}
+Infusion site infection,10054997,site infection,C0578491,site infection,{'T047'}
+Infusion site infection,10054997,Infusion,C0574032,Infusion,{'T061'}
+Infusion site pain,10053483,Infusion,C0574032,Infusion,{'T061'}
+Infusion site pain,10053483,pain,C0030193,pain,{'T184'}
+Infusion site swelling,10053505,Infusion,C0574032,Infusion,{'T061'}
+Infusion site swelling,10053505,swelling,C0038999,swelling,{'T033'}
+Inguinal hernia,10022016,Inguinal,C0018246,Inguinal,{'T029'}
+Injection site abscess,10022044,Injection,C1533685,Injection,{'T061'}
+Injection site abscess,10022044,abscess,C0000833,abscess,{'T047'}
+Injection site bleeding,10022049,Injection,C1533685,Injection,{'T061'}
+Injection site bleeding,10022049,bleeding,C0019080,bleeding,{'T046'}
+Injection site blisters,10022051,Injection,C1533685,Injection,{'T061'}
+Injection site blisters,10022051,blisters,C0344311,blisters,{'T033'}
+Injection site bruising,10022052,Injection site bruising,C0521508,Injection site bruising,{'T046'}
+Injection site burning,10022053,Injection,C1533685,Injection,{'T061'}
+Injection site burning,10022053,burning,C0085624,burning,{'T184'}
+Injection site discomfort,10054266,discomfort,C2364135,discomfort,{'T184'}
+Injection site discomfort,10054266,Injection,C1533685,Injection,{'T061'}
+Injection site infection,10022076,site infection,C0578491,site infection,{'T047'}
+Injection site infection,10022076,Injection,C1533685,Injection,{'T061'}
+Injection site inflammation,10022078,inflammation,C0021368,inflammation,{'T046'}
+Injection site inflammation,10022078,Injection,C1533685,Injection,{'T061'}
+Injection site injury,10066083,Injection,C1533685,Injection,{'T061'}
+Injection site injury,10066083,injury,C3263723,injury,{'T037'}
+Injection site itching,10022080,Injection,C1533685,Injection,{'T061'}
+Injection site itching,10022080,itching,C0033774,itching,{'T033'}
+Injection site lump,10071292,Injection,C1533685,Injection,{'T061'}
+Injection site lump,10071292,lump,C0577559,lump,{'T033'}
+Injection site nodule,10057880,Injection,C1533685,Injection,{'T061'}
+Injection site nodule,10057880,nodule,C0228505,nodules,{'T023'}
+Injection site pain,10022086,Injection,C1533685,Injection,{'T061'}
+Injection site pain,10022086,pain,C0030193,pain,{'T184'}
+Injection site rash,10022094,Injection,C1533685,Injection,{'T061'}
+Injection site rash,10022094,rash,C0015230,rash,{'T184'}
+Injection site redness,10022098,Injection,C1533685,Injection,{'T061'}
+Injection site redness,10022098,redness,C0332575,redness,{'T033'}
+Injection site swelling,10053425,Injection,C1533685,Injection,{'T061'}
+Injection site swelling,10053425,swelling,C0038999,swelling,{'T033'}
+Injection site warmth,10022112,Injection,C1533685,Injection,{'T061'}
+Injection site warmth,10022112,warmth,C0392197,warmth,{'T039'}
+Injury to kidney,10022221,Injury to kidney,C0160420,Injury to kidney,{'T037'}
+Insomnia,10022437,Insomnia,C0917801,Insomnia,{'T184'}
+Internal bleeding,10075196,Internal bleeding,C1390214,Internal bleeding,{'T046'}
+Intestinal bleeding,10071824,Intestinal bleeding,C0267373,Intestinal bleeding,{'T047'}
+Intestinal obstruction,10022687,Intestinal obstruction,C0021843,Intestinal obstruction,{'T047'}
+Intestinal perforation,10022694,Intestinal perforation,C0021845,Intestinal perforation,{'T047'}
+Intestinal polyp,10048616,Intestinal,C0021853,Intestinal,{'T023'}
+Intraocular pressure increased,10022806,pressure,C0460139,pressure,{'T033'}
+Intraocular pressure increased,10022806,increased,C0151576,increased ck,{'T033'}
+Iron deficiency,10022970,Iron deficiency,C0240066,Iron deficiency,{'T047'}
+Irregular periods,10022993,Irregular periods,C0156404,Irregular periods,{'T033'}
+Irritability,10022998,Irritability,C0022107,Irritability,{'T033'}
+Irritable,10023000,Irritable,C0022107,Irritable,{'T033'}
+Irritable bowel,10023002,Irritable,C0022107,Irritable,{'T033'}
+Irritable bowel,10023002,bowel,C0021853,bowel,{'T023'}
+Irritable bowel syndrome,10023003,Irritable bowel syndrome,C0022104,Irritable bowel syndrome,{'T047'}
+Irritation lips,10049342,Irritation,C1706307,Irritation,{'T033'}
+Irritation lips,10049342,lips,C0023759,lips,{'T023'}
+Itching,10023084,Itching,C0033774,Itching,{'T033'}
+Itching all over,10023086,Itching,C0033774,Itching,{'T033'}
+Itching both hands,10023087,Itching,C0033774,Itching,{'T033'}
+Itching both hands,10023087,hands,C0018563,hands,{'T023'}
+Itchy eyes,10023090,eyes,C0015392,eyes,{'T023'}
+Itchy legs,10023091,legs,C1140621,legs,{'T023'}
+Itchy rash,10023092,rash,C0015230,rash,{'T184'}
+Itchy scalp,10023093,scalp,C0036270,scalp,{'T023'}
+Itchy skin,10023094,Itchy skin,C0033774,Itchy skin,{'T033'}
+Jaundice,10023126,Jaundice,C0022346,Jaundice,{'T184'}
+Jaw fracture,10023149,fracture,C0016658,fracture,{'T037'}
+Jaw fracture,10023149,Jaw,C0022359,Jaw,{'T023'}
+Jaw spasm,10023158,spasm,C0037763,spasm,{'T184'}
+Jaw spasm,10023158,Jaw,C0022359,Jaw,{'T023'}
+Jaw stiffness,10023161,stiffness,C0427008,stiffness,{'T184'}
+Jaw stiffness,10023161,Jaw,C0022359,Jaw,{'T023'}
+Jitteriness,10023191,Jitteriness,C0549209,Jitteriness,{'T184'}
+Joint ache,10023197,ache,C0234238,ache,{'T184'}
+Joint dislocation,10023204,Joint dislocation,C0012691,Joint dislocation,{'T037'}
+Joint inflammation,10023217,Joint inflammation,C0574941,Joint inflammation,{'T033'}
+Joint injury,10060820,injury,C3263723,injury,{'T037'}
+Joint instability,10064931,Joint instability,C0022410,Joint instability,{'T033'}
+Joint lock,10061258,Joint lock,C0547000,joint lock,{'T033'}
+Joint pain,10023222,Joint pain,C0003862,Joint pain,{'T184'}
+Joint stiffness,10023230,Joint stiffness,C0162298,Joint stiffness,{'T184'}
+Joint swelling,10023232,Joint swelling,C0152031,Joint swelling,{'T033'}
+Joint warmth,10054106,warmth,C0392197,warmth,{'T039'}
+Judgement impaired,10023236,Judgement,C0022423,Judgement,{'T041'}
+Kidney cancer,10023400,Kidney cancer,C1378703,Kidney cancer,{'T191'}
+Kidney failure,10023418,Kidney,C0022646,Kidney,{'T023'}
+Kidney infection,10023424,Kidney infection,C0034186,Kidney infection,{'T047'}
+Kidney pain,10023432,Kidney pain,C0558489,Kidney pain,{'T184'}
+Kidney stone,10023436,Kidney,C0022646,Kidney,{'T023'}
+Kidney stone,10023436,stone,C0456824,stoned,{'T037'}
+Kidney stone attack,10072214,Kidney,C0022646,Kidney,{'T023'}
+Kidney stone attack,10072214,attack,C1304680,attack,{'T033'}
+Kidney stone attack,10072214,stone,C0456824,stoned,{'T037'}
+Kidney stones,10023437,Kidney stones,C0022650,Kidney stones,{'T047'}
+Knee arthritis,10067624,arthritis,C0003864,arthritis,{'T047'}
+Knee arthritis,10067624,Knee,C0022742,Knee,{'T023'}
+Knee pain,10023477,Knee pain,C0231749,Knee pain,{'T184'}
+Lack of coordination,10023609,Lack of coordination,C0520966,Lack of coordination,{'T033'}
+Lack of drug effect,10023610,drug effect,C0728867,drug effect,{'T046'}
+Lack of motivation,10023614,Lack of motivation,C0456814,Lack of motivation,{'T033'}
+Lactose intolerance,10023681,Lactose intolerance,C0022951,Lactose intolerance,{'T047'}
+Laryngitis,10023874,Laryngitis,C0001327,Laryngitis,{'T047'}
+Leg cramps,10024125,Leg cramps,C0023218,Leg cramps,{'T184'}
+Leg discomfort,10054246,discomfort,C2364135,discomfort,{'T184'}
+Leg discomfort,10054246,Leg,C0023216,Leg,{'T023'}
+Leg fracture,10024128,fracture,C0016658,fracture,{'T037'}
+Leg fracture,10024128,Leg,C0023216,Leg,{'T023'}
+Leg infection,10073287,infection,C0009450,infection,{'T047'}
+Leg infection,10073287,Leg,C0023216,Leg,{'T023'}
+Leg ulcer,10068310,ulcer,C0041582,ulcer,{'T046'}
+Leg ulcer,10068310,Leg,C0023216,Leg,{'T023'}
+Lethargic,10024262,Lethargic,C0023380,Lethargic,{'T184'}
+Lethargy,10024264,Lethargy,C0023380,Lethargy,{'T184'}
+Libido decreased,10024419,Libido decreased,C0011124,Libido decreased,{'T033'}
+Libido increased,10024421,Libido increased,C0021177,Libido increased,{'T184'}
+Light periods,10024462,periods,C0025344,periods,{'T040'}
+Light periods,10024462,Light,C3842678,Light,{'T033'}
+Light sensitivity to eye,10065946,Light,C3842678,Light,{'T033'}
+Light sensitivity to eye,10065946,eye,C0015392,eye,{'T023'}
+Light sensitivity to eye,10065946,sensitivity,C0237677,insensitivity,{'T033'}
+Light-headed,10024490,Light,C3842678,Light,{'T033'}
+Lightheadedness,10024492,Lightheadedness,C0012833,Lightheadedness,{'T184'}
+Limb discomfort,10061224,discomfort,C2364135,discomfort,{'T184'}
+Limb discomfort,10061224,Limb,C0015385,Limb,{'T023'}
+Limb injury,10061225,injury,C3263723,injury,{'T037'}
+Limb injury,10061225,Limb,C0015385,Limb,{'T023'}
+Limbs stiffness,10024509,stiffness,C0427008,stiffness,{'T184'}
+Limbs stiffness,10024509,Limbs,C0015385,Limbs,{'T023'}
+Limping,10058726,Limping,C1456822,Limping,{'T033'}
+Lip blister,10049307,blister,C0344311,blister,{'T033'}
+Lip blister,10049307,Lip,C0023759,Lip,{'T023'}
+Lip dry,10024552,Lip,C0023759,Lip,{'T023'}
+Lip pain,10024561,Lip pain,C0267028,Lip pain,{'T184'}
+Lip redness,10024564,redness,C0332575,redness,{'T033'}
+Lip redness,10024564,Lip,C0023759,Lip,{'T023'}
+Lip soreness,10024569,soreness,C0234233,soreness,{'T184'}
+Lip soreness,10024569,Lip,C0023759,Lip,{'T023'}
+Lip swelling,10024570,Lip swelling,C0240211,Lip swelling,{'T184'}
+Lipoma,10024612,Lipoma,C0023798,Lipoma,{'T191'}
+Listless,10024642,Listless,C0023380,Listless,{'T184'}
+Listlessness,10024643,Listlessness,C0085632,listlessness,{'T048'}
+Liver enlargement,10024676,enlargement,C0020564,enlargement,{'T046'}
+Liver enlargement,10024676,Liver,C0023884,Liver,{'T023'}
+Liver failure,10024678,Liver failure,C0085605,Liver failure,{'T047'}
+Liver pain,10024703,Liver pain,C0522067,Liver pain,{'T184'}
+Lockjaw,10024793,Lockjaw,C0343495,Lockjaw,{'T033'}
+Loose bowels,10024838,bowels,C0021853,bowels,{'T023'}
+Loose stools,10024840,Loose stools,C0011991,Loose stools,{'T184'}
+Loose tooth,10065612,Loose tooth,C0600028,Loose tooth,{'T033'}
+Loss of all pleasure,10024852,pleasure,C0679105,pleasure,{'T041'}
+Loss of confidence,10024854,confidence,C0237529,confidence,{'T041'}
+Loss of consciousness,10024855,Loss of consciousness,C0041657,Loss of consciousness,{'T033'}
+Loss of control of legs,10024860,legs,C1140621,legs,{'T023'}
+Loss of energy,10024862,energy,C0424589,energy,{'T033'}
+Loss of interest,10024867,Loss of interest,C0424091,Loss of interest,{'T033'}
+Loss of libido,10024870,libido,C0023618,libido,{'T041'}
+Loss of sensation,10024874,sensation,C0542538,sensation,{'T033'}
+Loss of smell,10024877,smell,C0037361,smell,{'T040'}
+Loss of taste,10024878,Loss of taste,C2364111,loss of taste,{'T184'}
+Loss of vision,10024881,Loss of vision,C3665346,Loss of vision,{'T184'}
+Loss of voice,10024882,Loss of voice,C0003564,Loss of voice,{'T184'}
+Loss of weight,10024883,Loss of weight,C1262477,Loss of weight,{'T033'}
+Lost consciousness,10024885,consciousness,C0009791,consciousness,{'T033'}
+Lost weight,10024886,weight,C1305866,weight,{'T058'}
+Low back pain,10024891,Low back pain,C0024031,Low back pain,{'T184'}
+Low birth weight baby,10067508,Low birth weight,C0024032,Low birth weight,{'T033'}
+Low blood pressure,10024895,Low blood pressure,C0020649,Low blood pressure,{'T033'}
+Lower abdominal pain,10024940,abdominal pain,C0000737,abdominal pain,{'T184'}
+Lower abdominal pain,10024940,Lower,C1548802,Lower,{'T029'}
+Lower gastrointestinal bleeding,10071838,gastrointestinal bleeding,C0017181,gastrointestinal bleeding,{'T046'}
+Lower gastrointestinal bleeding,10071838,Lower,C1548802,Lower,{'T029'}
+Lower respiratory tract infection,10024968,Lower respiratory tract infection,C0149725,Lower respiratory tract infection,{'T047'}
+Lumbar pain,10024998,Lumbar,C0024090,Lumbar,{'T029'}
+Lumbar pain,10024998,pain,C0030193,pain,{'T184'}
+Lump feeling in throat,10051196,feeling,C1527305,feeling,{'T041'}
+Lump feeling in throat,10051196,throat,C0031354,throat,{'T023'}
+Lung cancer,10025044,Lung cancer,C0684249,Lung cancer,{'T191'}
+Lung congestion,10025079,congestion,C0700148,congestion,{'T046'}
+Lung congestion,10025079,Lung,C0024109,Lung,{'T023'}
+Lung infection,10061229,Lung infection,C0876973,Lung infection,{'T047'}
+Lyme disease,10025169,Lyme disease,C0024198,Lyme disease,{'T047'}
+Lymph node pain,10025182,Lymph node pain,C0578050,Lymph node pain,{'T184'}
+Lymph nodes enlarged,10025186,Lymph nodes,C0024204,Lymph nodes,{'T023'}
+Lymph nodes enlarged,10025186,enlarged,C1293134,Enlarged,{'T061'}
+Lymphoma,10025310,Lymphoma,C0024299,Lymphoma,{'T191'}
+Malabsorption,10025476,Malabsorption,C0024523,Malabsorption,{'T047'}
+Malnutrition,10061273,Malnutrition,C0162429,Malnutrition,{'T047'}
+Mania,10026749,Mania,C0338831,Mania,{'T048'}
+Manic,10026752,Manic,C0338831,Manic,{'T048'}
+Measles,10027011,Measles,C0025007,Measles,{'T047'}
+Medication stuck in throat,10064940,Medication,C0013227,Medication,{'T121'}
+Medication stuck in throat,10064940,throat,C0031354,throat,{'T023'}
+Memory impairment,10027175,Memory impairment,C0233794,Memory impairment,{'T048'}
+Memory loss,10027176,Memory loss,C0751295,Memory loss,{'T184'}
+Meniere's disease,10027183,Meniere's disease,C0025281,Meniere's disease,{'T047'}
+Meningioma,10027191,Meningioma,C0025286,Meningioma,{'T191'}
+Meningitis,10027199,Meningitis,C0025289,Meningitis,{'T047'}
+Menopausal symptoms,10027304,Menopausal,C0025320,Menopausal,{'T039'}
+Menopausal symptoms,10027304,symptoms,C1457887,symptom,{'T184'}
+Menstrual cramps,10027324,Menstrual cramps,C0013390,Menstrual cramps,{'T047'}
+Mental disorder,10061284,disorder,C0012634,disorder,{'T047'}
+Mental disorder,10061284,Mental,C2328206,Mentale,{'T029'}
+Mental dullness,10027371,dullness,C0541911,dullness,{'T033'}
+Mental dullness,10027371,Mental,C2328206,Mentale,{'T029'}
+Mental impairment,10027374,Mental impairment,C0683322,Mental impairment,{'T048'}
+Metastases to bone,10027452,Metastases,C0027627,Metastases,{'T191'}
+Metastases to bone,10027452,bone,C0262950,bone,{'T023'}
+Metastases to liver,10027457,Metastases,C0027627,Metastases,{'T191'}
+Metastases to liver,10027457,liver,C0023884,liver,{'T023'}
+Metastases to spine,10027468,Metastases,C0027627,Metastases,{'T191'}
+Metastases to spine,10027468,spine,C0037949,spine,{'T023'}
+Middle ear infection,10027585,Middle ear infection,C0029882,Middle ear infection,{'T047'}
+Migraine,10027599,Migraine,C0149931,Migraine,{'T047'}
+Migraine headache,10027602,Migraine headache,C0149931,Migraine headache,{'T047'}
+Migraine with aura,10027607,Migraine with aura,C0154723,Migraine with aura,{'T047'}
+Miscarriage,10027649,Miscarriage,C0000786,Miscarriage,{'T046'}
+Mitral valve disease,10061532,Mitral valve disease,C0026265,Mitral valve disease,{'T047'}
+Mitral valve incompetence,10027727,Mitral valve,C0026264,Mitral valve,{'T023'}
+Mitral valve incompetence,10027727,incompetence,C0231189,incompetence,{'T046'}
+Mitral valve prolapse,10027730,Mitral valve prolapse,C0026267,Mitral valve prolapse,{'T047'}
+Mobility decreased,10048334,decreased,C0442797,decreased,{'T033'}
+Mobility decreased,10048334,Mobility,C0080078,Mobility,{'T201'}
+Mole of skin,10027806,Mole,C0027960,Mole,{'T191'}
+Mood change,10027941,Mood,C0026516,Mood,{'T041'}
+Mood swings,10027951,Mood swings,C0085633,Mood swings,{'T048'}
+Moon face,10027953,Moon face,C0332601,Moon face,{'T184'}
+Morbid thoughts,10050464,thoughts,C0039869,Thoughts,{'T041'}
+Mouth abscess,10028015,abscess,C0000833,abscess,{'T047'}
+Mouth abscess,10028015,Mouth,C0230028,Mouth,{'T029'}
+Mouth bleeding,10071840,bleeding,C0019080,bleeding,{'T046'}
+Mouth bleeding,10071840,Mouth,C0230028,Mouth,{'T029'}
+Mouth irritation,10028026,Mouth,C0230028,Mouth,{'T029'}
+Mouth irritation,10028026,irritation,C1706307,Irritation,{'T033'}
+Mouth pain,10028030,Mouth pain,C0221776,Mouth pain,{'T184'}
+Mouth swelling,10075203,swelling,C0038999,swelling,{'T033'}
+Mouth swelling,10075203,Mouth,C0230028,Mouth,{'T029'}
+Mouth ulcer,10028033,Mouth ulcer,C0149745,Mouth ulcer,{'T047'}
+Mouth ulceration,10028034,ulceration,C0041582,ulceration,{'T046'}
+Mouth ulceration,10028034,Mouth,C0230028,Mouth,{'T029'}
+Movements abnormal,10028039,Movements,C0026649,Movements,{'T040'}
+Movements abnormal,10028039,abnormal,C0205161,abnormal,{'T033'}
+Movements involuntary,10028041,Movements involuntary,C0427086,Movements involuntary,{'T184'}
+Movements reduced,10028045,Movements,C0026649,Movements,{'T040'}
+Mucosal dryness,10028111,Mucosal,C1561514,Mucosa,{'T170'}
+Mucosal inflammation,10028116,inflammation,C0021368,inflammation,{'T046'}
+Mucosal inflammation,10028116,Mucosal,C1561514,Mucosa,{'T170'}
+Mucous stools,10028140,stools,C0015733,stools,{'T031'}
+Mucus stools,10064843,stools,C0015733,stools,{'T031'}
+Mucus stools,10064843,Mucus,C0026727,Mucus,{'T031'}
+Multi-organ failure,10028154,Multi-organ failure,C0026766,Multi-organ failure,{'T046'}
+Multiple allergies,10028164,allergies,C0020517,allergies,{'T046'}
+Multiple fractures,10028200,Multiple fractures,C0016655,Multiple fractures,{'T037'}
+Multiple injuries,10028224,injuries,C3263723,injuries,{'T037'}
+Multiple sclerosis,10028245,Multiple sclerosis,C0026769,Multiple sclerosis,{'T047'}
+Muscle ache,10028287,Muscle ache,C0231528,Muscle ache,{'T184'}
+Muscle cramp,10028294,Muscle cramp,C4552638,Muscle cramp,{'T033'}
+Muscle discomfort,10028299,discomfort,C2364135,discomfort,{'T184'}
+Muscle discomfort,10028299,Muscle,C4083049,Muscle,{'T023'}
+Muscle fatigue,10049565,Muscle fatigue,C0242979,Muscle fatigue,{'T033'}
+Muscle inflammation,10028313,Muscle inflammation,C0027121,Muscle inflammation,{'T047'}
+Muscle injury,10028314,Muscle,C4083049,Muscle,{'T023'}
+Muscle injury,10028314,injury,C3263723,injury,{'T037'}
+Muscle pain,10028322,Muscle pain,C0231528,Muscle pain,{'T184'}
+Muscle rigidity,10028330,Muscle rigidity,C0026837,Muscle rigidity,{'T184'}
+Muscle rupture,10028331,rupture,C3203359,rupture,{'T037'}
+Muscle rupture,10028331,Muscle,C4083049,Muscle,{'T023'}
+Muscle soreness,10028332,soreness,C0234233,soreness,{'T184'}
+Muscle soreness,10028332,Muscle,C4083049,Muscle,{'T023'}
+Muscle spasm,10028333,Muscle spasm,C0037763,Muscle spasm,{'T184'}
+Muscle stiffness,10028339,Muscle stiffness,C0221170,Muscle stiffness,{'T184'}
+Muscle strain,10050031,Muscle strain,C0080194,Muscle strain,{'T037'}
+Muscle tightness,10049816,Muscle tightness,C0877322,Muscle tightness,{'T047'}
+Muscle twitching,10028347,twitching,C0231530,twitching,{'T033'}
+Muscle twitching,10028347,Muscle,C4083049,Muscle,{'T023'}
+Muscle wasting,10028348,Muscle wasting,C0026846,Muscle wasting,{'T046'}
+Muscle weakness,10028350,Muscle weakness,C0151786,Muscle weakness,{'T184'}
+Muscle weakness lower limb,10065776,Muscle weakness lower limb,C1836296,Muscle weakness lower limb,{'T033'}
+Muscular weakness,10028372,Muscular weakness,C0151786,Muscular weakness,{'T184'}
+Musculoskeletal discomfort,10053156,Musculoskeletal,C2707260,Musculoskeletal,{'T201'}
+Musculoskeletal discomfort,10053156,discomfort,C2364135,discomfort,{'T184'}
+Myocardial infarction,10028596,Myocardial infarction,C0027051,Myocardial infarction,{'T047'}
+Nail discoloration,10028691,Nail discoloration,C0221345,Nail discoloration,{'T033'}
+Nail discolouration,10028692,discolouration,C0332572,discolouration,{'T033'}
+Nail discolouration,10028692,Nail,C0027342,Nail,{'T023'}
+Narcolepsy,10028713,Narcolepsy,C0027404,Narcolepsy,{'T047'}
+Nasal congestion,10028735,Nasal congestion,C0027424,Nasal congestion,{'T184'}
+Nasal dryness,10028740,Nasal,C0028429,Nasal,{'T023'}
+Nasal mucus increased,10056364,Nasal mucus,C0225392,Nasal mucus,{'T031'}
+Nasal mucus increased,10056364,increased,C0151576,increased ck,{'T033'}
+Nasal stuffiness,10028771,Nasal stuffiness,C0027424,Nasal stuffiness,{'T184'}
+Nausea,10028813,Nausea,C0027497,Nausea,{'T184'}
+Nauseated,10028822,Nauseated,C0027497,nauseated,{'T184'}
+Nauseous,10028823,Nauseous,C0027497,nauseous,{'T184'}
+Near fainting,10066202,fainting,C0039070,fainting,{'T184'}
+Neck cramps,10028828,Neck cramps,C0795701,Neck cramps,{'T184'}
+Neck discomfort,10028831,discomfort,C2364135,discomfort,{'T184'}
+Neck discomfort,10028831,Neck,C0027530,Neck,{'T029'}
+Neck injury,10062211,injury,C3263723,injury,{'T037'}
+Neck injury,10062211,Neck,C0027530,Neck,{'T029'}
+Neck mass,10049146,Neck,C0027530,Neck,{'T029'}
+Neck mass,10049146,mass,C0577559,mass,{'T033'}
+Neck pain,10028836,Neck pain,C0007859,Neck pain,{'T184'}
+Neck swelling,10049568,swelling,C0038999,swelling,{'T033'}
+Neck swelling,10049568,Neck,C0027530,Neck,{'T029'}
+Negative thoughts,10058672,Negative,C0205160,Negative,{'T033'}
+Negative thoughts,10058672,thoughts,C0039869,Thoughts,{'T041'}
+Nerve injury,10052897,injury,C3263723,injury,{'T037'}
+Nerve injury,10052897,Nerve,C0027740,Nerve,{'T023'}
+Nerve pain,10029181,Nerve,C0027740,Nerve,{'T023'}
+Nerve pain,10029181,pain,C0030193,pain,{'T184'}
+Nervous,10029197,Nervous,C0027769,Nervous,{'T184'}
+Nervousness,10029216,Nervousness,C0027769,Nervousness,{'T184'}
+Neuralgia,10029223,Neuralgia,C0027796,Neuralgia,{'T184'}
+Nicotine addiction,10056478,Nicotine addiction,C0028043,Nicotine addiction,{'T048'}
+Nicotine dependence,10057852,dependence,C0439857,dependence,{'T048'}
+Nicotine dependence,10057852,Nicotine,C0202431,Nicotine,{'T059'}
+Night sweats,10029410,Night sweats,C0028081,Night sweats,{'T184'}
+Night terrors,10029411,Night terrors,C0037320,Night terrors,{'T048'}
+Nightmare,10029412,Nightmare,C0028084,Nightmare,{'T184'}
+Nightmares,10029414,Nightmares,C0028084,Nightmares,{'T184'}
+Nipple pain,10029421,Nipple pain,C0240515,Nipple pain,{'T184'}
+No drug effect,10029437,drug effect,C0728867,drug effect,{'T046'}
+Nocturnal leg muscle cramps,10029456,leg muscle cramps,C0023218,leg muscle cramps,{'T184'}
+Nodule on extremity,10050690,extremity,C0015385,extremity,{'T023'}
+Non-cardiac chest pain,10062501,Non-cardiac chest pain,C0476281,Non-cardiac chest pain,{'T184'}
+Non-Hodgkin's lymphoma,10029547,Hodgkin's lymphoma,C0019829,Hodgkin's lymphoma,{'T191'}
+Nose bleed,10029792,bleed,C0019080,bleed,{'T046'}
+Nose bleed,10029792,Nose,C0028429,Nose,{'T023'}
+Numbness,10029829,Numbness,C0020580,Numbness,{'T033'}
+Numbness in face,10029836,Numbness,C0020580,Numbness,{'T033'}
+Numbness in face,10029836,face,C0015450,face,{'T029'}
+Numbness in feet,10049800,Numbness,C0020580,Numbness,{'T033'}
+Numbness in feet,10049800,feet,C0016504,feet,{'T023'}
+Numbness in fingers,10029837,Numbness,C0020580,Numbness,{'T033'}
+Numbness in fingers,10029837,fingers,C0016129,fingers,{'T023'}
+Numbness in hand,10049681,Numbness,C0020580,Numbness,{'T033'}
+Numbness in hand,10049681,hand,C0018563,hand,{'T023'}
+Numbness in leg,10029839,Numbness,C0020580,Numbness,{'T033'}
+Numbness in leg,10029839,leg,C1140621,leg,{'T023'}
+Numbness in toes,10049799,Numbness,C0020580,Numbness,{'T033'}
+Numbness in toes,10049799,toes,C0040357,toes,{'T023'}
+Numbness lips,10049354,Numbness,C0020580,Numbness,{'T033'}
+Numbness lips,10049354,lips,C0023759,lips,{'T023'}
+Numbness of limbs,10029847,Numbness,C0020580,Numbness,{'T033'}
+Numbness of limbs,10029847,limbs,C0015385,limbs,{'T023'}
+Numbness of tongue,10029852,Numbness,C0020580,Numbness,{'T033'}
+Numbness of tongue,10029852,tongue,C0040408,tongue,{'T023'}
+Obesity,10029883,Obesity,C0028754,Obesity,{'T047'}
+Obsessive thoughts,10029897,Obsessive thoughts,C0679048,Obsessive thoughts,{'T048'}
+Obsessive-compulsive disorder,10029898,Obsessive-compulsive disorder,C0028768,Obsessive-compulsive disorder,{'T048'}
+Oesophageal ulcer,10030201,ulcer,C0041582,ulcer,{'T046'}
+Oesophagitis,10030216,Oesophagitis,C0014868,Oesophagitis,{'T047'}
+Oily hair,10072816,hair,C0018494,hair,{'T023'}
+Open wound,10058834,Open wound,C0332798,Open wound,{'T037'}
+Oral discomfort,10030973,discomfort,C2364135,discomfort,{'T184'}
+Oral fungal infection,10061324,fungal infection,C0026946,fungal infection,{'T047'}
+Oral infection,10048685,infection,C0009450,infection,{'T047'}
+Oral thrush,10031026,Oral thrush,C0006849,Oral thrush,{'T047'}
+Osteoarthritis,10031161,Osteoarthritis,C0029408,Osteoarthritis,{'T047'}
+Ovarian cancer,10033128,Ovarian cancer,C1140680,Ovarian cancer,{'T191'}
+Ovarian cyst,10033132,Ovarian cyst,C0029927,Ovarian cyst,{'T047'}
+Ovarian pain,10033275,Ovarian,C0205065,Ovarian,{'T023'}
+Ovarian pain,10033275,pain,C0030193,pain,{'T184'}
+Overdose,10033295,Overdose,C0029944,Overdose,{'T037'}
+Overweight,10033307,Overweight,C0497406,Overweight,{'T033'}
+Pain,10033371,Pain,C0030193,Pain,{'T184'}
+Pain burning,10033386,burning,C0085624,burning,{'T184'}
+Pain burning,10033386,Pain,C0030193,Pain,{'T184'}
+Pain in ankle,10033420,ankle,C0003086,ankle,{'T029'}
+Pain in ankle,10033420,Pain,C0030193,Pain,{'T184'}
+Pain in arm,10033421,Pain,C0030193,Pain,{'T184'}
+Pain in arm,10033421,arm,C0446516,arm,{'T029'}
+Pain in calf,10033422,Pain,C0030193,Pain,{'T184'}
+Pain in calf,10033422,calf,C0230445,calf,{'T029'}
+Pain in elbow,10033424,elbow,C0013769,elbow,{'T029'}
+Pain in elbow,10033424,Pain,C0030193,Pain,{'T184'}
+Pain in face,10033427,Pain,C0030193,Pain,{'T184'}
+Pain in face,10033427,face,C0015450,face,{'T029'}
+Pain in fingers,10033428,fingers,C0016129,fingers,{'T023'}
+Pain in fingers,10033428,Pain,C0030193,Pain,{'T184'}
+Pain in foot,10033429,Pain,C0030193,Pain,{'T184'}
+Pain in foot,10033429,foot,C0016504,foot,{'T023'}
+Pain in hand,10033430,Pain,C0030193,Pain,{'T184'}
+Pain in hand,10033430,hand,C0018563,hand,{'T023'}
+Pain in heel,10033431,Pain,C0030193,Pain,{'T184'}
+Pain in heel,10033431,heel,C0018870,heel,{'T023'}
+Pain in hip,10033432,Pain,C0030193,Pain,{'T184'}
+Pain in hip,10033432,hip,C0019552,hip,{'T023'}
+Pain in jaw,10033433,Pain,C0030193,Pain,{'T184'}
+Pain in jaw,10033433,jaw,C0022359,jaw,{'T023'}
+Pain in leg,10033446,Pain,C0030193,Pain,{'T184'}
+Pain in leg,10033446,leg,C1140621,leg,{'T023'}
+Pain in limb,10033447,Pain in limb,C0030196,Pain in limb,{'T184'}
+Pain in spine,10052060,spine,C0037949,spine,{'T023'}
+Pain in spine,10052060,Pain,C0030193,Pain,{'T184'}
+Pain in thigh,10048973,thigh,C0039866,thigh,{'T029'}
+Pain in thigh,10048973,Pain,C0030193,Pain,{'T184'}
+Pain in toe,10033452,Pain,C0030193,Pain,{'T184'}
+Pain in toe,10033452,toe,C0040357,toe,{'T023'}
+Pain of skin,10033474,Pain of skin,C0241136,Pain of skin,{'T184'}
+Painful defaecation,10055664,defaecation,C0011135,defaecation,{'T040'}
+Painful defaecation,10055664,Painful,C0030193,Painful,{'T184'}
+Painful defecation,10054833,defecation,C0011135,defecation,{'T040'}
+Painful defecation,10054833,Painful,C0030193,Painful,{'T184'}
+Painful erection,10056303,Painful erection,C0233973,Painful erection,{'T184'}
+Painful intercourse,10033510,Painful intercourse,C0423742,Painful intercourse,{'T033'}
+Painful periods,10033514,Painful,C0030193,Painful,{'T184'}
+Painful periods,10033514,periods,C0025344,periods,{'T040'}
+Painful urination,10033521,Painful urination,C0013428,Painful urination,{'T184'}
+Pains in legs,10033522,legs,C1140621,legs,{'T023'}
+Pale skin,10033533,Pale skin,C0241137,Pale skin,{'T033'}
+Palpitations,10033557,Palpitations,C0030252,Palpitations,{'T033'}
+Pancreas cancer,10033575,Pancreas cancer,C0346647,Pancreas cancer,{'T191'}
+Pancreatitis,10033645,Pancreatitis,C0030305,Pancreatitis,{'T047'}
+Panic attack,10033664,Panic attack,C0086769,Panic attack,{'T048'}
+Panic attacks,10033665,Panic attacks,C0086769,Panic attacks,{'T048'}
+Paralysis,10033799,Paralysis,C0522224,Paralysis,{'T033'}
+Paralysis one side of body,10033826,Paralysis,C0522224,Paralysis,{'T033'}
+Paranoia,10033864,Paranoia,C1456784,Paranoia,{'T048'}
+Parkinson's disease,10061536,Parkinson's disease,C0030567,Parkinson's disease,{'T047'}
+Partial seizures,10061334,Partial seizures,C0751495,Partial seizures,{'T047'}
+Passed out,10034100,Passed,C2828386,Passed,{'T033'}
+Peeling mouth,10049316,Peeling,C0520893,Peeling,{'T046'}
+Peeling of hands & feet on soles,10034219,Peeling,C0520893,Peeling,{'T046'}
+Peeling of hands & feet on soles,10034219,hands,C0018563,hands,{'T023'}
+Peeling of hands & feet on soles,10034219,soles,C0230463,soles,{'T029'}
+Peeling of hands & feet on soles,10034219,feet,C0016504,feet,{'T023'}
+Pelvic fracture,10061161,Pelvic fracture,C0149531,Pelvic fracture,{'T037'}
+Pelvic pain,10034263,Pelvic pain,C0030794,Pelvic pain,{'T184'}
+Penile pain,10034310,Penile pain,C0497481,Penile pain,{'T184'}
+Penile swelling,10034319,Penile swelling,C1282799,Penile swelling,{'T184'}
+Peptic ulcer,10034341,Peptic ulcer,C0030920,Peptic ulcer,{'T047'}
+Period pains,10034532,Period,C0025344,Period,{'T040'}
+Period pains,10034532,pains,C0030193,pains,{'T184'}
+Periodontal disease,10034536,Periodontal disease,C0031090,Periodontal disease,{'T047'}
+Persistent vomiting,10034716,Persistent vomiting,C0152165,Persistent vomiting,{'T184'}
+Personality change,10034719,Personality change,C0240735,Personality change,{'T048'}
+Perspiration excessive,10034734,Perspiration,C0038984,Perspiration,{'T031'}
+Pharmaceutical product complaint,10051327,Pharmaceutical,C1553890,Pharmaceutical,{'T058'}
+Pharmaceutical product complaint,10051327,complaint,C0277786,complaint,{'T033'}
+Phlebitis,10034879,Phlebitis,C0031542,Phlebitis,{'T046'}
+Phlegm,10059004,Phlegm,C0225378,Phlegm,{'T031'}
+Photophobia,10034960,Photophobia,C0085636,Photophobia,{'T184'}
+Pimples,10035049,Pimples,C0542346,Pimples,{'T046'}
+Pin-point pupils,10035051,pupils,C0034121,pupils,{'T023'}
+Pin-point pupils,10035051,Pin,C1168556,Pin,{'T074'}
+Pins and needles,10035067,Pins and needles,C0423572,Pins and needles,{'T184'}
+Plantar fasciitis,10035155,Plantar fasciitis,C0149756,Plantar fasciitis,{'T047'}
+Pneumonia,10035664,Pneumonia,C0032285,Pneumonia,{'T047'}
+Poisoning,10061355,Poisoning,C0032343,Poisoning,{'T037'}
+Poor concentration,10036149,Poor concentration,C0233417,Poor concentration,{'T033'}
+Poor peripheral circulation,10036155,Poor peripheral circulation,C0520547,Poor peripheral circulation,{'T046'}
+Poor sleep,10036160,sleep,C0037313,sleep,{'T040'}
+Poor sleep,10036160,Poor,C1547310,Poor,{'T170'}
+Poor vision,10036163,Poor vision,C0042798,Poor vision,{'T047'}
+Post-traumatic stress disorder,10036316,Post-traumatic stress disorder,C0038436,Post-traumatic stress disorder,{'T048'}
+Postmenopausal bleeding,10036399,Postmenopausal bleeding,C0032776,Postmenopausal bleeding,{'T046'}
+Pounding in head,10036464,head,C0018670,head,{'T029'}
+Pounding in head,10036464,Pounding,C1293120,sounding,{'T059'}
+Pre-eclampsia,10036485,Pre-eclampsia,C0032914,Pre-eclampsia,{'T046'}
+Premature baby,10036590,Premature,C0151526,Premature,{'T046'}
+Premature delivery,10036595,Premature delivery,C0151526,Premature delivery,{'T046'}
+Premature labour,10036600,Premature,C0151526,Premature,{'T046'}
+Premature labour,10036600,labour,C0022864,labour,{'T040'}
+Premature rupture of membranes,10036603,Premature rupture of membranes,C0015944,Premature rupture of membranes,{'T046'}
+Premenstrual syndrome,10036618,Premenstrual syndrome,C0033046,Premenstrual syndrome,{'T047'}
+Pressure sore,10036651,Pressure,C0460139,Pressure,{'T033'}
+Pressure sore,10036651,sore,C0234233,sore,{'T184'}
+Pricking skin sensation,10036665,sensation,C0542538,sensation,{'T033'}
+Pricking skin sensation,10036665,Pricking,C0439821,pricking,{'T033'}
+Prickly heat,10036667,Prickly heat,C0162423,Prickly heat,{'T047'}
+Product complaint,10069902,complaint,C0277786,complaint,{'T033'}
+Product complaint,10069902,Product,C1172837,Product R,{'T116'}
+Product complaint,10069902,Product,C1172837,Product R,{'T121'}
+Product complaint,10069902,Product,C1172837,Product R,{'T114'}
+Product difficult to swallow,10075696,difficult,C0332218,difficult,{'T033'}
+Product difficult to swallow,10075696,swallow,C0740170,swallows,{'T033'}
+Product difficult to swallow,10075696,Product,C1172837,Product R,{'T116'}
+Product difficult to swallow,10075696,Product,C1172837,Product R,{'T121'}
+Product difficult to swallow,10075696,Product,C1172837,Product R,{'T114'}
+Product label issue,10069289,label,C1705425,label,{'T170'}
+Product label issue,10069289,issue,C1547928,Tissue,{'T170'}
+Product label issue,10069289,Product,C1172837,Product R,{'T116'}
+Product label issue,10069289,Product,C1172837,Product R,{'T121'}
+Product label issue,10069289,Product,C1172837,Product R,{'T114'}
+Product odour abnormal,10069226,abnormal,C0205161,abnormal,{'T033'}
+Product odour abnormal,10069226,Product,C1172837,Product R,{'T116'}
+Product odour abnormal,10069226,Product,C1172837,Product R,{'T121'}
+Product odour abnormal,10069226,Product,C1172837,Product R,{'T114'}
+Product packaging issue,10069405,packaging,C0013194,packaging,{'T074'}
+Product packaging issue,10069405,issue,C1547928,Tissue,{'T170'}
+Product packaging issue,10069405,Product,C1172837,Product R,{'T116'}
+Product packaging issue,10069405,Product,C1172837,Product R,{'T121'}
+Product packaging issue,10069405,Product,C1172837,Product R,{'T114'}
+Product physical issue,10071134,issue,C1547928,Tissue,{'T170'}
+Product physical issue,10071134,physical,C0031809,Physical,{'T058'}
+Product physical issue,10071134,Product,C1172837,Product R,{'T116'}
+Product physical issue,10071134,Product,C1172837,Product R,{'T121'}
+Product physical issue,10071134,Product,C1172837,Product R,{'T114'}
+Product quality issue,10069327,issue,C1547928,Tissue,{'T170'}
+Product quality issue,10069327,Product,C1172837,Product R,{'T116'}
+Product quality issue,10069327,Product,C1172837,Product R,{'T121'}
+Product quality issue,10069327,Product,C1172837,Product R,{'T114'}
+Product taste abnormal,10069227,abnormal,C0205161,abnormal,{'T033'}
+Product taste abnormal,10069227,Product,C1172837,Product R,{'T116'}
+Product taste abnormal,10069227,Product,C1172837,Product R,{'T121'}
+Product taste abnormal,10069227,Product,C1172837,Product R,{'T114'}
+Prostate cancer,10060862,Prostate cancer,C0376358,Prostate cancer,{'T191'}
+Prostate cancer metastatic,10036909,cancer metastatic,C0346957,cancer metastatic,{'T191'}
+Prostate cancer metastatic,10036909,Prostate,C0033572,Prostate,{'T023'}
+Psoriasis,10037153,Psoriasis,C0033860,Psoriasis,{'T047'}
+Psoriatic arthritis,10037160,Psoriatic arthritis,C0003872,Psoriatic arthritis,{'T047'}
+Psychotic,10037248,Psychotic,C0687131,Psychoticism,{'T048'}
+Pulmonary embolism,10037377,Pulmonary embolism,C0034065,Pulmonary embolism,{'T046'}
+Pulse rapid,10037484,Pulse,C0034107,Pulse,{'T058'}
+Pulse weak,10037494,Pulse,C0034107,Pulse,{'T058'}
+Pulse weak,10037494,weak,C3714552,weak,{'T184'}
+Pustule,10037578,Pustule,C0241157,Pustule,{'T033'}
+Racing thoughts,10067192,Racing thoughts,C0554978,Racing thoughts,{'T048'}
+Rage,10037804,Rage,C0034634,Rage,{'T041'}
+Rash,10037844,Rash,C0015230,Rash,{'T184'}
+Rash all over,10037848,Rash,C0015230,Rash,{'T184'}
+Rash both legs,10037851,Rash,C0015230,Rash,{'T184'}
+Rash both legs,10037851,legs,C1140621,legs,{'T023'}
+Rash on face,10037873,Rash,C0015230,Rash,{'T184'}
+Rash on face,10037873,face,C0015450,face,{'T029'}
+Rash over arms,10037875,Rash,C0015230,Rash,{'T184'}
+Rash over arms,10037875,arms,C0446516,arms,{'T029'}
+Rash scaly,10037889,Rash,C0015230,Rash,{'T184'}
+Rash trunk,10059872,trunk,C0460005,trunk,{'T029'}
+Rash trunk,10059872,Rash,C0015230,Rash,{'T184'}
+Reading disorder,10037999,disorder,C0012634,disorder,{'T047'}
+Reading disorder,10037999,Reading,C4284139,Reading,{'T170'}
+Rectal bleeding,10038035,Rectal bleeding,C0018932,Rectal bleeding,{'T047'}
+Rectal pain,10038072,Rectal pain,C0034886,Rectal pain,{'T184'}
+Rectal prolapse,10038077,Rectal prolapse,C0034888,Rectal prolapse,{'T047'}
+Recurrent cancer,10038111,cancer,C0006826,cancer,{'T191'}
+Red blotches,10038183,Red blotches,C0857199,red blotches,{'T184'}
+Red face,10038190,Red face,C0239488,Red face,{'T033'}
+Red throat,10038196,throat,C0031354,throat,{'T023'}
+Redness,10038198,Redness,C0041834,Redness,{'T047'}
+Redness of eyelid,10038204,Redness,C0041834,Redness,{'T047'}
+Redness of eyelid,10038204,eyelid,C0015426,eyelid,{'T023'}
+Redness of legs,10038207,Redness,C0041834,Redness,{'T047'}
+Redness of legs,10038207,legs,C1140621,legs,{'T023'}
+Reduced dexterity,10067727,dexterity,C0565699,dexterity,{'T033'}
+Regurgitation,10067171,Regurgitation,C2004489,Regurgitation,{'T184'}
+Regurgitation of food,10038288,Regurgitation,C2004489,Regurgitation,{'T184'}
+Regurgitation of food,10038288,food,C3540798,food,{'T121'}
+Regurgitation of food,10038288,food,C3540798,food,{'T129'}
+Respiratory distress,10038687,Respiratory distress,C0476273,Respiratory distress,{'T184'}
+Respiratory failure,10038695,Respiratory failure,C1145670,Respiratory failure,{'T047'}
+Respiratory tract congestion,10052251,Respiratory tract,C0282335,Respiratory tract,{'T023'}
+Respiratory tract congestion,10052251,congestion,C0700148,congestion,{'T046'}
+Respiratory tract infection,10062352,Respiratory tract infection,C0035243,Respiratory tract infection,{'T047'}
+Restless,10038740,Restless,C3887611,Restless,{'T184'}
+Restless legs,10038742,Restless legs,C0035258,Restless legs,{'T047'}
+Restlessness,10038743,Restlessness,C3887611,Restlessness,{'T184'}
+Retching,10038776,Retching,C0232602,Retching,{'T184'}
+Retinal bleeding,10051304,Retinal bleeding,C0035317,Retinal bleeding,{'T047'}
+Retinal tear,10038897,Retinal tear,C0035321,Retinal tear,{'T047'}
+Rheumatism,10039070,Rheumatism,C0009326,Rheumatism,{'T047'}
+Rheumatoid arthritis,10039073,Rheumatoid arthritis,C0003873,Rheumatoid arthritis,{'T047'}
+Rib fracture,10039117,fracture,C0016658,fracture,{'T037'}
+Rib fracture,10039117,Rib,C0035561,Rib,{'T023'}
+Rib pain,10048722,Rib pain,C0574068,Rib pain,{'T184'}
+Rigors,10039177,Rigors,C0424790,Rigors,{'T184'}
+Ringing in ears,10039183,Ringing in ears,C0040264,Ringing in ears,{'T047'}
+Rosacea,10039218,Rosacea,C0035854,Rosacea,{'T047'}
+Rotator cuff injury,10039226,Rotator cuff injury,C4554414,Rotator cuff injury,{'T033'}
+Runny nose,10039296,nose,C0028429,nose,{'T023'}
+Saliva altered,10039379,Saliva,C0036087,Saliva,{'T031'}
+Saliva increased,10039381,Saliva,C0036087,Saliva,{'T031'}
+Saliva increased,10039381,increased,C0151576,increased ck,{'T033'}
+Scalp tenderness,10039521,Scalp tenderness,C0151206,Scalp tenderness,{'T184'}
+Schizophrenia,10039626,Schizophrenia,C0036341,Schizophrenia,{'T048'}
+Sciatica,10039674,Sciatica,C0036396,Sciatica,{'T184'}
+Scrotal pain,10039757,Scrotal pain,C0236078,Scrotal pain,{'T184'}
+Seasonal allergy,10048908,Seasonal allergy,C0018621,Seasonal allergy,{'T047'}
+Seizure,10039906,Seizure,C0036572,Seizure,{'T184'}
+Self esteem decreased,10050280,decreased,C0442797,decreased,{'T033'}
+Self esteem decreased,10050280,Self esteem,C0036597,self esteem,{'T041'}
+Sensation of pressure in ear,10040004,pressure,C0460139,pressure,{'T033'}
+Sensation of pressure in ear,10040004,ear,C0013443,ear,{'T023'}
+Sensation of pressure in ear,10040004,Sensation,C0542538,sensation,{'T033'}
+Sensation of pressure in eye,10058811,pressure in eye,C0430888,pressure in eye,{'T060'}
+Sensation of pressure in eye,10058811,Sensation,C0542538,sensation,{'T033'}
+Sensitive mouth,10049308,Sensitive mouth,C0877667,Sensitive mouth,{'T184'}
+Sensitive tongue,10049370,Sensitive,C0020517,Sensitive,{'T046'}
+Sensitive tongue,10049370,tongue,C0040408,tongue,{'T023'}
+Sensitivity of teeth,10040012,Sensitivity,C0020517,Sensitivity,{'T046'}
+Sensitivity of teeth,10040012,teeth,C0040426,teeth,{'T023'}
+Sepsis,10040047,Sepsis,C0036690,Sepsis,{'T047'}
+Sexual desire decreased,10059272,decreased,C0442797,decreased,{'T033'}
+Sexual desire decreased,10059272,desire,C0871633,desire,{'T041'}
+Sexual problem,10040486,problem,C0033213,problem,{'T033'}
+Shaking,10040528,Shaking,C0040822,Shaking,{'T184'}
+Shaking of hands,10040530,Shaking of hands,C0857072,Shaking of hands,{'T184'}
+Shallow breathing,10040533,Shallow breathing,C0221161,Shallow breathing,{'T184'}
+Shingles,10040555,Shingles,C0019360,Shingles,{'T047'}
+Shivering,10040558,Shivering,C0036973,Shivering,{'T033'}
+Shooting pain,10050007,Shooting pain,C0278146,Shooting pain,{'T184'}
+Short-sighted,10040601,Short-sighted,C0027092,short-sighted,{'T047'}
+Shoulder blade pain,10040610,Shoulder blade,C0036277,Shoulder blade,{'T023'}
+Shoulder blade pain,10040610,pain,C0030193,pain,{'T184'}
+Shoulder pain,10040617,Shoulder pain,C0037011,Shoulder pain,{'T184'}
+Sickness,10040658,Sickness,C0221423,Sickness,{'T184'}
+Sinus congestion,10040742,congestion,C0700148,congestion,{'T046'}
+Sinus headache,10040744,headache,C0018681,headache,{'T184'}
+Sinus infection,10040745,Sinus infection,C0037199,Sinus infection,{'T047'}
+Sinus pain,10040747,Sinus pain,C0522251,Sinus pain,{'T184'}
+Sinusitis,10040753,Sinusitis,C0037199,Sinusitis,{'T047'}
+Skin abrasion,10064990,abrasion,C0043242,abrasion,{'T037'}
+Skin abrasion,10064990,Skin,C0444099,Skin,{'T031'}
+Skin bleeding,10058677,bleeding,C0019080,bleeding,{'T046'}
+Skin bleeding,10058677,Skin,C0444099,Skin,{'T031'}
+Skin burning sensation,10054786,burning sensation,C0085624,burning sensation,{'T184'}
+Skin burning sensation,10054786,Skin,C0444099,Skin,{'T031'}
+Skin callus,10057981,Skin,C0444099,Skin,{'T031'}
+Skin cancer,10040808,Skin cancer,C0007114,Skin cancer,{'T191'}
+Skin depigmentation,10040825,depigmentation,C0162835,depigmentation,{'T047'}
+Skin depigmentation,10040825,Skin,C0444099,Skin,{'T031'}
+Skin discoloration,10040828,discoloration,C0332572,discoloration,{'T033'}
+Skin discoloration,10040828,Skin,C0444099,Skin,{'T031'}
+Skin discolouration,10040829,discolouration,C0332572,discolouration,{'T033'}
+Skin discolouration,10040829,Skin,C0444099,Skin,{'T031'}
+Skin discomfort,10040830,discomfort,C2364135,discomfort,{'T184'}
+Skin discomfort,10040830,Skin,C0444099,Skin,{'T031'}
+Skin greasy,10040858,Skin,C0444099,Skin,{'T031'}
+Skin hyperpigmentation,10040865,Skin hyperpigmentation,C0162834,Skin hyperpigmentation,{'T046'}
+Skin infection,10040872,Skin infection,C0007642,Skin infection,{'T046'}
+Skin inflammation,10062249,Skin inflammation,C3875321,Skin inflammation,{'T047'}
+Skin injury,10061364,injury,C3263723,injury,{'T037'}
+Skin injury,10061364,Skin,C0444099,Skin,{'T031'}
+Skin irritation,10040880,Skin,C0444099,Skin,{'T031'}
+Skin irritation,10040880,irritation,C1706307,Irritation,{'T033'}
+Skin laceration,10058818,Skin laceration,C0558401,Skin laceration,{'T037'}
+Skin peeling,10040908,peeling,C0237849,peeling,{'T033'}
+Skin peeling,10040908,Skin,C0444099,Skin,{'T031'}
+Skin pigmentation,10040910,Skin pigmentation,C1269684,Skin pigmentation,{'T033'}
+Skin rash,10040913,Skin rash,C0015230,Skin rash,{'T184'}
+Skin red,10040916,Skin,C0444099,Skin,{'T031'}
+Skin scaly,10040920,Skin,C0444099,Skin,{'T031'}
+Skin swelling,10053262,swelling,C0038999,swelling,{'T033'}
+Skin swelling,10053262,Skin,C0444099,Skin,{'T031'}
+Skin thinness,10040937,thinness,C0039870,thinness,{'T033'}
+Skin thinness,10040937,Skin,C0444099,Skin,{'T031'}
+Skin tightness,10050637,Skin tightness,C0241166,Skin tightness,{'T033'}
+Skin ulcer,10040943,Skin ulcer,C0037299,Skin ulcer,{'T047'}
+Skin warm,10040952,Skin,C0444099,Skin,{'T031'}
+Skin wrinkling,10040954,wrinkling,C0037301,wrinkling,{'T033'}
+Skin wrinkling,10040954,Skin,C0444099,Skin,{'T031'}
+Skull fracture,10061365,fracture,C0016658,fracture,{'T037'}
+Skull fracture,10061365,Skull,C0037303,Skull,{'T023'}
+Sleep apnea,10040975,Sleep apnea,C0037315,Sleep apnea,{'T047'}
+Sleep apnoea,10040977,Sleep apnoea,C0037315,Sleep apnoea,{'T047'}
+Sleep disturbed,10040999,Sleep,C0037313,Sleep,{'T040'}
+Sleep excessive,10041000,Sleep,C0037313,Sleep,{'T040'}
+Sleep restless,10041007,restless,C0085631,restless,{'T184'}
+Sleep restless,10041007,Sleep,C0037313,Sleep,{'T040'}
+Sleep talking,10041009,Sleep,C0037313,Sleep,{'T040'}
+Sleep talking,10041009,talking,C0935572,Stalking,{'T048'}
+Sleep walking,10041012,Sleep walking,C0037672,Sleep walking,{'T047'}
+Sleepiness,10041014,Sleepiness,C0013144,Sleepiness,{'T033'}
+Sleeplessness,10041017,Sleeplessness,C0917801,Sleeplessness,{'T184'}
+Sleepy,10041018,Sleepy,C0013144,Sleepy,{'T033'}
+Slow speech,10071299,Slow speech,C1859270,Slow speech,{'T033'}
+Slowed thinking,10041049,thinking,C0039869,thinking,{'T041'}
+Sluggishness,10041052,Sluggishness,C0920289,Sluggishness,{'T184'}
+Slurred speech,10041053,Slurred speech,C0234518,Slurred speech,{'T033'}
+Sneezing,10041232,Sneezing,C0037383,Sneezing,{'T184'}
+Snoring,10041235,Snoring,C0037384,Snoring,{'T184'}
+Soft stools,10048838,stools,C0015733,stools,{'T031'}
+Sore gums,10041359,Sore gums,C0239739,sore gums,{'T184'}
+Sore mouth,10041362,Sore mouth,C1579838,Sore mouth,{'T184'}
+Sore throat,10041367,Sore throat,C0242429,Sore throat,{'T184'}
+Sore tongue,10041369,tongue,C0040408,tongue,{'T023'}
+Sound sensitivity increased,10070539,Sound sensitivity,C3843207,Sound sensitivity,{'T033'}
+Sound sensitivity increased,10070539,increased,C0151576,increased ck,{'T033'}
+Spasm eyelid,10041384,eyelid,C0015426,eyelid,{'T023'}
+Spasm eyelid,10041384,Spasm,C0026821,Spasm,{'T184'}
+Speech loss,10041470,Speech,C0037817,Speech,{'T040'}
+Spider vein,10062696,vein,C0042449,vein,{'T023'}
+Spinal cord injury,10041552,Spinal cord injury,C0037929,Spinal cord injury,{'T037'}
+Spinal fracture,10041569,Spinal fracture,C0080179,Spinal fracture,{'T037'}
+Spinning sensation,10041619,sensation,C0542538,sensation,{'T033'}
+Spinning sensation,10041619,Spinning,C0021885,pinning,{'T061'}
+Spleen enlarged,10041637,Spleen,C0037993,Spleen,{'T023'}
+Spleen enlarged,10041637,enlarged,C1293134,Enlarged,{'T061'}
+Spots before eyes,10041741,eyes,C0015392,eyes,{'T023'}
+Spotting between menses,10041744,Spotting,C0025874,Spotting,{'T046'}
+Spotting between menses,10041744,menses,C0025344,menses,{'T040'}
+Spotting menstrual,10041745,menstrual,C0025344,menstrual,{'T040'}
+Spotting menstrual,10041745,Spotting,C0025874,Spotting,{'T046'}
+Spotting vaginal,10048821,Spotting,C0025874,Spotting,{'T046'}
+Spotting vaginal,10048821,vaginal,C0042232,vaginal,{'T023'}
+Sprain,10041747,Sprain,C0038045,Sprain,{'T037'}
+Sputum discolored,10041806,discolored,C0332572,discolored,{'T033'}
+Sputum discolored,10041806,Sputum,C0038056,Sputum,{'T031'}
+Sputum discoloured,10041807,discoloured,C0332572,discoloured,{'T033'}
+Sputum discoloured,10041807,Sputum,C0038056,Sputum,{'T031'}
+Sputum increased,10041812,Sputum,C0038056,Sputum,{'T031'}
+Sputum increased,10041812,increased,C0151576,increased ck,{'T033'}
+Squamous cell carcinoma,10041823,Squamous cell carcinoma,C0007137,Squamous cell carcinoma,{'T191'}
+Squamous cell carcinoma of skin,10041834,Squamous cell carcinoma of skin,C0553723,Squamous cell carcinoma of skin,{'T191'}
+Squint,10041884,Squint,C0038379,Squint,{'T047'}
+Staggering,10041902,Staggering,C0344191,staggering,{'T047'}
+Staring,10041953,Staring,C0423086,Staring,{'T047'}
+Stiff neck,10042043,Stiff neck,C0151315,Stiff neck,{'T184'}
+Stiffness,10042045,Stiffness,C0427008,Stiffness,{'T184'}
+Stillbirth,10042062,Stillbirth,C0595939,Stillbirth,{'T033'}
+Stinging,10042066,Stinging,C0677500,Stinging,{'T184'}
+Stomach ache,10042076,Stomach ache,C0221512,Stomach ache,{'T184'}
+Stomach cramps,10049901,Stomach,C0038351,Stomach,{'T023'}
+Stomach cramps,10049901,cramps,C0026821,cramps,{'T184'}
+Stomach discomfort,10042101,discomfort,C2364135,discomfort,{'T184'}
+Stomach discomfort,10042101,Stomach,C0038351,Stomach,{'T023'}
+Stomach pain,10042112,Stomach pain,C0000737,Stomach pain,{'T184'}
+Stomach ulcer,10042116,Stomach ulcer,C0038358,Stomach ulcer,{'T047'}
+Stomach upset,10042124,Stomach,C0038351,Stomach,{'T023'}
+Stomach upset,10042124,upset,C3887804,upset,{'T041'}
+Stools hard,10042155,Stools,C0015733,Stools,{'T031'}
+Stools watery,10042157,Stools,C0015733,Stools,{'T031'}
+Stools watery,10042157,watery,C0043047,water,{'T121'}
+Stools watery,10042157,watery,C0043047,water,{'T197'}
+Strength loss of,10042174,Strength loss,C3714552,strength loss,{'T184'}
+Stress,10042209,Stress,C0038435,Stress,{'T033'}
+Stress fracture,10042212,fracture,C0016658,fracture,{'T037'}
+Stress fracture,10042212,Stress,C0038435,Stress,{'T033'}
+Stretch marks,10042222,Stretch marks,C0344310,stretch marks,{'T046'}
+Stroke,10042244,Stroke,C0038454,Stroke,{'T047'}
+Stupor,10042264,Stupor,C0085628,Stupor,{'T048'}
+Stuttering,10042267,Stuttering,C0038506,Stuttering,{'T048'}
+Substance abuse,10066169,Substance abuse,C0740858,Substance abuse,{'T048'}
+Sudden hearing loss,10061373,hearing loss,C0011053,hearing loss,{'T033'}
+Suffocation feeling,10042444,Suffocation,C0004044,Suffocation,{'T046'}
+Suffocation feeling,10042444,feeling,C1527305,feeling,{'T041'}
+Suicidal behaviour,10065604,Suicidal,C0438696,Suicidal,{'T048'}
+Suicidal behaviour,10065604,behaviour,C0677505,behaviours,{'T033'}
+Suicidal depression,10042457,depression,C0011570,depression,{'T048'}
+Suicidal depression,10042457,Suicidal,C0438696,Suicidal,{'T048'}
+Suicidal ideation,10042458,Suicidal ideation,C0424000,Suicidal ideation,{'T033'}
+Suicidal intention,10068557,intention,C0162425,intention,{'T041'}
+Suicidal intention,10068557,Suicidal,C0438696,Suicidal,{'T048'}
+Suicidal tendency,10042461,Suicidal,C0438696,Suicidal,{'T048'}
+Suicide attempt,10042464,Suicide attempt,C0038663,Suicide attempt,{'T037'}
+Sun sensitivity,10042494,Sun sensitivity,C0349506,Sun sensitivity,{'T046'}
+Sunburn,10042496,Sunburn,C0038814,Sunburn,{'T037'}
+Swallowing difficult,10042645,Swallowing,C0011167,Swallowing,{'T040'}
+Swallowing difficult,10042645,difficult,C0332218,difficult,{'T033'}
+Swallowing painful,10042648,Swallowing,C0011167,Swallowing,{'T040'}
+Swallowing painful,10042648,painful,C0030193,painful,{'T184'}
+Sweating,10042661,Sweating,C0038990,Sweating,{'T033'}
+Swelling,10042674,Swelling,C0038999,Swelling,{'T033'}
+Swelling arm,10042680,Swelling,C0038999,Swelling,{'T033'}
+Swelling arm,10042680,arm,C0446516,arm,{'T029'}
+Swelling of feet,10042693,Swelling,C0038999,Swelling,{'T033'}
+Swelling of feet,10042693,feet,C0016504,feet,{'T023'}
+Swelling of fingers,10042694,Swelling of fingers,C0239598,Swelling of fingers,{'T033'}
+Swelling of hands,10042695,Swelling,C0038999,Swelling,{'T033'}
+Swelling of hands,10042695,hands,C0018563,hands,{'T023'}
+Swelling of legs,10042700,Swelling,C0038999,Swelling,{'T033'}
+Swelling of legs,10042700,legs,C1140621,legs,{'T023'}
+Swelling of limbs,10042702,Swelling,C0038999,Swelling,{'T033'}
+Swelling of limbs,10042702,limbs,C0015385,limbs,{'T023'}
+Swelling of tongue,10042706,Swelling,C0038999,Swelling,{'T033'}
+Swelling of tongue,10042706,tongue,C0040408,tongue,{'T023'}
+Swollen abdomen,10042714,abdomen,C0000726,abdomen,{'T029'}
+Swollen ankles,10042715,ankles,C0003086,ankles,{'T029'}
+Swollen eyelid,10042718,eyelid,C0015426,eyelid,{'T023'}
+Swollen eyes,10042719,eyes,C0015392,eyes,{'T023'}
+Swollen glands,10042720,glands,C1285092,glands,{'T023'}
+Swollen lips,10042723,lips,C0023759,lips,{'T023'}
+Swollen lymph nodes,10067201,Swollen lymph nodes,C4282165,Swollen lymph nodes,{'T033'}
+Swollen mouth,10042724,Swollen mouth,C0240382,swollen mouth,{'T184'}
+Swollen tongue,10042727,tongue,C0040408,tongue,{'T023'}
+Systemic lupus erythematosus,10042945,Systemic lupus erythematosus,C0024141,Systemic lupus erythematosus,{'T047'}
+Talkativeness,10043111,Talkativeness,C0859023,Talkativeness,{'T048'}
+Tarry stools,10043119,stools,C0015733,stools,{'T031'}
+Tarry stools,10043119,Tarry,C4069282,Tarry,{'T033'}
+Taste alteration,10043125,Taste alteration,C0013378,taste alteration,{'T033'}
+Taste bitter,10043127,Taste bitter,C0235290,taste bitter,{'T184'}
+Taste changed,10043129,changed,C0442739,unchanged,{'T033'}
+Taste metallic,10043135,Taste metallic,C0240327,taste metallic,{'T184'}
+Tearfulness,10043169,Tearfulness,C0424109,Tearfulness,{'T033'}
+Teary eyes,10043172,eyes,C0015392,eyes,{'T023'}
+Teeth chattering,10043174,Teeth chattering,C0232514,Teeth chattering,{'T184'}
+Teeth clenching,10057326,Teeth,C0040426,Teeth,{'T023'}
+Teeth grinding,10043176,Teeth grinding,C0006325,Teeth grinding,{'T048'}
+Teeth staining,10043180,staining,C0487602,staining,{'T059'}
+Teeth staining,10043180,Teeth,C0040426,Teeth,{'T023'}
+Temporary vision loss,10053620,vision loss,C3665347,vision loss,{'T033'}
+Temporary vision loss,10053620,Temporary,C3245481,temporary,{'T170'}
+Tenderness,10043224,Tenderness,C0234233,Tenderness,{'T184'}
+Tendon injury,10043242,Tendon,C0039508,Tendon,{'T023'}
+Tendon injury,10043242,injury,C3263723,injury,{'T037'}
+Tendon pain,10066371,Tendon,C0039508,Tendon,{'T023'}
+Tendon pain,10066371,pain,C0030193,pain,{'T184'}
+Tendon rupture,10043248,Tendon rupture,C0151937,Tendon rupture,{'T037'}
+Tension,10043268,Tension,C0233494,Tension,{'T048'}
+Tension headache,10043269,Tension headache,C0033893,Tension headache,{'T047'}
+Testicular pain,10043345,Testicular pain,C0039591,Testicular pain,{'T184'}
+Testicular swelling,10043354,swelling,C0038999,swelling,{'T033'}
+Thinking irrational,10043435,irrational,C0542058,irrational,{'T033'}
+Thinking irrational,10043435,Thinking,C0039869,Thinking,{'T041'}
+Thirst,10043458,Thirst,C0039971,Thirst,{'T039'}
+Thoracic pain,10043471,Thoracic pain,C0008031,Thoracic pain,{'T184'}
+Thoughts of self harm,10043498,self harm,C0424366,self harm,{'T048'}
+Thoughts of self harm,10043498,Thoughts,C0039869,Thoughts,{'T041'}
+Throat cancer,10043515,Throat,C0031354,Throat,{'T023'}
+Throat cancer,10043515,cancer,C0006826,cancer,{'T191'}
+Throat infection,10043520,infection,C0009450,infection,{'T047'}
+Throat infection,10043520,Throat,C0031354,Throat,{'T023'}
+Throat irritation,10043521,Throat irritation,C0700184,Throat irritation,{'T184'}
+Throat pain,10043523,Throat pain,C0242429,Throat pain,{'T184'}
+Throat swelling,10043525,Throat swelling,C0236024,Throat swelling,{'T033'}
+Throat tightness,10043528,Throat,C0031354,Throat,{'T023'}
+Thrombophlebitis,10043570,Thrombophlebitis,C0040046,Thrombophlebitis,{'T046'}
+Thrombosis,10043607,Thrombosis,C0040053,Thrombosis,{'T046'}
+Thrombosis arm,10043610,Thrombosis,C0040053,Thrombosis,{'T046'}
+Thrombosis arm,10043610,arm,C0446516,arm,{'T029'}
+Thrombosis leg,10043623,Thrombosis,C0040053,Thrombosis,{'T046'}
+Thrombosis leg,10043623,leg,C1140621,leg,{'T023'}
+Thrush,10043649,Thrush,C0006849,Thrush,{'T047'}
+Thyroid cancer,10066474,Thyroid cancer,C0007115,Thyroid cancer,{'T191'}
+Thyroid enlarged,10043723,Thyroid,C0040128,Thyroid,{'T047'}
+Thyroid enlarged,10043723,enlarged,C1293134,Enlarged,{'T061'}
+Thyroid function decreased,10043727,decreased,C0442797,decreased,{'T033'}
+Thyroid function decreased,10043727,function,C0031843,function,{'T039'}
+Thyroid function decreased,10043727,Thyroid,C0040128,Thyroid,{'T047'}
+Thyroid function test abnormal,10043730,function,C0031843,function,{'T039'}
+Thyroid function test abnormal,10043730,abnormal,C0205161,abnormal,{'T033'}
+Thyroid function test abnormal,10043730,Thyroid,C0040128,Thyroid,{'T047'}
+Thyroid function test abnormal,10043730,test,C0392366,test,{'T170'}
+Tic,10043833,Tic,C0040188,Tic,{'T048'}
+Tingling,10043876,Tingling,C0030554,Tingling,{'T047'}
+Tingling feet/hands,10043877,Tingling,C0030554,Tingling,{'T047'}
+Tingling feet/hands,10043877,hands,C0018563,hands,{'T023'}
+Tingling feet/hands,10043877,feet,C0016504,feet,{'T023'}
+Tingling lips,10049355,Tingling,C0030554,Tingling,{'T047'}
+Tingling lips,10049355,lips,C0023759,lips,{'T023'}
+Tingling mouth,10049315,Tingling,C0030554,Tingling,{'T047'}
+Tingling sensation,10043880,Tingling sensation,C2242996,Tingling sensation,{'T184'}
+Tingling skin,10043881,Tingling,C0030554,Tingling,{'T047'}
+Tingling tongue ,10049373,Tingling,C0030554,Tingling,{'T047'}
+Tingling tongue ,10049373,tongue,C0040408,tongue,{'T023'}
+Tinnitus,10043882,Tinnitus,C0040264,Tinnitus,{'T047'}
+Tired all the time,10043885,Tired,C0015672,Tired,{'T184'}
+Tired out,10043889,Tired,C0015672,Tired,{'T184'}
+Tiredness,10043890,Tiredness,C0015672,Tiredness,{'T184'}
+Tongue biting,10050467,Tongue biting,C0241424,Tongue biting,{'T048'}
+Tongue blistering,10043942,blistering,C0344311,blistering,{'T033'}
+Tongue blistering,10043942,Tongue,C0040408,Tongue,{'T023'}
+Tongue discoloration,10043948,discoloration,C0332572,discoloration,{'T033'}
+Tongue discoloration,10043948,Tongue,C0040408,Tongue,{'T023'}
+Tongue discolouration,10043949,discolouration,C0332572,discolouration,{'T033'}
+Tongue discolouration,10043949,Tongue,C0040408,Tongue,{'T023'}
+Tongue dry,10049713,Tongue,C0040408,Tongue,{'T023'}
+Tongue edema,10043955,Tongue edema,C0151610,Tongue edema,{'T184'}
+Tongue inflammation,10043961,inflammation,C0021368,inflammation,{'T046'}
+Tongue inflammation,10043961,Tongue,C0040408,Tongue,{'T023'}
+Tongue injury,10059924,Tongue,C0040408,Tongue,{'T023'}
+Tongue injury,10059924,injury,C3263723,injury,{'T037'}
+Tongue irritation,10043962,Tongue,C0040408,Tongue,{'T023'}
+Tongue irritation,10043962,irritation,C1706307,Irritation,{'T033'}
+Tongue pain,10043969,Tongue pain,C0017672,Tongue pain,{'T184'}
+Tongue redness,10043976,redness,C0332575,redness,{'T033'}
+Tongue redness,10043976,Tongue,C0040408,Tongue,{'T023'}
+Tongue white,10043993,Tongue,C0040408,Tongue,{'T023'}
+Tonsillitis,10044008,Tonsillitis,C0040425,Tonsillitis,{'T047'}
+Tooth abscess,10044016,Tooth abscess,C0518988,Tooth abscess,{'T047'}
+Tooth decay,10044027,Tooth decay,C0011334,Tooth decay,{'T047'}
+Tooth discoloration,10044031,Tooth discoloration,C0040434,Tooth discoloration,{'T033'}
+Tooth discolouration,10044032,discolouration,C0332572,discolouration,{'T033'}
+Tooth discolouration,10044032,Tooth,C0040426,Tooth,{'T023'}
+Tooth erosion,10044038,erosion,C1959609,erosion,{'T046'}
+Tooth erosion,10044038,Tooth,C0040426,Tooth,{'T023'}
+Tooth fracture,10062544,fracture,C0016658,fracture,{'T037'}
+Tooth fracture,10062544,Tooth,C0040426,Tooth,{'T023'}
+Tooth infection,10048762,Tooth infection,C0877046,Tooth infection,{'T047'}
+Tooth loss,10044044,Tooth,C0040426,Tooth,{'T023'}
+Toothache,10044055,Toothache,C0040460,Toothache,{'T184'}
+Touch sensitivity increased,10044124,sensitivity,C0237677,insensitivity,{'T033'}
+Touch sensitivity increased,10044124,increased,C0151576,increased ck,{'T033'}
+Trembling,10044563,Trembling,C0234369,Trembling,{'T184'}
+Tremor,10044565,Tremor,C0040822,Tremor,{'T184'}
+Tremor limb,10044572,Tremor,C0040822,Tremor,{'T184'}
+Tremor limb,10044572,limb,C0015385,limb,{'T023'}
+Tremor of hands,10044577,Tremor of hands,C0239842,Tremor of hands,{'T184'}
+Trouble falling asleep,10044698,Trouble falling asleep,C4050620,Trouble falling asleep,{'T170'}
+Tuberculosis,10044755,Tuberculosis,C0041296,Tuberculosis,{'T047'}
+Tunnel vision,10045178,Tunnel vision,C2937228,Tunnel vision,{'T047'}
+Twitching,10045198,Twitching,C0231530,Twitching,{'T033'}
+Twitching facial,10045200,Twitching,C0231530,Twitching,{'T033'}
+Twitching facial,10045200,facial,C0015450,facial,{'T029'}
+Twitching of limbs,10045203,Twitching,C0231530,Twitching,{'T033'}
+Twitching of limbs,10045203,limbs,C0015385,limbs,{'T023'}
+Type 1 diabetes mellitus,10067584,Type 1 diabetes mellitus,C0011854,Type 1 diabetes mellitus,{'T047'}
+Type 2 diabetes mellitus,10067585,Type 2 diabetes mellitus,C0011860,Type 2 diabetes mellitus,{'T047'}
+Ulcer,10045285,Ulcer,C0041582,Ulcer,{'T046'}
+Ulcer bleeding,10071907,bleeding,C0019080,bleeding,{'T046'}
+Ulcer bleeding,10071907,Ulcer,C0041582,Ulcer,{'T046'}
+Ulcerative colitis,10045365,Ulcerative colitis,C0009324,Ulcerative colitis,{'T047'}
+Umbilical hernia,10045458,Umbilical hernia,C0019322,Umbilical hernia,{'T047'}
+Unable to eat,10069830,Unable to eat,C0566306,Unable to eat,{'T033'}
+Unable to walk,10049278,Unable to walk,C0560046,Unable to walk,{'T033'}
+Unconsciousness,10045481,Unconsciousness,C0041657,Unconsciousness,{'T033'}
+Unintended pregnancy,10045542,Unintended pregnancy,C0041747,Unintended pregnancy,{'T033'}
+Unsteadiness,10046260,Unsteadiness,C0427108,unsteadiness,{'T033'}
+Unsteady gait,10046261,Unsteady gait,C0231686,Unsteady gait,{'T033'}
+Upper abdominal pain,10046272,abdominal pain,C0000737,abdominal pain,{'T184'}
+Upper back pain,10046273,Upper back pain,C0238741,Upper back pain,{'T184'}
+Upper gastrointestinal bleeding,10071910,Upper gastrointestinal bleeding,C0041909,Upper gastrointestinal bleeding,{'T046'}
+Upper limb fracture,10061394,limb fracture,C0596838,limb fracture,{'T037'}
+Upper respiratory tract congestion,10052252,Upper respiratory tract,C0458578,Upper respiratory tract,{'T023'}
+Upper respiratory tract congestion,10052252,congestion,C0700148,congestion,{'T046'}
+Upper respiratory tract infection,10046306,respiratory tract infection,C0035243,respiratory tract infection,{'T047'}
+Upset stomach,10046318,Upset stomach,C0235309,Upset stomach,{'T184'}
+Urinary incontinence,10046543,Urinary incontinence,C0042024,Urinary incontinence,{'T046'}
+Urinary retention,10046555,Urinary retention,C0080274,Urinary retention,{'T033'}
+Urinary tract infection,10046571,Urinary tract infection,C0042029,Urinary tract infection,{'T047'}
+Urination difficulty,10046599,difficulty,C1299586,difficulty,{'T033'}
+Urination difficulty,10046599,Urination,C0042034,Urination,{'T040'}
+Urine color abnormal,10064752,abnormal,C0205161,abnormal,{'T033'}
+Urine color abnormal,10064752,Urine,C0042036,Urine,{'T031'}
+Urine color abnormal,10064752,color,C1550604,color,{'T130'}
+Urine colour abnormal,10064748,abnormal,C0205161,abnormal,{'T033'}
+Urine colour abnormal,10064748,Urine,C0042036,Urine,{'T031'}
+Urine flow decreased,10046640,decreased,C0442797,decreased,{'T033'}
+Urine flow decreased,10046640,Urine,C0042036,Urine,{'T031'}
+Urine odor abnormal,10074143,abnormal,C0205161,abnormal,{'T033'}
+Urine odor abnormal,10074143,Urine,C0042036,Urine,{'T031'}
+Urine odour abnormal,10057135,abnormal,C0205161,abnormal,{'T033'}
+Urine odour abnormal,10057135,Urine,C0042036,Urine,{'T031'}
+Uterine bleeding,10046765,Uterine bleeding,C0042134,Uterine bleeding,{'T046'}
+Uterine cancer,10046766,Uterine cancer,C0153567,Uterine cancer,{'T191'}
+Uterine pain,10046809,Uterine pain,C0567085,Uterine pain,{'T184'}
+Uterine polyp,10046811,Uterine,C0042149,Uterine,{'T023'}
+Uterine spasm,10046823,Uterine spasm,C0151998,Uterine spasm,{'T046'}
+Vaccination site inflammation,10068878,inflammation,C0021368,inflammation,{'T046'}
+Vaccination site inflammation,10068878,Vaccination,C0042196,Vaccination,{'T061'}
+Vaccination site pain,10068879,Vaccination,C0042196,Vaccination,{'T061'}
+Vaccination site pain,10068879,pain,C0030193,pain,{'T184'}
+Vaccination site swelling,10069620,Vaccination,C0042196,Vaccination,{'T061'}
+Vaccination site swelling,10069620,swelling,C0038999,swelling,{'T033'}
+Vaccination site tenderness,10069631,Vaccination,C0042196,Vaccination,{'T061'}
+Vaccination site tenderness,10069631,tenderness,C0234233,tenderness,{'T184'}
+Vaccination site warmth,10069624,Vaccination,C0042196,Vaccination,{'T061'}
+Vaccination site warmth,10069624,warmth,C0392197,warmth,{'T039'}
+Vaginal bleeding,10046883,bleeding,C0019080,bleeding,{'T046'}
+Vaginal bleeding,10046883,Vaginal,C0042232,Vagina,{'T023'}
+Vaginal burning sensation,10050023,burning sensation,C0085624,burning sensation,{'T184'}
+Vaginal burning sensation,10050023,Vaginal,C0042232,Vagina,{'T023'}
+Vaginal discharge,10046901,Vaginal discharge,C0227791,Vaginal discharge,{'T033'}
+Vaginal discomfort,10046902,Vaginal discomfort,C0236080,Vaginal discomfort,{'T184'}
+Vaginal dryness,10046904,Vaginal dryness,C0241633,Vaginal dryness,{'T033'}
+Vaginal infection,10046914,Vaginal infection,C0404521,Vaginal infection,{'T047'}
+Vaginal inflammation,10046916,Vaginal inflammation,C0042267,Vaginal inflammation,{'T047'}
+Vaginal irritation,10048903,Vaginal irritation,C0558368,Vaginal irritation,{'T033'}
+Vaginal itching,10046918,itching,C0033774,itching,{'T033'}
+Vaginal itching,10046918,Vaginal,C0042232,Vagina,{'T023'}
+Vaginal odor,10055430,Vaginal odor,C0235678,vaginal odor,{'T184'}
+Vaginal odour,10046935,Vaginal odour,C0235678,vaginal odour,{'T184'}
+Vaginal pain,10046937,Vaginal pain,C0236082,Vaginal pain,{'T184'}
+Vaginal yeast infection,10046946,yeast infection,C0750466,yeast infection,{'T047'}
+Vaginal yeast infection,10046946,Vaginal,C0042232,Vagina,{'T023'}
+Varicose veins,10047001,Varicose veins,C0042345,Varicose veins,{'T047'}
+Vasculitis,10047115,Vasculitis,C0042384,Vasculitis,{'T047'}
+Vertigo,10047340,Vertigo,C0042571,Vertigo,{'T184'}
+Violent behavior,10057073,behavior,C0677505,behaviors,{'T033'}
+Violent behaviour,10047428,behaviour,C0677505,behaviours,{'T033'}
+Violent thoughts,10047429,Violent thoughts,C0235099,violent thoughts,{'T048'}
+Viral infection,10047461,Viral infection,C0042769,Viral infection,{'T047'}
+Vision abnormal,10047508,abnormal,C0205161,abnormal,{'T033'}
+Vision abnormal,10047508,Vision,C0042789,Vision,{'T040'}
+Vision decreased,10047516,Vision decreased,C4553853,Vision decreased,{'T033'}
+Vision loss,10047522,Vision loss,C3665346,Vision loss,{'T184'}
+Visual acuity decreased,10049061,Visual acuity,C0042812,Visual acuity,{'T201'}
+Visual acuity decreased,10049061,decreased,C0442797,decreased,{'T033'}
+Visual disturbance,10047543,Visual disturbance,C0547030,Visual disturbance,{'T033'}
+Visual flashes,10047569,flashes,C0181637,flashes,{'T074'}
+Visual hallucinations,10047570,Visual hallucinations,C0233763,Visual hallucinations,{'T184'}
+Visual impairment,10047571,Visual impairment,C0042798,Visual impairment,{'T047'}
+Vivid dreams,10047666,dreams,C0013117,dreams,{'T041'}
+Voice disturbance,10047682,Voice,C0042939,Voice,{'T040'}
+Vomiting,10047700,Vomiting,C0042963,Vomiting,{'T184'}
+Vomiting blood,10047702,Vomiting,C0042963,Vomiting,{'T184'}
+Vomiting blood,10047702,blood,C0005767,blood,{'T031'}
+Vomiting projectile,10047708,Vomiting,C0042963,Vomiting,{'T184'}
+Wart,10047825,Wart,C0043037,Wart,{'T047'}
+Water retention,10047839,Water retention,C0268000,Water retention,{'T046'}
+Watering eyes,10047848,Watering eyes,C3257803,Watering eyes,{'T184'}
+Watery diarrhea,10055422,Watery diarrhea,C0239182,Watery diarrhea,{'T184'}
+Watery diarrhoea,10047849,diarrhoea,C0011991,diarrhoea,{'T184'}
+Watery diarrhoea,10047849,Watery,C0043047,Water,{'T121'}
+Watery diarrhoea,10047849,Watery,C0043047,Water,{'T197'}
+Weakness,10047862,Weakness,C3714552,Weakness,{'T184'}
+Weakness generalised,10047864,Weakness,C3714552,Weakness,{'T184'}
+Weakness generalized,10047865,Weakness,C3714552,Weakness,{'T184'}
+Weakness left or right side,10047866,Weakness,C3714552,Weakness,{'T184'}
+Weakness left or right side,10047866,right,C0015726,fright,{'T041'}
+Weakness of arms,10050379,Weakness,C3714552,Weakness,{'T184'}
+Weakness of arms,10050379,arms,C0446516,arms,{'T029'}
+Weakness of limbs,10047868,Weakness,C3714552,Weakness,{'T184'}
+Weakness of limbs,10047868,limbs,C0015385,limbs,{'T023'}
+Weight bearing difficulty,10066454,difficulty,C1299586,difficulty,{'T033'}
+Weight bearing difficulty,10066454,Weight,C0944911,Weight,{'T201'}
+Weight fluctuation,10049040,fluctuation,C0231239,fluctuation,{'T184'}
+Weight fluctuation,10049040,Weight,C0944911,Weight,{'T201'}
+Weight gain,10047896,Weight gain,C0043094,Weight gain,{'T033'}
+Weight loss,10047900,Weight loss,C1262477,Weight loss,{'T033'}
+Weird feeling,10047904,feeling,C1527305,feeling,{'T041'}
+Welts,10047906,Welts,C0221232,Welts,{'T184'}
+Wheals,10047918,Wheals,C0043240,heals,{'T040'}
+Wheeze,10047921,Wheeze,C0043144,Wheeze,{'T184'}
+Wheezing,10047924,Wheezing,C0043144,Wheezing,{'T184'}
+Whooping cough,10047974,Whooping cough,C0043167,Whooping cough,{'T047'}
+Withdrawal reaction,10048008,Withdrawal,C2825032,Withdrawal,{'T048'}
+Withdrawal reaction,10048008,reaction,C0000828,Abreaction,{'T041'}
+Withdrawn,10048013,Withdrawn,C0424092,Withdrawn,{'T033'}
+Word finding difficulty,10067711,difficulty,C1299586,difficulty,{'T033'}
+Word finding difficulty,10067711,finding,C0037088,finding,{'T184'}
+Worry,10048025,Worry,C0233481,Worry,{'T033'}
+Wound,10052428,Wound,C0043250,Wound,{'T037'}
+Wound bleeding,10051386,bleeding,C0019080,bleeding,{'T046'}
+Wound bleeding,10051386,Wound,C0043250,Wound,{'T037'}
+Wound healing delayed,10048036,healing delayed,C0151692,healing delayed,{'T046'}
+Wound healing delayed,10048036,Wound,C0043250,Wound,{'T037'}
+Wound infection,10048038,Wound infection,C0043241,Wound infection,{'T046'}
+Wrist fracture,10048049,Wrist fracture,C0435630,Wrist fracture,{'T037'}
+Wrist pain,10048692,Wrist pain,C0221785,Wrist pain,{'T184'}
+Writing impaired,10048053,Writing,C2584304,Writing,{'T041'}
+Yawning,10048232,Yawning,C0043387,Yawning,{'T033'}
+Yeast infection,10049080,Yeast infection,C0750466,Yeast infection,{'T047'}
+Yeast infection of the mouth,10058087,Yeast infection,C0750466,Yeast infection,{'T047'}
+Yellow skin,10048245,Yellow skin,C0022346,Yellow skin,{'T184'}
