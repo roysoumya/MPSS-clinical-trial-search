@@ -1,0 +1,914 @@
+nct_id,brief_title,page_rank_score_brief_title,page_rank_score_brief_title_summary_combined
+NCT01752257,EF5 in Melanoma Patients,0.002202055997441502,0.0009999329237003677
+NCT01760499,"Detection of Immune Cell Infiltration Into Melanomas Treated by PV-10, a Feasibility Study",0.0007225448326698603,0.0009640457623607384
+NCT01748747,Vaccine Therapy and Resiquimod in Treating Patients With Stage II-IV Melanoma That Has Been Removed By Surgery,0.0010455950399756604,0.0013185058586374706
+NCT01748448,Vitamin D Supplementation in Cutaneous Malignant Melanoma Outcome,0.0010234217879049124,0.0007263305480107668
+NCT01703507,Phase I Study of Ipilimumab Combined With Whole Brain Radiation Therapy or Radiosurgery for Melanoma,0.0008950802980249832,0.0009580159553185765
+NCT01777776,Safety and Efficacy of LEE011 and LGX818 in Patients With BRAF Mutant Melanoma.,0.00220205599744151,0.002411716500379294
+NCT01777802,"Immune Responses in Prostate, Lung, Melanoma and Breast Cancer Patients Following Stereotactic Body Radiotherapy (SBRT), Intensity Modulated Radiotherapy (IMRT) or Brachytherapy",0.0009619471873861171,0.0007623713344373913
+NCT01727076,"Recombinant Interleukin-15 in Treating Patients With Advanced Melanoma, Kidney Cancer, Non-small Cell Lung Cancer, or Squamous Cell Head and Neck Cancer",0.0010540249665313567,0.0012316108589235447
+NCT01723813,Peptide Vaccinations Plus GM-CT-01 in Melanoma,0.0010586668332141554,0.0011186218647058924
+NCT01744171,Vaccine Therapy in Treating Patients With Advanced Stage III-IV Melanoma,0.0012901637744825072,0.0014583900508639567
+NCT01744860,Comparison of In-House Methods and Cobas BRAF V600 Mutation Assay in Melanoma Tumor Samples,0.0007697852054493765,0.0009547795053133943
+NCT01767454,Study of Dabrafenib +/- Trametinib in Combination With Ipilimumab for V600E/K Mutation Positive Metastatic or Unresectable Melanoma,0.0009501846876492116,0.0009640634237606396
+NCT01704287,Study of Pembrolizumab (MK-3475) Versus Chemotherapy in Participants With Advanced Melanoma (P08719/KEYNOTE-002),0.00102215489079675,0.0008820616065373357
+NCT01776905,In Vivo Real-time Detection of Circulating Melanoma Cells,0.0010557969146349749,0.0007514068651276536
+NCT01740401,CTLA-4 Blockade and Low Dose Cyclophosphamide in Patients With Advanced Malignant Melanoma,0.00109029374163627,0.001073790702362173
+NCT01740297,Ipilimumab With or Without Talimogene Laherparepvec in Unresected Melanoma,0.0011229294343264925,0.0010033674150472377
+NCT01729663,"Phase II/III Clinical Study CSF470 Plus BCG Plus GM-CSF vs IFN Alpha 2b in Stage IIB, IIC and III Melanoma Patients",0.0011561600651983333,0.0011377558874025395
+NCT01701037,Dabrafenib Alone and in Combination With Trametinib Before Surgery in Treating Patients With Locally or Regionally Advanced Melanoma That Can Be Removed By Surgery,0.0011299753714438718,0.0012973636180877675
+NCT01701674,Ipilimumab With Lymphodepletion Plus Adoptive Cell Transfer and High Dose IL-2 in Melanoma Mets Pts,0.0009132336690756307,0.000979849929809913
+NCT01789827,Aldesleukin Imaging in Viewing Tumor Growth in Patients With Stage IV Melanoma Receiving Ipilimumab or Pembrolizumab Therapy,0.00115197292845355,0.0011711639816231055
+NCT01721746,A Study to Compare BMS-936558 to the Physician's Choice of Either Dacarbazine or Carboplatin and Paclitaxel in Advanced Melanoma Patients That Have Progressed Following Anti-CTLA-4 Therapy (CheckMate 037),0.001214108352003206,0.0012092669318900246
+NCT01721603,A Phase 2 Prospective Trial of Dabrafenib With Stereotactic Radiosurgery in BRAFV600E Melanoma Brain Metastases,0.0008681628543819018,0.0009136179753586202
+NCT01708941,Ipilimumab With or Without High-Dose Recombinant Interferon Alfa-2b in Treating Patients With Stage III-IV Melanoma That Cannot Be Removed by Surgery,0.001124868733719886,0.0012227703381274585
+NCT01753089,Dendritic Cell Activating Scaffold in Melanoma,0.001489134759624567,0.0008984768761786631
+NCT01754376,Combined BRAF-Targeted Therapy & Immunotherapy for Melanoma,0.0010471944104121801,0.001047383878882313
+NCT01763164,Study Comparing the Efficacy of MEK162 Versus Dacarbazine in Unresectable or Metastatic NRAS Mutation-positive Melanoma,0.0009226391150385435,0.0010410552196034103
+NCT01775514,"A Non-Interventional Study of the Occurrence Rate of Non-Small Cell Lung Cancer, Colon Cancer, Breast Cancer, Gastric Cancer and Malignant Melanoma in Turkey, and Diagnosis and Treatment Characteristics",0.0008541286040596198,0.0008770062366656354
+NCT01726738,LCCC 1128: Open Label Phase II Trial of the BRAF Inhibitor (Dabrafenib) and the MEK Inhibitor (Trametinib) in Unresectable Stage III and Stage IV BRAF Mutant Melanoma; Correlation of Resistance With the Kinome and Functional Mutations,0.0008809354004177922,0.0009940943548839205
+NCT01781026,Phase 2 Study of Neoadjuvant Vemurafenib in Melanoma Patients With Untreated Brain Metastases,0.001125647952694142,0.0009254630864717513
+NCT01781572,A Phase Ib/II Study of LEE011 in Combination With MEK162 in Patients With NRAS Mutant Melanoma,0.001430793390624341,0.0011637091736439468
+NCT01709162,Study to Compare the Effect of Ipilimumab Retreatment With That of Chemotherapy in Advanced Melanoma,0.0009808227595075629,0.0011869773434438774
+NCT01782508,A Phase II Study of Imatinib Versus Interferon as Adjuvant Therapy in KIT-mutated Melanoma,0.0008980554070717413,0.0008927470725573363
+NCT02836548,HDAC Inhibitor Vorinostat in Resistant BRAF V600 Mutated Advanced Melanoma,0.0008430448476919802,0.0010515371965340895
+NCT02891616,18F-FLT PET Imaging in Patients With Advanced Melanoma,0.0011752138533446367,0.0011722034232789478
+NCT02879474,Study of Risk Factors and Clinical Characterization of Rapidly Growing Melanoma,0.0010181499418794437,0.0008369798338305013
+NCT02819843,"A Study of T-VEC (Talimogene Laherparepvec) With or Without Radiotherapy for Melanoma, Merkel Cell Carcinoma, or Other Solid Tumors",0.0008748960026191511,0.000901145569287562
+NCT02884362,Prospective Melanoma Database,0.0014491462581061002,0.0005277858889169122
+NCT02883933,Clinical and Histological Features of Head and Neck Melanoma,0.0010372027926773024,0.0005801712768135542
+NCT02828202,Follow-up of a National Cohort of Melanoma Stage IV and Unresectable Stage III Patients,0.0012954004363712357,0.0014499148215955284
+NCT02828345,Bio-marker Analysis Using Circulating Tumor Cells in Patients With Melanoma,0.001228579407621757,0.0012092682128676286
+NCT02874040,Phase II Evaluating Endoresection of the Tumor Scar or Transpupillary Thermotherapy When Endoresection is Not Feasible After Proton Beam Therapy for the Treatment of Large Uveal Melanomas (Endoresection-Laser),0.000735701666580176,0.0009359832876724816
+NCT02858869,Pembrolizumab and Stereotactic Radiosurgery for Melanoma or Non-Small Cell Lung Cancer Brain Metastases,0.0007765422537253422,0.0009652903386409342
+NCT02858921,"Neoadjuvant Dabrafenib, Trametinib and/or Pembrolizumab in BRAF Mutant Resectable Stage III Melanoma",0.0008261328145327477,0.0010305268742224541
+NCT02854124,Tracing Dissemination of Melanoma Cells in Healthy Tissues,0.0010625730641275226,0.0008830869028315586
+NCT02854657,Teaching Skin Self -Examination to Melanoma Patients and Their Skin Check Partners,0.0010674254623316234,0.0009399183915083138
+NCT02897765,"A Personalized Cancer Vaccine (NEO-PV-01) w/ Nivolumab for Patients With Melanoma, Lung Cancer or Bladder Cancer",0.0010087687681564392,0.0011660788766210647
+NCT02818023,Dose-seeking and Efficacy Study of Pembrolizumab Plus Vemurafenib Advanced Melanoma,0.001032306759360274,0.0013097073601423719
+NCT02838433,Study of Anti-telomerase T CD4 Immunity in Melanoma,0.0012549859713842436,0.0010225485492412953
+NCT02870244,Adoptive T Cell Immunotherapy for Advanced Melanoma Using Engineered Lymphocytes,0.0008828898692785131,0.0007594810294574087
+NCT02862145,"Pharmacodynamics Study of MRX34, MicroRNA Liposomal Injection in Melanoma Patients With Biopsy Accessible Lesions",0.0011325047106941408,0.0009714930083777165
+NCT02862743,Molecular Characterization of Advanced Stage Melanoma by Blood Sampling,0.0008201303585485686,0.0008389586187754467
+NCT02823405,X4P-001 and Pembrolizumab in Patients With Advanced Melanoma,0.0013621271227134573,0.001097218672315485
+NCT02857374,Intravital Microscopy in Identifying Tumor Vessels in Patients With Stage IB-IIIC Melanoma Undergoing Sentinel Lymph Node Biopsy,0.0010034897212973834,0.0010943571893854372
+NCT03101254,LY3022855 With BRAF/MEK Inhibition in Patients With Melanoma,0.001527167094205977,0.0012819783692697721
+NCT01588847,Anesthesia and Cancer Recurrence im Malignant Melanoma,0.0008474717233059392,0.0007546429105626241
+NCT01557114,Study of Radiotherapy Administered in Combination With Ipilimumab in Patients With Unresectable Stage III or Stage IV Advanced Malignant Melanoma,0.0014133996985579377,0.0014377248571889917
+NCT01528774,Culture and Characterization of Circulating Tumor Cells (CTC) in Melanoma and Other Cancers,0.0007562247432981347,0.000881599517831963
+NCT01519323,BRIM-P: A Study of Vemurafenib in Pediatric Patients With Stage IIIC or Stage IV Melanoma Harboring BRAFV600 Mutations,0.001213809376211222,0.0010702128086694303
+NCT01519427,Selumetinib and Akt Inhibitor MK2206 in Treating Patients With Stage III or Stage IV Melanoma Who Failed Prior Therapy With Vemurafenib or Dabrafenib,0.0011191026859284933,0.0013397220654790638
+NCT01586403,Transfer of Genetically Engineered Lymphocytes in Melanoma Patients,0.0012232264332750664,0.001066695139591658
+NCT01551693,STA-9090(Ganetespib) in Patients With Unresectable Stage III or Stage IV Melanoma,0.0012954004363712357,0.0010297966225917027
+NCT01522664,A Study of DEDN6526A in Patients With Metastatic or Unresectable Melanoma,0.001288609191687146,0.0010169750135716408
+NCT01590082,"Doxycycline, Temozolomide and Ipilimumab in Melanoma",0.000913756650124266,0.0009895038613719658
+NCT01585415,Vemurafenib and White Blood Cell Therapy for Advanced Melanoma,0.0008638941613329546,0.0011655978867632203
+NCT01585350,A Multipeptide Vaccine Plus Toll-Like Receptor Agonists in Melanoma Patients,0.0010755955343185264,0.0010478415233601802
+NCT01502293,Trial of pIL-12 Electroporation Malignant Melanoma,0.0010292963106361959,0.0010410883885751002
+NCT01502696,Adjuvant PEG Intron in Ulcerated Melanoma,0.0010224298811793075,0.0010531242077652546
+NCT01558349,Circulating Tumor Cells and Melanoma: Comparing the EPISPOT and CellSearch Techniques,0.0014521156062505772,0.0010904677863946776
+NCT01546571,"Study of a Melanoma Vaccine in Stage IIb, IIc, and III Melanoma Patients",0.0012377391579652041,0.001512571116860591
+NCT01531608,Evaluation Of Mobile Gamma Camera Imaging For Sentinel Node Biopsy In Melanoma,0.0008524672686712182,0.0008632478819853754
+NCT01531244,"Isolated Limb Infusion Chemotherapy With Targeted Gene Therapy for Advanced, Unresectable Extremity Melanoma",0.000816324267008975,0.001154853011764483
+NCT01565837,Concurrent Ipilimumab and Stereotactic Ablative Radiation Therapy (SART) for Oligometastatic But Unresectable Melanoma,0.0008429178995826026,0.0010610653055494006
+NCT01500304,Minimally Invasive Groin Dissection for Melanoma,0.0008296042978981924,0.0008920841439385369
+NCT01563614,"A Clinical Trial to Assess the Safety & Efficacy of the Treatment of Patients With Metastasis From Malignant Melanoma - Treatment Consists of the Substances Lomustine (Capsules) & Cytarabine (Injected Into an Area Near the Spinal Cord), Accompanied by Radiotherapy of the Brain",0.001007010362082287,0.0008263367279897013
+NCT01530698,Single-step Antigen Loading and TLR Activation of Dendritic Cells in Melanoma Patients,0.0012385829980325193,0.0010907313565592966
+NCT01533948,Axitinib in Treating Patients With Melanoma That is Metastatic or Cannot Be Removed by Surgery,0.001085703067266506,0.0013910397988401255
+NCT01584648,A Study Comparing Trametinib and Dabrafenib Combination Therapy to Dabrafenib Monotherapy in Subjects With BRAF-mutant Melanoma,0.0009180973504025518,0.0009445567467728926
+NCT01556503,Sensitivity/Specificity Study of Non-invasive Imaging for Melanoma Diagnosis,0.00084428782865029,0.0008720169997370263
+NCT01503827,Whole Brain Radiotherapy Following Local Treatment of Intracranial Metastases of Melanoma,0.0007712637440530447,0.0007227759823085845
+NCT01512251,BKM120 Combined With Vemurafenib (PLX4032) in BRAFV600E/K Mutant Advanced Melanoma,0.0012156830826441135,0.000793169844440973
+NCT01543113,"cKIT, BRAF/NRAS Mutations in Advanced Melanoma : Clinical Outcome in Response to Tyrosine-kinase Inhibitors - KitMel Project",0.0007805180394689591,0.001080360516464981
+NCT02203604,High-Dose Aldesleukin and Ipilimumab in Treating Patients With Stage III-IV Melanoma That Cannot Be Removed By Surgery,0.0011234900135357931,0.001356452491710017
+NCT02203864,Dose Escalation Study to Evaluate Safety and Tolerability of an Allogeneic Tumor Vaccine BIWB 2 in Patients With Advanced Malignant Melanoma,0.0011773429135800565,0.0012109050561447882
+NCT02223884,A Study to Evaluate the Efficacy of Docetaxel and Carboplatin in Metastatic Malignant Melanoma Failed First-Line Dacabazine or Temozolomide Contained Therapy,0.0009014971376275165,0.0009680021927417754
+NCT02257424,"The BAMM Trial: BRAF, Autophagy and MEK Inhibition in Metastatic Melanoma: A Phase I/2 Trial of Dabrafenib, Trametinib and Hydroxychloroquine in Patients With Advanced BRAF Mutant Melanoma",0.0010580684583089272,0.0011554286119126193
+NCT02251314,Use of Exome Sequence Analysis and Circulating Tumour in Assessing Tumour Heterogeneity in BRAF Mutant Melanoma,0.001068566605457304,0.0008414326381529072
+NCT02259231,RTA 408 Capsules in Patients With Melanoma - REVEAL,0.0012143290614388118,0.0014390893730864376
+NCT02225366,Intratumoral Injections of LL37 for Melanoma,0.0014592843099860643,0.0010931808837276115
+NCT02275416,Safety of UV1 Vaccination in Combination With Ipilimumab in Patients With Unresectable or Metastatic Malignant Melanoma,0.0010998269537524621,0.0011429606156234933
+NCT02285413,Platin-based Chemotherapeutics to Enhance Dendritic Cell Vaccine Efficacy in Melanoma Patients,0.0012142859109213556,0.0009946884803974261
+NCT02230306,Phase II Study of Cobimetinib in Combination With Vemurafenib in Active Melanoma Brain Metastases,0.000868889773240279,0.0009827248190878558
+NCT02211131,Efficacy and Safety of Talimogene Laherparepvec Neoadjuvant Treatment Plus Surgery Versus Surgery Alone for Melanoma,0.0009021626761818069,0.0010533140261730649
+NCT02297529,Expanded Access Study of Talimogene Laherparepvec for Treatment of Subjects With Unresected Stage IIIB-IVM1c Melanoma,0.000979665392810558,0.0011483356609412892
+NCT02236546,FDG-PET in Advanced Melanoma,0.0011893768772241085,0.0010643106630321313
+NCT02296112,Trametinib in Treating Patients With Advanced Melanoma With BRAF Non-V600 Mutations,0.0013557838392271747,0.001295744785589179
+NCT02263508,Pembrolizumab With or Without Talimogene Laherparepvec or Talimogene Laherparepvec Placebo in Unresected Melanoma (KEYNOTE-034),0.0008716428232539622,0.0008117444057473072
+NCT02273219,Trial of AEB071 in Combination With BYL719 in Patients With Melanoma,0.0015780429359842564,0.001137416281487761
+NCT02200562,Ipilimumab and Dabrafenib in the 1st Line Tx of Unresectable Stage III/IV Melanoma,0.0008704004863931855,0.0011146885715992007
+NCT02224781,Dabrafenib and Trametinib Followed by Ipilimumab and Nivolumab or Ipilimumab and Nivolumab Followed by Dabrafenib and Trametinib in Treating Patients With Stage III-IV BRAFV600 Melanoma,0.0011089466792327499,0.0012501612761383633
+NCT02231775,Neoadjuvant and Adjuvant Dabrafenib and Trametinib in Patients With Clinical Stage III Melanoma (Combi-Neo),0.0010493140401630844,0.0011007641236992654
+NCT00590824,Pilot hu14.18-IL2 in Resectable Recurrent Stage III or Stage IV Melanoma,0.0010674157529197415,0.0008229143595688636
+NCT00591500,A Model for Genetic Susceptibility: Melanoma,0.0008311555880574157,0.0007267647274773057
+NCT00591370,Phase II Trial of Extended-Dosing Temozolomide in Patients With Melanoma,0.0012349305983087664,0.0010797053478963608
+NCT00518206,Study of NY-ESO-1 ISCOMATRIX® in Patients With Measurable Stage III or IV Melanoma,0.0013002257874685692,0.0011680148896350794
+NCT00518895,Trial of Dacarbazine With or Without Genasense in Advanced Melanoma,0.0009716710664997037,0.0009117457431453809
+NCT00580320,Safety Study of Dacarbazine and Bortezomib in Melanoma and Soft Tissue Sarcoma,0.0009029904151352701,0.0009241420874836583
+NCT00580060,"Injection Of AJCC Stage IIB, IIC, III And IV Melanoma Patients With A Multi-Epitope Peptide Vaccine Using GM-CSF DNA As An Adjuvant: A Pilot Trial To Assess Safety And Immunity",0.0009877612022453387,0.0011333471837369634
+NCT00539591,Phase II Study Incorporating Pegylated Interferon In the Treatment For Children With High-Risk Melanoma,0.0009656642374499397,0.0011272910801307893
+NCT00577382,SU011248 in Patients With Metastatic Mucosal or Acral/Lentiginous Melanoma,0.0012625763780554633,0.0009574658517581969
+NCT00510302,Melanoma Risk-Reduction Among Patients and Family Members,0.0012138036077208299,0.0007044894361585294
+NCT00584493,Treatment Use Study for Advanced Melanoma.,0.0011961959088296536,0.0014653850596454134
+NCT00581698,Intraoperative Mapping of Regional Lymphatics Draining the Primary Site of Melanoma Using Isosulfan Blue,0.000696285995666435,0.0008397071117285434
+NCT00526032,Melanoma Detection by Oblique-Incidence Optical Spectroscopy,0.0010273993714684584,0.0005996895162177334
+NCT00565968,Sorafenib and Isolated Limb Infusion of Melphalan in Treating Patients With Stage III Melanoma of the Arm or Leg,0.0010261156359263463,0.0010133866262694922
+NCT00596362,Treatment With Intravitreal Avastin for Large Uveal Melanomas,0.001108893945103297,0.0011036404937836161
+NCT00533702,A Study of IMC-1121B (Ramucirumab) With or Without Dacarbazine in Metastatic Malignant Melanoma,0.0010727469814963667,0.0010644223506413985
+NCT00553618,"Adjuvant, Combined Interleukin 2 (Proleukin) and DTIC (Dacarbazine) in High-risk Melanoma Patients",0.0010126764899616582,0.0011283845312210048
+NCT00553306,Laboratory-Treated T Cells and Aldesleukin After Cyclophosphamide in Treating Patients With Stage IV Melanoma,0.0010675035464225888,0.001133126225124536
+NCT00559026,Phase I/II Study of Chemo-Immunotherapy Combination in Melanoma Patients,0.0011685528628949688,0.0010352400168838138
+NCT00525031,Temozolomide Alone or With Pegylated Interferon-Alpha 2b (PGI) in Melanoma Patients,0.0010162899782020713,0.0013794225385577602
+NCT00522834,Elesclomol (STA-4783) With Paclitaxel Versus Paclitaxel Alone in Melanoma,0.0008468526745235006,0.0007635888517554648
+NCT00521001,Temozolomide and Everolimus in Treating Patients With Stage IV Melanoma That Cannot be Removed by Surgery,0.0011123974856938543,0.0011002720152844116
+NCT00585000,"A Study To Assess The Safety Of Administering CP-675,206 As A One Hour Infusion In Patients With Surgically Incurable Advanced Melanoma",0.0012183740668069245,0.0012993664407487142
+NCT00515983,Vaccination of Melanoma Patients With Dendritic Cells Loaded With Allogeneic Apoptotic-Necrotic Melanoma Cells,0.0010902416228443605,0.0012131165313588302
+NCT00588198,"Peripheral Blood and/or Bone Marrow, Including Detection of Occult Metastases, in Patients With Melanoma",0.0009665148813096498,0.0012368494461544063
+NCT00588341,Phase II Trial of Neoadjuvant Temozolomide in Melanoma Patients With Palpable Stage III or IV Disease Undergoing Complete Surgical Resection,0.0010617326904106077,0.0011952071284208404
+NCT00535314,Study of Two Dose Levels of RTA 402 in Patients With Advanced Malignant Melanoma,0.0012203617005637731,0.001296299484780696
+NCT00506311,Evaluating the Use of Fibrin Tissue Adhesive in Melanoma Patients,0.001222638714375106,0.0006911615296216006
+NCT00543205,"Pharmacokinetics of G3139 in Subjects With Advanced Melanoma, Including Those With Normal Hepatic Function and Those With Moderate Hepatic Impairment",0.0007585566337080774,0.0006806258285986784
+NCT00568763,Radiofrequency Therapy-Induced Endogenous Heat-Shock Proteins With or Without Radiofrequency Ablation or Cryotherapy in Treating Patients With Stage IV Melanoma,0.0010274394640353264,0.0010011944505122425
+NCT00568451,Paclitaxel and Carboplatin or Temozolomide in Treating Patients With Stage IV Melanoma,0.0011053291913649132,0.001094482226658518
+NCT00568048,Temozolomide and Bevacizumab in Treating Patients With Stage IV Melanoma That Cannot Be Removed By Surgery,0.0011176686503510667,0.0010824357252732864
+NCT00507325,Sample Collection From Melanoma Patients,0.0015262053186412788,0.001195784107401429
+NCT00536029,MicroRNA Expression and Function in Cutaneous Malignant Melanoma,0.0010265420266530492,0.0006700625066661215
+NCT00512798,Bortezomib and Temozolomide in Treating Patients With Advanced Refractory Solid Tumors or Melanoma,0.0011249593597276622,0.0010486712781895436
+NCT00512889,Adoptive Transfer of MART1/Melan-A CTL for Malignant Melanoma,0.0014505958179251287,0.0009075889561448766
+NCT00527761,Taxotere/Temodar/Cisplatin Study in Melanoma Patients,0.0011257025309866517,0.0011022343178443675
+NCT00527657,"Temozolomide, Thalidomide, and Lomustine (TTL) in Melanoma Patients",0.001081030377155767,0.0010499228915145677
+NCT00504582,Fibrin Melanoma Axillary Node Study in Patients With Melanoma,0.001208936849093675,0.000888367264229225
+NCT00538005,"Sorafenib, Bevacizumab, and Oxaliplatin in Treating Patients With Metastatic Malignant Melanoma",0.001033084501628762,0.0010301399184951888
+NCT02739386,Study of Autoimmune Disease Complications Following Ipilimumab Treatment Among Melanoma Patients With Underlying Autoimmune Diseases,0.001154307404881717,0.0009754262887126249
+NCT02731729,Ipilimumab vs Ipilimumab Plus Nivolumab in Patients With Stage III-IV Melanoma Who Have Progressed or Relapsed on PD-1 Inhibitor Therapy,0.0011176135402378297,0.001102641462799403
+NCT02791594,Imaging FDG Flare in Melanoma,0.0010328325891621627,0.001001132634922198
+NCT02723721,Prospective Study of Ingenol Mebutate for Non-invasive Lentigo Melanoma of the Face,0.0008314518095780488,0.0008357924032568003
+NCT02723006,"Study to Evaluate the Safety, Tolerability, and Pharmacodynamics of Investigational Treatments in Combination With Standard of Care Immune Checkpoint Inhibitors in Participants With Advanced Melanoma",0.0009253418533527063,0.001045179523551527
+NCT02717364,"Yervoy® Postmarketing Surveillance for Patients in Japan With Unresectable, Malignant Melanoma",0.0011009065939386966,0.0009442256790347407
+NCT02799901,Nivolumab Plus Radiotherapy in Advanced Melanoma,0.000993564349345831,0.0008238363010750512
+NCT02794636,Interferon Toxicities in Melanoma Treatment,0.000903414146536798,0.001049060947642265
+NCT02716948,SRS and Nivolumab in Treating Patients With Newly Diagnosed Melanoma Metastases in the Brain or Spine,0.0009865444306492745,0.0012062488946852157
+NCT02716077,Early FDG PET in Melanoma,0.0014491462581061002,0.0007924178661255089
+NCT02748564,Aldesleukin and Pembrolizumab in Treating Patients With Stage III-IV Melanoma,0.0011765094520740898,0.0013303380280315633
+NCT02744209,Immune Predictors of Response to Pembrolizumab Therapy in Stage IV Melanoma Patients,0.001120095996303035,0.0012555926567047657
+NCT02721459,XL888 + Vemurafenib + Cobimetinib for Unresectable BRAF Mutated Stage III/IV Melanoma,0.0008929946865447845,0.0011616312805527234
+NCT02718391,Complementary Vaccination With Dendritic Cells Pulsed With Autologous Tumor Lysate in Resected Stage III and IV Melanoma Patients.,0.0010679652670562334,0.0009686593511107068
+NCT02718066,"Study of HBI-8000 With Nivolumab in Melanoma, Renal Cell Carcinoma and Non-Small Cell Lung Cancer",0.0009083398803692647,0.0013402968721680497
+NCT02768207,A Study to Detect V-Raf Murine Sarcoma Viral Oncogene Homolog B1 (BRAF) V600 Mutation on Cell-Free Deoxyribonucleic Acid (cfDNA) From Plasma in Participants With Advanced Melanoma,0.0009034814561252657,0.0009029236298499557
+NCT02796352,A Phase II Study of High Dose Bolus IL2 in Patients With Inoperable Stage III or Stage IV Melanoma Who Have Failed Prior Anti-PD1 Immunotherapy: Efficacy and Biomarker Study,0.0012563993194396462,0.0011924980318855662
+NCT02759536,In-hospital Neutron Irradiator (IHNI)-Based Boron Neutron Capture Therapy (BNCT) in the Treatment of Malignant Melanoma,0.0011107961816707783,0.000910138715909313
+NCT02700763,[18F]Dabrafenib Molecular Imaging in Melanoma Brain Metastasis,0.0010450043246256048,0.0009672164752648839
+NCT02738489,A Study to Evaluate the Safety and Tolerability of Using the SHR-1210 by Advanced Melanoma Subjects,0.0010089880641554988,0.0011978490867328073
+NCT03028948,Interactive Tailored Website to Promote Sun Protection and Skin Self-Check Behaviors in Patients With Stage 0-III Melanoma,0.0009817625236639062,0.00094967163833649
+NCT03084640,Phase 1b Study Evaluating Alternative Routes of Administration of CMP-001 in Combination With Pembrolizumab in Subjects With Advanced Melanoma,0.0009796146252896247,0.0009102254055473627
+NCT03005639,ML29255 Neoadjuvant Vemurafenib and Cobimetinib Melanoma,0.0008687935317742395,0.0009407822306384374
+NCT03089606,Pembrolizumab TX-naive Distant Mets Melanoma and Use of AMT (PET) at Baseline as Imaging Biomarker,0.0007335165072537814,0.0007947427058996506
+NCT03064763,Study to Evaluate the Safety/ Efficacy of T-VEC in Japanese Subjects With Unresectable Stage IIIB-IV Malignant Melanoma,0.0009693891419801164,0.001402207713368948
+NCT03034395,Study of 1cm Versus 2cm Margins for the Surgical Treatment of cT2N0M0 Melanoma,0.0011270360950192254,0.0012552591837586974
+NCT03026517,Clinical Trial of Phenformin in Combination With Dabrafenib and Trametinib for Patients With BRAF-mutated Melanoma,0.0010085508583319318,0.0010050653807793328
+NCT03007823,High-activity Natural Killer Immunotherapy for Small Metastases of Melanoma,0.0007819950959279447,0.0011964530554581794
+NCT03088176,Combining Talimogene Laherparepvec With BRAF and MEK Inhibitors in BRAF Mutated Advanced Melanoma,0.0011874251110233671,0.0010443082674418032
+NCT03050060,"Image Guided Hypofractionated Radiation Therapy, Nelfinavir Mesylate, and Nivolumab in Treating Patients With Advanced Melanoma, Lung, or Kidney Cancer",0.0010455300559415607,0.0010977236342589716
+NCT03021460,Pembrolizumab and Ibrutinib in Treating Patients With Stage III-IV Melanoma That Cannot Be Removed by Surgery,0.0011019255944356653,0.0013092256580977102
+NCT03068455,An Investigational Immuno-therapy Study of Nivolumab Combined With Ipilimumab Compared to Nivolumab or Ipilimumab by Itself After Complete Surgical Removal of Stage IIIb/c/d or Stage IV Melanoma,0.0009959049369216131,0.0010395543038264517
+NCT03003676,"A Pilot Study of Sequential ONCOS-102, an Engineered Oncolytic Adenovirus Expressing GMCSF, and Pembrolizumab in Patients With Advanced or Unresectable Melanoma Progressing After Programmed Cell Death Protein 1 (PD1) Blockade",0.00121462134242814,0.0010103317198702322
+NCT03086174,Tolerability and Pharmacokinetics of JS001 in Combination With Axitinib in Patients With Kidney Cancer and Melanoma,0.0010265385616736427,0.001209376366990685
+NCT03057327,Promoting Early Detection of Melanoma During the Mammography Experience,0.0008296497132070903,0.0006251632603330909
+NCT03012009,Laser Assisted Drug Delivery in the Treatment of Superficial Non Melanoma Skin Cancer: a Randomized Controlled Trial,0.0007254216641505465,0.0006884963231441132
+NCT03073031,The Use of PatientReportedOutcomes (PRO)- CTCAE by Melanoma Patients Receiving Immunotherapy,0.001548063200096874,0.0009330325979325037
+NCT03069846,"Diagnosing Melanoma, Squamous Cell Carcinoma and Basal Cell Carcinoma Using the Spectra-Scope",0.0008348011743518729,0.0004973609507373673
+NCT03002376,An Exploratory Tumor Biopsy-driven Study to Understand the Relationship Between Biomarkers and Clinical Response in Melanoma Patients Receiving REGN2810 (Anti-PD-1),0.0010917979064218467,0.0011641756085993096
+NCT03024866,Electronic Brachytherapy (eBx)-Mohs Matched Pair - Cohort Study A Multi-Center Retrospective-Prospective Matched Pairs Cohort Study to Assess Long-term Clinical Outcomes of Non-melanoma Skin Cancer Patients Treated With eBx Compared to Non-melanoma Skin Cancer Patients Treated With Mohs Surgery,0.0010713237748894227,0.0009309073090000378
+NCT03033576,Ipilimumab With or Without Nivolumab in Treating Patients With Melanoma That is Stage IV or Stage III and Cannot Be Removed by Surgery,0.0012069265564921407,0.0013800772871483298
+NCT03033485,18F‐Labeled Picolinamide PET Imaging of Melanoma Diagnosis,0.0007521003425653328,0.001002151001698579
+NCT00203008,A Survey Study to See if Patients Diagnosed With Parkinson's Disease Have Higher Incidence of Melanoma,0.0011271017280523573,0.001179642878470121
+NCT00256282,Docetaxel and Vinorelbine Plus Sargramostim in Metastatic Malignant Melanoma,0.0007859604418357806,0.0008372456750479183
+NCT00255762,"Carboplatin, Paclitaxel, and Bevacizumab in Treating Patients With Stage IV Melanoma That Cannot Be Removed By Surgery",0.001093422125777519,0.0010753204464376241
+NCT00243529,Peptide-pulsed vs. RNA-transfected Dendritic Cell Vaccines in Melanoma Patients,0.0010263030434959936,0.0011595785455861055
+NCT00243594,Dendritic Cell Vaccination in Melanoma Patients Scheduled for Regional Lymph Node Dissection,0.0010142264607050386,0.0009530843042886031
+NCT00243061,AZD2171 in Treating Patients With Recurrent or Stage IV Melanoma,0.0016937643708056847,0.0013450417205026711
+NCT00204607,Intradermal Vaccination With Stabilized Tumor mRNA - a Clinical Phase I/II Trial in Melanoma Patients,0.0010318959497781712,0.0010508854604149563
+NCT00204529,Pegylated Interferon-alpha-2a in Patients With Malignant Melanoma Stage IIA-IIIB,0.0012556836766076257,0.00120362696601601
+NCT00204581,Intralesional Treatment With Interleukin-2 (Proleukin) in Soft Tissue Melanoma Metastases,0.0007683632354852332,0.0009323360891370238
+NCT00235482,Intratumoural Administration of Coxsackievirus A21 for the Control of Malignant Melanoma,0.0010292544084321512,0.0012919405872024352
+NCT00278122,Paclitaxel and GM-CSF in Treating Patients With Stage III or Stage IV Melanoma That Cannot Be Removed By Surgery,0.0011780863776732883,0.0012850736242950524
+NCT00264056,Efficacy of Chemotherapy Combined With Regional Hypothermia in Advanced Malignant Melanoma Patients With Progressive Soft Tissue Metastases,0.0010689782027247538,0.0011697364096515924
+NCT00281957,Sorafenib With Either Temsirolimus or Tipifarnib in Treating Patients With Stage IV Malignant Melanoma That Cannot Be Removed By Surgery,0.0010786585123036838,0.0010370442736366795
+NCT00281541,A Study for the Treatment of Unresectable Stage III or Metastatic Stage IV Melanoma,0.0010822288458660078,0.0014450906507551685
+NCT00288938,Natural History Study of Moles and Suspicious Melanoma,0.0008860882908046431,0.0009104790543714374
+NCT00294476,"IVIG in the Treatment of Metastatic Cancers of the Prostate, Colon and Melanoma",0.0007932182478643614,0.0012529569329280655
+NCT00246012,"A Safety and Efficacy Study of Intetumumab, Alone and in Combination With Dacarbazine, in Participants With Stage 4 Melanoma",0.0009393688926296231,0.001140488278640049
+NCT00273910,Evaluation of the Impact of Adjuvants Accompanying Peptide Immunization in High-Risk Melanoma,0.0007801394189384922,0.00140575710593704
+NCT00217542,Azacitidine and Recombinant Interferon Alfa-2b in Treating Patients With Stage III or Stage IV Melanoma or Stage IV Kidney Cancer That Cannot Be Removed By Surgery,0.0011538929366361978,0.0011512224538348394
+NCT00232726,Clinical Study of Previously Untreated Patients With Malignant Melanoma,0.001222563342292517,0.0011644574981308532
+NCT00200577,Tumor Infiltrating Lymphocytes Adjuvant Therapy of Melanoma,0.000778263897509607,0.0009606540395455838
+NCT00289640,Study of Ipilimumab (MDX-010) Monotherapy in Patients With Previously Treated Unresectable Stage III or IV Melanoma,0.0012848730261552249,0.0014717928167194774
+NCT00289016,A Study of Talimogene Laherparepvec in Stage IIIc and Stage IV Malignant Melanoma,0.0011674234406136282,0.0013466961500346749
+NCT00289627,A Single Arm Study of Ipilimumab Monotherapy in Patients With Previously Treated Unresectable Stage III or IV Melanoma,0.0012203451066339578,0.0012156284940249584
+NCT00226473,Standard Palliative Care Versus Standard Palliative Care Plus Polychemotherapy in Metastasized Malignant Melanoma,0.0007474800209174477,0.0010137000640719764
+NCT00258687,"Vaccine Trial for Clear Cell Sarcoma, Pediatric Renal Cell Carcinoma, Alveolar Soft Part Sarcoma and Children With Stage IV Melanoma",0.000801301701355586,0.0010243311675139281
+NCT00257465,"Trial of Autologous, Hapten-Modified Vaccine in Patients With Stage III or IV Melanoma",0.00117305496643634,0.001242221360494117
+NCT00272415,"A Study of Intravenous INO-1001 Plus Oral Temozolomide to Evaluate Tolerability, Safety, and Pharmacokinetics in Patients With Melanoma",0.0011151686556768758,0.001021977632068795
+NCT00287196,Immediate Radiotherapy or Observation After Surgery for Melanoma Involving Lymph Nodes,0.000749500426821131,0.0006665851364754467
+NCT02366195,Single-arm Trial to Evaluate the Role of the Immune Response to Talimogene Laherparepvec in Unresected Melanoma,0.0007080136334300565,0.000987301964267969
+NCT02334735,A Comparison of Matured Dendritic Cells and Montanide® in Study Subjects With High Risk of Melanoma Recurrence,0.0008589751479438838,0.0008728130502869334
+NCT02352623,Quality of Life and Surgical Late Effects of Melanoma Treatment,0.0009513398509850942,0.0011047592851428
+NCT02335476,Automatic Early Melanoma Detection by Ultrahigh Resolution Three Dimensional Optical Coherence Tomography,0.0008347963165459116,0.0006668399605318457
+NCT02332668,"A Study of Pembrolizumab (MK-3475) in Pediatric Participants With Advanced Melanoma or Advanced, Relapsed, or Refractory PD-L1-Positive Solid Tumors or Lymphoma (MK-3475-051/KEYNOTE-051)",0.0009227680358023274,0.0009913376299807355
+NCT02310451,Study of Molecular Mechanisms Implicated in the Pathogenesis of Melanoma. Role of Exosomes,0.0008897509743269552,0.0010988312984502072
+NCT02306512,Mohs and Immunofluorescence for Malignant Melanoma In Situ,0.0014491462581061002,0.0009639093877650952
+NCT02306850,Neoadjuvant Pembrolizumab for Unresectable Stage III and Unresectable Stage IV Melanoma,0.000929621856751115,0.0011501123224124821
+NCT02362594,Study of Pembrolizumab (MK-3475) Versus Placebo After Complete Resection of High-Risk Stage III Melanoma (MK-3475-054/KEYNOTE-054),0.0009160811882086823,0.0008926673318855124
+NCT02300935,Study of Trametinib and Nab-paclitaxel in Patients With Melanoma,0.0012239571675683905,0.0011609595262566184
+NCT02308020,"A Study of Abemaciclib (LY2835219) in Participants With Breast Cancer, Non-small Cell Lung Cancer, or Melanoma That Has Spread to the Brain",0.0008316149015927222,0.0008360986526704249
+NCT02375984,A Study Using Tumor-Reactive Autologous Tumor Infiltrating Lymphocytes (TIL) in Metastatic Melanomas,0.0008771268624386717,0.0010094075544838596
+NCT02388906,Efficacy Study of Nivolumab Compared to Ipilimumab in Prevention of Recurrence of Melanoma After Complete Resection of Stage IIIb/c or Stage IV Melanoma (CheckMate 238),0.0009583373574633319,0.0010297517147659766
+NCT02385669,A Phase I/II Trial to Evaluate a Peptide Vaccine Plus Ipilimumab in Patients With Melanoma,0.0011287557431310159,0.0012327827986266873
+NCT02385214,MelmarT Melanoma Margins Trial Investigating 1cm v 2cm Wide Excision Margins for Primary Cutaneous Melanoma,0.0010243605164430914,0.0006878566935393233
+NCT02385253,Training Primary Care Physicians to Perform Melanoma Opportunistic Surveillance,0.0006962310059190722,0.00047682309321795183
+NCT02374242,Anti‐PD 1 Brain Collaboration for Patients With Melanoma Brain Metastases,0.0012389805164447778,0.0012681191657073609
+NCT02320058,A Study to Evaluate Safety and Effectiveness in Patients With Melanoma That Has Spread to the Brain Treated With Nivolumab in Combination With Ipilimumab Followed by Nivolumab by Itself,0.00115887133451821,0.0011140967156039064
+NCT02320305,MART-1 Antigen With or Without TLR4 Agonist GLA-SE in Treating Patients With Stage II-IV Melanoma That Has Been Removed by Surgery,0.0010135723379586592,0.0011662741281610299
+NCT02372708,Clinical Research on the Treatments on Advanced Malignant Melanoma by Combining in Situ Immunotherapy and Laser Therapy,0.0008633735490352916,0.0007087123161497609
+NCT02327390,Ex Vivo-Activated Lymph Node Lymphocytes in Treating Patients With Stage IIIC-IV Melanoma,0.001099636166513648,0.0013075622281990076
+NCT02318771,"Radiation Therapy and MK-3475 for Patients With Recurrent/Metastatic Head and Neck Cancer, Renal Cell Cancer, Melanoma, and Lung Cancer",0.0010023967228883473,0.001157155461223404
+NCT02302339,A Study of Glembatumumab Vedotin as Monotherapy or in Combination With Immunotherapies in Patients With Advanced Melanoma,0.0012036991114073685,0.0012610275863101494
+NCT02303951,Neoadjuvant Vemurafenib + Cobimetinib in Melanoma: NEO-VC,0.0008687935317742395,0.0009309750009751114
+NCT02331134,Tissue and Hematopoietic Stem Cell for Humanized Xenograft Studies in Melanoma and Squamous Head and Neck Cancer,0.0006967303822382854,0.0008350003546514566
+NCT02355574,5-year Study to Track Clinical Application of DecisionDx-Melanoma Gene Expression Profile Assay Results,0.0007993762174448642,0.0006517490235784802
+NCT02355587,Five Year Study to Track Use of DecisionDX-Melanoma Test in Patients With Cutaneous Melanoma and Associated Patient Outcomes,0.001127259795542148,0.0008493345405729531
+NCT02307149,Study of Intratumoral CAVATAK™ (Coxsackievirus A21) and Ipilimumab in Patients With Advanced Melanoma,0.0013663586088378853,0.001490745559881936
+NCT02301611,Phase IIB TL + YCWP + DC in Melanoma,0.002777704469023434,0.0009193364081512349
+NCT02316795,Fluorescence Imaging in Sentinel Lymph Node Biopsy for Breast Cancer and Melanoma,0.0008384639671151608,0.0007975284142993383
+NCT02393001,Analysis of Skin Lesions for Melanoma Presence by Volatile Spectroscopy Techniques,0.0007003024475498895,0.000801205230103241
+NCT02339571,Nivolumab and Ipilimumab With or Without Sargramostim in Treating Patients With Stage III-IV Melanoma That Cannot Be Removed by Surgery,0.001127054454556594,0.0012579903443859725
+NCT02339987,Procure Tumor and Initiate Melanoma Tumor-Reactive Tumor Infiltration,0.0008668950425744949,0.001244001831544951
+NCT01308294,Immunotherapy of HLA-A2 Positive Stage II-IV Melanoma Patients,0.0010903825375178722,0.0012103583361638848
+NCT01308762,"A Clinical Study, to Evaluate the Safety and Tolerability of Intradermal IMM-101 in Adult Melanoma Cancer Patients",0.0011142017692475517,0.0013673755679319182
+NCT01388569,Biomarkers in Blood Samples From Patients With Stage IV Melanoma Previously Treated With Sargramostim,0.0011000865261705053,0.0011850615674599023
+NCT01336270,"Characterisation of T Lymphocytes, NK Cells and Macrophages in Melanoma Patients",0.0010893116035342247,0.0010691403352102657
+NCT01341158,NAM-Trial: Multiferon in Malignant Melanoma,0.0014491462581061002,0.0008313653898459783
+NCT01328535,Individualized Temozolomide in Treating Patients With Stage IV Melanoma That Cannot Be Removed By Surgery,0.001158342597498982,0.0013042910488577503
+NCT01303341,Riluzole and Sorafenib Tosylate in Treating Patients With Advanced Solid Tumors or Melanoma,0.001108851138436426,0.0012837253863074202
+NCT01320085,A Phase II Study of Single Agent MEK162 in Patients With Advanced Melanoma,0.0012252788689176806,0.0012218406859241357
+NCT01321437,Study of the Anti-Angiogenesis Agent Axitinib in Patients With Stage III Malignant Melanoma,0.001162852653316336,0.0014045915918628792
+NCT01311466,Liver Transplantation and Uveal Malignant Melanoma,0.0014491462581061002,0.0010305380072077644
+NCT01323517,Addition of Ipilimumab (MDX-010) To Isolated Limb Infusion (ILI) With Standard Melphalan and Dactinomycin In The Treatment of Advanced Unresectable Melanoma of The Extremity,0.0008790581421761259,0.0010377816926879317
+NCT01356771,Melanoma Risk Assessment & Tailored Intervention,0.0010224060584541647,0.0006681162254662353
+NCT01302496,Autologous TriMix-DC Therapeutic Vaccine in Combination With Ipilimumab in Patients With Previously Treated Unresectable Stage III or IV Melanoma,0.0011674585516997299,0.0010373097147031102
+NCT01355120,THE IPI - Trial in Advanced Melanoma: Melanoma Patients With Advanced Disease,0.0013395503382020342,0.0011041630548925731
+NCT01355562,Trial of Outpatient Intravenous Interleukin-2 in Malignant Melanoma and Metastatic Kidney Cancer,0.0007453593399014766,0.0009600814657340378
+NCT01359956,Fotemustine and Dacarbazine Versus Dacarbazine +/- Alpha Interferon in Advanced Malignant Melanoma,0.0008563954703441312,0.0010295990375963516
+NCT01397708,Safety Study of Adenovirus Vector Engineered to Express hIL-12 in Combination With Activator Ligand to Treat Melanoma,0.0009240002138364581,0.001033333054768379
+NCT01338389,Influence of Oral Treatment With Citicoline for the Prevention of Radiation Optic Neuropathy in Patients Treated for Uveal Melanomas With Proton Beam Therapy,0.000997709844184036,0.001034900250045828
+NCT01316692,Aurora A Kinase Inhibitor MLN8237 in Treating Patients With Unresectable Stage III-IV Melanoma,0.00118994238602803,0.0011442859795987223
+NCT01368276,An Extended Use Study of Safety and Efficacy of Talimogene Laherparepvec in Melanoma,0.0012539947112275838,0.0012915835542732074
+NCT01363206,Granulocyte Macrophage-Colony Stimulating Factor and Ipilimumab as Therapy in Melanoma,0.0008007902562810046,0.0009415027931469508
+NCT01313429,"Tumor Cell Vaccine for Patients Undergoing Surgery for Sarcomas, Melanomas, Germ Cell Tumors, or Malignancies That Have Metastasized to the Lungs, Pleura, or Mediastinum",0.00103252243114763,0.0013595319854070227
+NCT00815607,Trial of an Intratumoral Injections of INXN-3001 in Subjects With Stage III or IV Melanoma,0.0011775945579608567,0.0011713492867160495
+NCT00813449,Safety Study of Combined Chemotherapy and Endostar to Untreated Patients With Advanced Melanoma,0.001188358320128875,0.0010333537417016017
+NCT00871533,Pilot Study of IFN α2b for Melanoma Patients,0.001755885322770282,0.0010848890604834784
+NCT00811759,Sorafenib and Temozolomide in Treating Patients With Stage III or Stage IV Melanoma,0.0011812968157870476,0.0011568093455209551
+NCT00816374,Tailored Intervention for Melanoma Patient's Families,0.0015252312462993877,0.0008266800215217366
+NCT00831545,"Study to Evaluate the Efficacy and Safety of Temozolomide in Subjects With Brain Metastases of Either Malignant Melanoma, Breast, or Non-small Cell Lung Cancer (P02064)",0.0008522513534660667,0.000977774816990354
+NCT00866177,MEK Inhibitor AZD6244 in Treating Patients With Stage III or Stage IV Melanoma,0.0012546254498485914,0.0012807836869180784
+NCT00866840,Riluzole in Treating Patients With Stage III or Stage IV Melanoma That Cannot Be Removed by Surgery,0.0011726180388929159,0.0013087843497081749
+NCT00862914,"Immunohistochemical Expression Patterns of microRNA Processing Enzyme Dicer in Cutaneous Malignant Melanoma, Benign and Dysplastic Melanocytic Naevi",0.0006930043398049783,0.0006343251533425986
+NCT00862901,Safety Study Using Photodynamic Therapy Light Therapy for Patients With Chest Wall Progression of Breast Cancer and Satellite Metastases of Melanoma,0.0010740639905809125,0.0010456212767914678
+NCT00835419,Efficacy Study Of P276-00 In Subjects Of Malignant Melanoma Positive For Cyclin D1 Expression,0.0008965604602687045,0.0013970033137039577
+NCT00835133,"Collecting Blood and Tissue Samples From Family Members of Patients With Pancreatic Diseases, Pancreatic Cancer, and Melanoma",0.0009583775396292721,0.0009486609059095644
+NCT00861406,Adjuvant Therapy of Pegylated Interferon- 2b Plus Melanoma Peptide Vaccine,0.0008354090466285946,0.000875874031814004
+NCT00849407,Genetic Risk Factors and Acquired Oncogenic Mutations of Melanoma,0.0007370616535479095,0.0007178728024307092
+NCT00889980,Melanoma Molecular Profiling Analysis,0.0014536253869651475,0.0007596708873278149
+NCT00847106,Augmentation of Dendritic Cell-Based Vaccines in Melanoma Patients by Depletion of Regulatory T Cells in Stage IV Melanoma Patients,0.0010704369586776812,0.0013245989640956997
+NCT00847522,Fluorescein for Lymphatic Mapping and Sentinel Lymph Node Biopsy in Patients With Stage I and II Malignant Melanoma,0.0010135691429101932,0.001013962404137732
+NCT00897520,Biomarkers in Patients With High-Risk Melanoma Receiving High-Dose Interferon Therapy,0.0010866971072299014,0.001169966999826164
+NCT00897481,Studying Tumor Tissue Samples From Patients With Melanoma Who Have Undergone Sentinel Lymph Node Biopsy,0.0010992840366833222,0.0011113000523473983
+NCT00897546,Biomarkers to Predict Response to Interferon Therapy in Patients With Melanoma,0.001079610107545902,0.001144842779972491
+NCT00826995,Comparison of Video-Based Versus Written Patient Education on Melanoma,0.0010631501138203285,0.0010808165434759583
+NCT00809588,"Vaccination With Autologous, Lethally Irradiated Melanoma Cells Engineered by Adenoviral Mediated Gene Transfer to Secrete Granulocyte-Macrophage Stimulating Factor (GMSF)",0.0006999665323183912,0.0009114565949726232
+NCT00841204,Sulindac in Preventing Melanoma in Healthy Participants Who Are at Increased Risk of Melanoma,0.0010224340615893654,0.0008201448351737742
+NCT00839410,Multicentric Cohort of Melanoma Patients in Ile de France Area,0.0015242502985216868,0.0009015806025733519
+NCT00803374,Combination of Anti-CD137 & Ipilimumab in Patients With Melanoma,0.0013165997611953655,0.0016674317038365117
+NCT00864253,A Trial of ABI-007 Versus Dacarbazine in Previously Untreated Patients With Metastatic Malignant Melanoma,0.0011177867066905188,0.0011732805423070153
+NCT00846833,Haploidentical NK Cell Infusion in Malignant Melanoma,0.000855596469121476,0.0009517035149344018
+NCT01644591,Trial to Determine Local Control and Neurocognitive Preservation After Initial Treatment With Stereotactic Radiosurgery (SRS) for Patients With >3 Melanoma Brain Metastases,0.0010014486501396652,0.0010501414547947807
+NCT01673854,Phase II Safety Study of Vemurafenib Followed by Ipilimumab in Subjects With V600 BRAF Mutated Advanced Melanoma,0.001063167404102968,0.00149890275995509
+NCT01657591,Study of XL888 With Vemurafenib for Patients With Unresectable BRAF Mutated Stage III/IV Melanoma,0.0012572247891799496,0.0009659402146748055
+NCT01676649,Ipilimumab With Carboplatin and Paclitaxel in Patients With Unresectable Stage III and Stage IV Melanoma,0.0011798901228143794,0.0010751785388065384
+NCT01676779,mRNA Electroporated Autologous Dendritic Cells for Stage III/IV Melanoma,0.0009706708441315095,0.0010159024980106982
+NCT01621490,PH 1 Biomarker Study of Nivolumab and Ipilimumab and Nivolumab in Combination With Ipilimumab in Advanced Melanoma,0.0009938962243770638,0.0012467332860612202
+NCT01636882,Efficacy and Safety of Intratumoral CAVATAK in Patients With Stage IIIc or IV Malignant Melanoma to Extend Dosing to 48 Weeks,0.0015689565140426355,0.0012947859046323795
+NCT01636960,A Study of Pegylated Interferon Alfa-2b (MK-4031) as an Adjuvant Treatment in Japanese Patients With Malignant Melanoma (MK-4031-370),0.0012707172938316142,0.001144534004817202
+NCT01666418,Pilot Study Investigating the Metabolic Activity and Transcriptional Profiling in Vivo in Tumor Biopsies in Melanoma Patients During Treatment With Pazopanib Alone and in Combination With Paclitaxel,0.0011638280942338542,0.0013202948500409208
+NCT01610531,COPARIME: Pilot Study of a Target Detection of Malignant Melanoma,0.0012589934512337265,0.0008440936354064926
+NCT01622933,Multiple Antigen-Engineered DC Vaccine for Melanoma,0.0014857041355090539,0.0006614033476330993
+NCT01681212,Phase 2 Study of Ipilimumab Plus Dacarbazine in Japanese Patients With Advanced Melanoma,0.0012784605639746872,0.0013455757269495159
+NCT01614301,"Phase I and Consecutive Phase II, Two-arm, Randomized Multi-center Trial in Patients With Advanced Melanoma",0.0010903669560578127,0.0011641950733801705
+NCT01682213,Adjuvant Dabrafenib (GSK2118436) in Patients With Surgically Resected AJCC Stage IIIC Melanoma Characterized by a BRAFV600E/K Mutation,0.0010706739813936526,0.001465628680644133
+NCT01682083,A Study of the BRAF Inhibitor Dabrafenib in Combination With the MEK Inhibitor Trametinib in the Adjuvant Treatment of High-risk BRAF V600 Mutation-positive Melanoma After Surgical Resection.,0.0009383434422337887,0.0010275028533062811
+NCT01672450,A Study of Intratumoral Injection of Interleukin-2 and Ipilimumab in Patients With Unresectable Stages III-IV Melanoma,0.0011774558144798614,0.0010231619360435433
+NCT01677975,"The Value of Preoperative Dynamic Lymphscintigraphy and Ultrasoundscanning, Eventually With FNA, for Identification of Malignant Sentinel Node(s) in Patients With Melanoma",0.000956684427675507,0.0010965746011307106
+NCT01611675,Leflunomide+Vemurafenib in V600 Mutant Met. Melanoma,0.0014491462581061002,0.001211450855754685
+NCT01662713,Optical Frequency Domain Imaging for Non-melanoma Skin Cancers,0.0008429169312150834,0.0007975310407124878
+NCT01608594,Neoadjuvant Combination Therapy With Ipilimumab and HighDose IFN-α2b for Melanoma,0.0009038474605639781,0.0011162893678486972
+NCT01638676,A Phase I/II Trial of Vemurafenib and Metformin to Melanoma Patients,0.0012382634532188555,0.0011641236460877573
+NCT01667419,BRIM8: A Study of Vemurafenib Adjuvant Therapy in Patients With Resected Cutaneous BRAF Mutant Melanoma,0.0011537724357179218,0.0008894569628707241
+NCT01605162,Phase 2 Study of the Poly(ADP-Ribose) Polymerase Inhibitor E7016 in Combination With Temozolomide in Subjects With Wild Type BRAF Stage IV or Unresectable Stage III Melanoma,0.0010194684230842937,0.001108856342062077
+NCT01696045,"Phase 2 Study of Ipilimumab in Children and Adolescents (12 to < 18 Years) With Previously Treated or Untreated, Unresectable Stage III or Stage lV Malignant Melanoma",0.0009833233448465148,0.0010234876566945462
+NCT01616199,Study of PX-866 and Vemurafenib in Patients With Advanced Melanoma,0.0013337322211589427,0.0011546073400772968
+NCT01037127,Study to Determine the Effectiveness of GSK1120212 in BRAF Mutation-positive Melanoma Previously Treated With or Without a BRAF Inhibitor,0.0009003868048570737,0.0009376736115461299
+NCT01052142,Safety Study of a Liposomal Vaccine to Treat Malignant Melanoma,0.0012778724080545604,0.0011408731588681076
+NCT01082198,Melanoma Vaccine in Treating Patients With Stage III Melanoma After Surgery to Remove Lymph Nodes,0.0010901482106785458,0.0011063184616879806
+NCT01078961,An Expanded Cohort Trial of Bortezomib and Sorafenib in Advanced Malignant Melanoma,0.0009634671019789293,0.0010189293586915008
+NCT01039844,Study of Weekly LOC-paclitaxel Injection for Melanoma,0.0010128188566703355,0.0010519552038983511
+NCT01003626,Interstitial Fluid Pressure (IFP) Pilot Study in Melanoma Patients,0.0012082189775871324,0.0012390344050200882
+NCT01026051,"Safety, Immune and Tumor Response to a Multi-component Immune Based Therapy (MKC1106-MT) for Patients With Melanoma",0.001023007869694472,0.0010352253034484052
+NCT01026324,Dinaciclib in Treating Patients With Stage III-IV Melanoma,0.0013246648008584112,0.00123196710844131
+NCT01067066,A Phase I/II Study of TPI 287 - Temozolomide Combination in Melanoma,0.0010684880141731607,0.0010564921376088276
+NCT01085396,Use of Fiber-optic Probe for Non-invasive Diagnosis of Melanoma and Assessment of Impact of Ultraviolet (UV) Exposure on Skin,0.000679219130457767,0.0007063134688976923
+NCT01034696,Pain Prevalence and Risk Factors Among Sarcoma/Melanoma Oncology Patients in an Outpatients Setting,0.0009803952207940916,0.0010647189728252293
+NCT01028222,A Study of AMNN107 in the Treatment of Metastatic and/or Inoperable Melanoma Harboring a c-Kit Mutation,0.000981054644955052,0.0014249483744998728
+NCT01010984,LC Bead Embolization Agent With Doxorubicin in the Treatment Liver Metastasis From Melanoma,0.0007464213316033081,0.0011076576680699504
+NCT01021059,A Phase I Study of Intravenous Recombinant Human IL-15 in Adults With Refractory Metastatic Malignant Melanoma and Metastatic Renal Cell Cancer,0.0008726786234929842,0.0014647724334646973
+NCT01024231,Dose-escalation Study of Combination BMS-936558 (MDX-1106) and Ipilimumab in Subjects With Unresectable Stage III or Stage IV Malignant Melanoma,0.0010715677570289908,0.0011212384900552137
+NCT01002560,The Identification of Novel Prognostic Markers in Melanoma,0.0008455104576009511,0.0010162882497313733
+NCT01077050,SciBase International Melanoma Pivotal Study,0.0017944866535682719,0.000784061311249855
+NCT01005472,Temozolomide and Sunitinib Malate in Treating Patients With Stage III or Stage IV Malignant Melanoma,0.0011752090722181637,0.0011256678524741851
+NCT01092585,Tesetaxel as Second-line Therapy for Patients With Advanced Melanoma and Normal Serum LDH,0.0010922182957907999,0.0010758725463501984
+NCT01092728,"Treatment With Dasatinib in Patients With Acral Lentiginous, Mucosal, or Chronic Sun-damaged Melanoma",0.0010013875509312167,0.0011901063291157726
+NCT01011530,Dose Escalation Study of MLN4924 in Adults With Melanoma,0.0017944866535682719,0.001162787581803072
+NCT01009775,A Study of YM155 Plus Docetaxel in Subjects With Stage III (Unresectable) or Stage IV Melanoma,0.0010426917529060757,0.0012032421331692378
+NCT01079741,Safety Study of Adjuvant Vaccine to Treat Melanoma Patients,0.0014096932219285303,0.0011090417176203918
+NCT01066390,A Study on the Safety and Immunogenicity of Combined Intradermal and Intravenous Administration of an Autologous mRNA Electroporated Dendritic Cell Vaccine in Patients With Previously Treated Unresectable Stage III or IV Melanoma,0.0011758194110810896,0.001248888775418559
+NCT02425475,FLuorescence Identification of Melanoma by a Multicenter Based Algorithm (FLIMMA),0.0010273913278815788,0.0004973231222744506
+NCT02425306,Safety Study of a Helper Peptide Vaccine Plus Adjuvant Combinations for the Treatment of Melanoma,0.0009777686251974324,0.0010272231367727217
+NCT02400385,A Phase II Trial of Sunitinib and Nivolumab for KIT-mutated Advanced Melanoma,0.0009762468406793076,0.0010229867656943177
+NCT02442466,Proof of Concept Study With an Endothelin Receptor B Inhibitor (BQ-788) for Human Melanoma,0.0008896377871237825,0.0008162948571850473
+NCT02457065,Skin Care Behaviors Among Melanoma Survivors and Their Families,0.0010224463012528746,0.000745962285291775
+NCT02410733,Evaluation of the Safety and Tolerability of i.v. Administration of a Cancer Vaccine in Patients With Advanced Melanoma,0.0010666399546273712,0.0013602356771626372
+NCT02410863,Biopsy- and Biology-driven Optimization of Targeted Therapy in Subjects With Advanced Melanoma,0.0008446958828041893,0.0010809342402018712
+NCT02437279,Study to Identify the Optimal Adjuvant Combination Scheme of Ipilimumab and Nivolumab in Melanoma Patients,0.0011686323757303973,0.0013153589098163956
+NCT02437305,Melanoma Perception and Health Literacy in People of Color,0.0008280903420839399,0.0006759488260918263
+NCT02437136,Ph1b/2 Dose-Escalation Study of Entinostat With Pembrolizumab in NSCLC With Expansion Cohorts in NSCLC and Melanoma,0.0009081553240468161,0.0009574757924828177
+NCT02492815,"PAN-EU Utilization, Effectiveness and Safety of Ipilimumab Administered in EAP Patients With Advanced Melanoma",0.0011286185954261926,0.0012669234527899983
+NCT02452424,A Combination Clinical Study of PLX3397 and Pembrolizumab To Treat Advanced Melanoma and Other Solid Tumors,0.0009670280928882957,0.0011959175242889537
+NCT02452294,Buparlisib in Melanoma Patients Suffering From Brain Metastases (BUMPER),0.0010730026673805096,0.0010380620073963277
+NCT02452281,Pilot Study to Evaluate the Effects of a Vaccine (HSPPC-96) Combined With Ipilimumab in Patients With Advanced Melanoma,0.0012459619625664257,0.0013936639252262785
+NCT02470273,Diagnostic Imaging Study for the Melanoma Advanced Imaging Dermatoscope (mAID),0.0009994351840946585,0.0007793862278234079
+NCT02402699,Ipilimumab 60-month Pharmacovigilance Protocol for Advanced Melanoma Patients Who Are Hepatitis B and/or Hepatitis C Virus Positive in Taiwan,0.0010884023337558266,0.0007743164799243996
+NCT02427893,Trial of Vemurafenib and Cobimetinib in Patients With Advanced BRAFV600 Mutant Melanoma,0.001189493558938727,0.0009066354234731641
+NCT02434354,A Tissue Collection Study of Pembrolizumab (MK-3475) in Subjects With Resectable Advanced Melanoma,0.000954446203621292,0.0009795737021075655
+NCT02434107,"Complete Lymph Node Dissection vs Watchful Waiting in Patients With Malignant Melanoma (Thickness of 1,0mm+ and Evidence of Metastases in the Sentinel Node)",0.0009659779448980883,0.000831355777012943
+NCT02413827,A Study of Varlilumab (Anti-CD27) and Ipilimumab and CDX-1401 in Patients With Unresectable Stage III or IV Melanoma,0.0012341821705562645,0.0012085767561838504
+NCT02403778,Ipilimumab and All-Trans Retinoic Acid Combination Treatment of Stage IV Melanoma,0.0009119695577736886,0.0013334998242016552
+NCT02460068,A Study of Fotemustine(FTM) Vs FTM and Ipilimumab (IPI) or IPI and Nivolumab in Melanoma Brain Metastasis,0.000971951670688232,0.001029784285325234
+NCT02451488,Neoadjuvant Granulocyte-Macrophage Colony-Stimulating Factor (GM-CSF) in Cutaneous Stage L-lll Melanoma,0.0007369542179523181,0.0007063238648674762
+NCT02447939,Pharmacokinetics of Repeat Oral Doses of Dabrafenib and the Combination of Dabrafenib and Trametinib in Chinese Subjects With Melanoma,0.0008028576183734622,0.0009404054163312075
+NCT02424916,Adoptive Transfer of Specific Melanoma Antigens CD8+ T Cells in Metastatic Melanoma Patients: a Phase I/II Study,0.0011048386788546968,0.0010557085431291407
+NCT00101166,Universal Granulocyte-Macrophage Colony-Stimulating Factor (GM-CSF)-Producing and CD40L Expressing Bystander Cell Line for Tumor Vaccine in Melanoma,0.0006937342561218053,0.0009058941761019583
+NCT00104845,"Vaccine Therapy in Treating Patients With Stage IIB, Stage IIC, Stage III, or Stage IV Melanoma",0.001217411230587593,0.0012726855526269262
+NCT00104884,FR901228 in Treating Patients With Unresectable Stage III or Stage IV Malignant Melanoma,0.0012954004363712357,0.00125901134696573
+NCT00104988,S0508: Thalidomide and Temozolomide in Treating Patients With Stage IV Melanoma That Cannot Be Removed By Surgery,0.0011143849235727898,0.0011320805747361024
+NCT00104897,17-N-Allylamino-17-Demethoxygeldanamycin in Treating Patients With Metastatic Malignant Melanoma,0.0012611027405974974,0.0011356238486103193
+NCT00121225,Vorinostat in Treating Patients With Metastatic or Unresectable Melanoma,0.0011393220376023317,0.0012015594634331302
+NCT00184067,Continuation Booster Trial After a Vaccine Combining Tyrosinase/GP100/MART-1 Peptides Emulsified With Montanide ISA 51 With or Without GM-CSF for Patients With Melanoma,0.0010114073674779738,0.0010706008021708424
+NCT00179608,Study of the Combination of Lenalidomide and DTIC (Dacarbazine) in Patients With Metastatic Malignant Melanoma Previously Untreated With Systemic Chemotherapy,0.0011346834731939736,0.0010441097984734786
+NCT00110019,Carboplatin and Paclitaxel With or Without Sorafenib Tosylate in Treating Patients With Stage III or Stage IV Melanoma That Cannot Be Removed by Surgery,0.0011508268668223498,0.0013329660017511187
+NCT00110994,Treatment for Subjects With Unresectable Stage III or Stage IV Melanoma,0.001028032856131942,0.001065096645652427
+NCT00119249,Sorafenib in Treating Patients With Stage III or Stage IV Melanoma That Cannot Be Removed By Surgery,0.0011775348163280213,0.0011778698772643673
+NCT00142454,NY-ESO-1 Protein Vaccine With Imiquimod in Melanoma (Adjuvant Setting),0.0007576437522171509,0.0010347940149069387
+NCT00125749,Vaccination of Patients With Stage IV Melanoma With Dendritic Cells,0.0011951178589264247,0.0013493446457990758
+NCT00109863,Hu14.18-Interleukin-2 Fusion Protein in Treating Patients With Advanced Melanoma,0.0013411017150511725,0.0013383897059219706
+NCT00160992,Adoptive Cell Transfer Combined With Peptide Vaccination in Transiently Immunosuppressed Melanoma Patients,0.0009732528552323128,0.0008885226907640573
+NCT00111007,A Treatment Combination for Patients With Unresectable Stage III or Stage IV Melanoma,0.0012232915829018109,0.0012412956262131075
+NCT00111696,Study of the Tumor Saturation and Biological Activity of MEDI-522 (Abergrin) in Patients With Advanced Malignant Melanoma,0.0011842770361255354,0.0014324411251506368
+NCT00128583,Vaccine Therapy in Treating Patients With Malignant Melanoma,0.0015787104876690944,0.0012662319689736956
+NCT00199901,"Study of NY-ESO-1 ISCOMATRIX® in Patients With High-risk, Resected Melanoma",0.0011469180715928521,0.0012403837088679657
+NCT00199342,"A Study of a Monoclonal Antibody, KW-2871, in Patients With Advanced Melanoma",0.0012256157133231406,0.0009560032568129903
+NCT00118313,"Vaccine Therapy With or Without Imiquimod in Treating Patients Who Have Undergone Surgery for Stage II, Stage III, or Stage IV Melanoma",0.0011685716037513044,0.001287864254775255
+NCT00118274,"Vaccine Therapy With or Without Cyclophosphamide in Treating Patients Who Have Undergone Surgery for Stage II, Stage III, or Stage IV Melanoma",0.00116953265122896,0.0013241427351916388
+NCT00147550,"MEK Inhibitor PD-325901 To Treat Advanced Breast Cancer, Colon Cancer, And Melanoma.",0.0008483403885567452,0.001051874318917529
+NCT00112242,Immunotherapy of Stage III/IV Melanoma Patients,0.001343113772594543,0.0010474480919428783
+NCT00112216,Immunotherapy of Melanoma Patients,0.001548063200096874,0.001101351527783406
+NCT00112229,Immunotherapy of HLA-A2 Positive Stage III/IV Melanoma Patients,0.0011754418362919332,0.0013739521089673936
+NCT00153569,Multiepitope Peptide Vaccination in Melanoma,0.0010586668332141554,0.0008379290921173821
+NCT00116363,Safety and Efficacy Study of INGN 241 Gene Therapy in Patients With In Transit Melanoma,0.0012099728932458513,0.001590213875887365
+NCT00107159,Vaccine Therapy in Treating Patients With Unresected Stage III or Stage IV Melanoma,0.0012024449332157646,0.001237755623220337
+NCT00108875,"Survivin Peptide Vaccination for Patients With Advanced Melanoma, Pancreatic, Colon and Cervical Cancer",0.001053808092896105,0.0012075741526059935
+NCT00145041,Pharmacokinetic Study of Liposomal Vincristine in Patients With Malignant Melanoma & Hepatic Dysfunction,0.001086406633727758,0.0010426094603419034
+NCT00126685,Vaccine Therapy in Treating Patients With Stage IV Melanoma,0.0013812566106214097,0.0011961460588338759
+NCT00197912,Dendritic Cell Based Therapy of Malignant Melanoma,0.0011350408017754363,0.0011232209429510134
+NCT02143050,"Study of Dabrafenib, Trametinib and Metformin for Melanoma Patients",0.0011508986197447117,0.001096743111605821
+NCT02180061,Study of Pembrolizumab (MK-3475) in Participants With Advanced Melanoma (MK-3475-041/KEYNOTE-041),0.0011560774855946879,0.0013148094618346592
+NCT02130466,A Study of the Safety and Efficacy of Pembrolizumab (MK-3475) in Combination With Trametinib and Dabrafenib in Participants With Advanced Melanoma (MK-3475-022/KEYNOTE-022),0.0009679474530005404,0.0009767953078414072
+NCT02177110,A Translational Systems Medicine Approach to Provide Predictive Capacity for Therapy Response in Advanced or Metastatic Malignant Melanoma,0.0008542669753081845,0.001001445886783827
+NCT02112032,Treatment of Advanced Melanoma With MK-3475 and Peginterferon,0.001018112398613034,0.0011032923802974368
+NCT02166255,"APN401 in Treating Patients With Melanoma, Kidney Cancer, Pancreatic Cancer, or Other Solid Tumors That Are Metastatic or Cannot Be Removed By Surgery",0.0010496318628785849,0.001186511078743464
+NCT02159066,"LGX818 and MEK162 in Combination With a Third Agent (BKM120, LEE011, BGJ398 or INC280) in Advanced BRAF Melanoma",0.0009967467885733854,0.0010691389117461262
+NCT02147951,"Expanded Access Protocol of Talimogene Laherparepvec for Subjects With Unresected, Stage lllB to IVM1c Melanoma",0.0008761600893979222,0.001346475728327169
+NCT02193581,Non-invasive Melanoma Assessment Using a Topical Fluorescence Reagent and Optical Imaging,0.0006995676052205524,0.0006966732151274231
+NCT02106598,"Targeted Silica Nanoparticles for Image-Guided Intraoperative Sentinel Lymph Node Mapping in Head and Neck Melanoma, Breast and Gynecologic Malignancies",0.0006822781519588551,0.0009529202694814371
+NCT02129075,CDX-1401 and Poly-ICLC Vaccine Therapy With or Without CDX-301in Treating Patients With Stage IIB-IV Melanoma,0.0011207186314578118,0.001254427615957938
+NCT02138292,A Phase 1B Clinical Trial of Trametinib Plus Digoxin in Patients With Unresectable or Metastatic BRAF Wild-type Melanoma,0.001036118632752894,0.001320836110926654
+NCT02190838,Comparison of Melatonin or Metformin and Dacarbazine Combination Versus Dacarbazine Alone in Disseminated Melanoma,0.0007178665912120895,0.0008421848009215686
+NCT02120222,Evaluating SINE KPT-330 in Treating Patients With Melanoma That Cannot Be Removed By Surgery,0.0013050736048534671,0.0012440670342630407
+NCT02158520,Paclitaxel Albumin-Stabilized Nanoparticle Formulation and Bevacizumab or Ipilimumab as First-Line Therapy in Treating Patients With Stage IV Melanoma That Cannot Be Removed by Surgery,0.0011197328244530041,0.001340390298833773
+NCT02156804,"A Single-Arm, Open-Label, Multicenter Clinical Trial With Nivolumab (BMS-936558) for Subjects With Histologically Confirmed Stage III (Unresectable) or Stage IV Melanoma Progressing Post Prior Treatment Containing an Anti-CTLA4 Monoclonal Antibody (CheckMate 172)",0.0008819586244076742,0.0010328917015672552
+NCT02196181,Dabrafenib and Trametinib in Treating Patients With Stage III-IV BRAF Mutant Melanoma That Cannot Be Removed by Surgery,0.0011075611430548529,0.0012653315959522782
+NCT02155322,A Phase II Study of Pegylated Interferon Alfa-2b for the Adjuvant Treatment of Melanoma Subjects in Russia (MK-4031-400),0.001079944820677882,0.001760011629694004
+NCT02115243,Trial of Neoadjuvant Ipilimumab Followed by Melphalan Via Isolated Limb Infusion for Patients With Unresectable In-transit Extremity Melanoma,0.0010300959384444057,0.0011470497333735965
+NCT02115139,GEM STUDY: Radiation And Yervoy in Patients With Melanoma and Brain Metastases,0.0011504594411697617,0.0011752825512478748
+NCT02142218,Expanded Access Program With Nivolumab to Treat Melanoma,0.0010528156308839388,0.0011272465681133688
+NCT02142335,Rituxan and Abraxane for the Treatment of Patients With Inoperable Stage III and IV Malignant Melanoma,0.001116652043450421,0.0012923417912360587
+NCT02142244,Fluorescence Surgery for Sentinel Node Identification in Melanoma,0.0008895621095247616,0.0007351628706310511
+NCT02145910,Vemurafenib Combined With Whole Brain Radiation Therapy or Radiosurgery in Patients With BRAF Mutation-Positive Melanoma and Brain Metastases,0.0009946955732464968,0.0011736914125320883
+NCT02141542,Phase I Clinical Trial of Tremelimumab Plus MEDI3617 in Patients With Unresectable Stage III or Stage IV Melanoma,0.0011541098972577403,0.0010762123662530184
+NCT01174238,A Two Arm Trial of Axitinib and Carboplatin/Paclitaxel in Melanoma (CC# 10852),0.0008376202642141999,0.0009468335136614438
+NCT01120275,Gamma-Secretase/Notch Signalling Pathway Inhibitor RO4929097 in Treating Patients With Stage IV Melanoma,0.0013397156589239094,0.0011593795371560467
+NCT01106040,Breast and Melanoma Trial With Lymphoseek to Identify Lymph Nodes,0.0008393379138480989,0.0006014520070045292
+NCT01127594,Evaluate Safety/Tolerability Intra-Arterial Temozolomide in Patients w/Extremity Melanoma by Isolated Limb Infusion,0.0009859089705879988,0.0012298955790336847
+NCT01127451,Study of Denileukin Diftitox in Patients With Stage IIIC and Stage IV Melanoma,0.00124211147963722,0.0013195975790028325
+NCT01189383,"IL15 Dendritic Cell Vaccine for Patients With Resected Stage III (A, B or C) or Stage IV Melanoma",0.0011710266848390545,0.0012984095426053107
+NCT01183936,Trial of Surgical Excision Margins in Thick Primary Melanoma,0.0010968572734142042,0.0009696151070932326
+NCT01138410,Study of a DNA Immunotherapy to Treat Melanoma,0.001276831656225399,0.001123975264289813
+NCT01133977,E7080 (Lenvatinib) in Combination With Dacarbazine Versus Dacarbazine Alone as First Line Therapy in Patients With Stage IV Melanoma,0.00107144543717586,0.0008654666090406395
+NCT01191294,Evaluation of a Simulation Training Tool to Identify Lesions Requiring Further Screening for Melanoma,0.0007115529884156644,0.0005040703522221663
+NCT01121718,NIR-Guided Sentinel Lymph Node Mapping in Melanoma,0.001024522040563307,0.000770244472595581
+NCT01107665,Pazopanib and Paclitaxel as First-Line Treatment for Subjects With Unresectable Stage III and Stage IV Melanoma,0.0008776463194138934,0.0011270567512536547
+NCT01134614,Ipilimumab With or Without Sargramostim in Treating Patients With Stage III or Stage IV Melanoma That Cannot Be Removed by Surgery,0.0011988133420595304,0.0011467737808879593
+NCT01137006,"An Open-Label, Dose-Escalation Study of IMC-20D7S In Patients With Malignant Melanoma",0.0013953527529665505,0.0013084047819305097
+NCT01124734,High Dose Interleukin-2 Followed by Intermittent Low Dose Temozolomide in Patients With Melanoma,0.0009916260905652985,0.0009979414564292113
+NCT01118832,Using High Resolution Function Imaging To Detect Melanoma and Dysplastic Nevi,0.0007173035974478661,0.0005836693986232439
+NCT01168050,Efficacy of Nilotinib in First or Second Line Treatment of Primary Melanomas Stage III Unresectable Melanomas.,0.0008676593205594657,0.0008864204490676119
+NCT01176474,Vaccine Combining Multiple Class I Peptides and Montanide ISA 51VG With Escalating Doses of Anti-PD-1 Antibody Nivolumab or Ipilimumab With Nivolumab For Patients With Resected Stages IIIC/ IV Melanoma,0.0010429050634163041,0.001027304892195433
+NCT01136967,"An Open-Label, 2-Cohort, Multicenter, Study of Lenvatinib in Previously Treated Subjects With Unresectable Stage III or Stage IV Melanoma",0.001005060970168292,0.001125216221482131
+NCT02089685,Safety and Tolerability of Pembrolizumab (MK-3475) + Pegylated Interferon Alfa-2b and Pembrolizumab+ Ipilimumab in Participants With Advanced Melanoma or Renal Cell Carcinoma (MK-3475-029/KEYNOTE-29),0.000837008232287915,0.0009535454571699476
+NCT02071940,PLX3397 KIT in Acral aNd mucOsal Melanoma,0.002777704469023434,0.0012971217406422602
+NCT02039947,Study to Evaluate Treatment of Dabrafenib Plus Trametinib in Subjects With BRAF Mutation-Positive Melanoma That Has Metastasized to the Brain,0.0008909932232411559,0.0009103280265862901
+NCT02068196,A National Phase IV Study With Ipilimumab for Patients With Advanced Malignant Melanoma.,0.0013663586088378853,0.0009786949310308863
+NCT02054520,Immunotherapy Study for Patients With Stage IV Melanoma,0.0013303329578848943,0.0011968729650666356
+NCT02009384,Ipilimumab Administered to Stage IIIC Stage IV Melanoma After Reg. T Cell Depletion With Denileukin Diftitox,0.000873533345985349,0.0009682528970261602
+NCT02009397,A Phase I/II Open-Label Study of Ipilimumab and GM-CSF Administered to Unresectable Stage IIIC and Stage IV Melanoma Patients,0.0012534522273007801,0.001224388637194486
+NCT02062359,T Cell Receptor Immunotherapy Targeting NY-ESO-1 for Patients With NY-ESO-1 Expressing Melanoma,0.0012522207184122716,0.0013218178203851653
+NCT02094391,"Trial of Ipilimumab After Isolated Limb Perfusion, in Patients With Metastases Melanoma",0.0011238261801784495,0.00092409224362441
+NCT02094872,Molecularly Targeted Therapy in Treating Patients With BRAF Wild-type Melanoma That is Metastatic,0.0012621222029328921,0.001156217201174522
+NCT02036086,Study of Neo-adjuvant Use of Vemurafenib Plus Cobimetinib for BRAF Mutant Melanoma With Palpable Lymph Node Metastases,0.0008691379479318427,0.0011348338550076476
+NCT02083354,Study to Investigate the Objective Response Rate of Dabrafenib in Combination With Trametinib in Subjects With BRAF V600 Mutation-Positive Melanoma,0.0008587570268472994,0.000980969968174241
+NCT02056522,Non-invasive Melanoma Assessment Using a Topical Fluorescence Reagent and Optical Imaging,0.0006995676052205524,0.0006966732151274231
+NCT02074605,Cognitive Effects of Interferon in Patients With Melanoma,0.0015370303906687489,0.0009688311525215448
+NCT02085070,MK-3475 in Melanoma and NSCLC Patients With Brain Metastases,0.0012315400090251265,0.0013377653553674563
+NCT02029729,RTA 408 in the Treatment of Advanced Solid Tumors (NSCLC & Melanoma) - DISCOVER,0.0008673408124030898,0.001023921713557102
+NCT02058953,"CNS and Extracranial Tumor Tissues, CSF, and Blood From Patients With Melanoma Brain Metastases",0.0010347099948497243,0.0009724981826080547
+NCT02050321,A Phase II Study of Vemurafenib Combined With Acitretin in Patients With Advanced Melanoma,0.001237508945517656,0.0010520869925425994
+NCT02088762,Impact of Excision Margins on Survival and Recurrence Rate in Patients With Thick Melanoma (>2mm),0.0012192607199339402,0.0007301294041996669
+NCT02077114,Vaccination With Peptides in Combination With Either Ipilimumab or Vemurafenib for the Treatment of Unresectable Stage III or IV Malignant Melanoma,0.0009125814947317997,0.001053662763681448
+NCT02097732,Ipilimumab Induction in Patients With Melanoma Brain Metastases Receiving Stereotactic Radiosurgery,0.00104756089126585,0.0011568310301152648
+NCT02032810,Phase I of Histone Deacetylase (HDAC) Inhibitor Panobinostat With Ipilimumab With Unresectable III/IV Melanoma,0.0008286066883191224,0.0009780602390129308
+NCT02020707,Paclitaxel Albumin-Stabilized Nanoparticle Formulation and Bevacizumab in Treating Patients With Stage IV Melanoma That Cannot Be Removed by Surgery or Gynecological Cancers,0.001087202425590523,0.0012493232146455083
+NCT00938223,"Evaluation of the Immunogenicity of Vaccination With Multiple Synthetic Melanoma Peptides With Granulocyte-macrophage Colony-stimulating Factor (GM-CSF)-In-Adjuvant, in Patients With Advanced Melanoma",0.001064645129278288,0.0010461368056300616
+NCT00928902,"Trial for the Evaluation of the Effect of Systemic Low-dose Interleukin-2 (IL-2) on the Immunogenicity of a Vaccine Comprising Synthetic Melanoma Peptides Administered With Granulocyte-macrophage Colony-stimulating Factor (GM-CSF)-In-Adjuvant, in Patients With High Risk Melanoma",0.0009905756458039483,0.0010521318469471478
+NCT00945269,"Therapeutic Autologous Lymphocytes, Aldesleukin, and Denileukin Diftitox in Treating Patients With Stage III-IV Melanoma",0.0010752487988910499,0.001100787090852717
+NCT00942162,A Study to Test the Benefit of a New Anti-cancer Treatment in Patients With Unresectable Advanced Melanoma,0.0012489268548592659,0.0012274005062416617
+NCT00936221,Comparison of AZD6244 in Combination With Dacarbazine Versus (vs) Dacarbazine Alone in BRAF Mutation Positive Melanoma Patients,0.0010100174800850422,0.0009701815336492229
+NCT00910650,Study of Gene Modified Immune Cells in Patients With Advanced Melanoma,0.001244644861562936,0.0013265282112379431
+NCT00966173,International Melanoma Algorithm Training Study - IMATS,0.001010942367759635,0.0007552249559215319
+NCT00920907,Comparison of Ipilimumab Manufactured by 2 Different Processes in Participants With Advanced Melanoma,0.0008401887540272248,0.0010630347123163017
+NCT00972933,Immunogenicity and Biomarker Analysis of Neoadjuvant Ipilimumab for Melanoma,0.0008125761312254852,0.0010503018123738535
+NCT00901966,Sun Exposure and Melanoma in Agricultural Workers,0.0014506127259666117,0.0006920117066871585
+NCT00963664,Evaluation of Interferon-Lovastatin Therapy for Malignant Melanoma,0.0008152957148749438,0.001182734055885031
+NCT00963261,Quality of Life and Psychological Well-being in Patients With Malignant Melanoma,0.0012145319440191253,0.0011193768499370318
+NCT00923169,Part 2 of Phase 1 Study of GC1008 to Treat Advanced Melanoma (Part 2 Will Only Accept and Treat Patients With Advanced Malignant Melanoma),0.0012191427286473578,0.0013702993516919635
+NCT00978913,Transfected Dendritic Cell Based Therapy for Patients With Breast Cancer or Malignant Melanoma,0.0011359028123974371,0.001324187140175101
+NCT00979693,Psilocybin-Assisted Psychotherapy for Anxiety in People With Stage IV Melanoma,0.0008403578157019742,0.0007583368322459572
+NCT00940004,Toll-like Receptor (TLR) Ligand Matured Dendritic Cell Vaccination in Melanoma Patients,0.0010891189412498676,0.001099453433011905
+NCT00977145,Evaluating the Safety and the Biological Effects of Intratumoral Interferon Gamma and a Peptide-Based Vaccine in Patients With Melanoma,0.0010104269596063508,0.0011718763461432834
+NCT00974610,"Study of Blood Samples From Patients With Malignant Melanoma, Metastatic Breast Cancer, Advanced Lung Cancer, Pancreatic Cancer, or Colorectal Cancer. ICORG 07-12",0.00116248662939574,0.0009376519656913477
+NCT00976573,"Carboplatin, Paclitaxel, and Bevacizumab With or Without Everolimus in Treating Patients With Metastatic Malignant Melanoma",0.0010023769119638334,0.0010056564438452053
+NCT00912730,A Pilot Study of Intraoperative Gamma Camera Imaging During Sentinel Node Biopsy for Melanoma,0.0008918370339045954,0.000900898467884713
+NCT00912418,"Pilot Study for the Evaluation of the Efficacy of Vaccination With Autologous Tumor Cells Plus Granulocyte-macrophage Colony-stimulating Factor (GM-CSF) - in - Adjuvant, Followed by Systemic Low-dose-interleukin-2 (IL-2) Administration, in Patients With High Risk Melanoma",0.0011469947924761784,0.0010197284999163162
+NCT00912574,Evaluation of the Effects of Local Granulocyte-Macrophage Colony-Stimulating Factor (GM-CSF) in Adjuvant Administration on Dendritic Cells in Skin of Melanoma Patients and in Sentinel Lymph Nodes: MEL38,0.0009775845510290571,0.0009821656425754069
+NCT00961844,Trial for Vaccine Therapy With Dendritic Cells in Patients With Metastatic Malignant Melanoma,0.0011513627625979234,0.0009433784418581956
+NCT00961376,Vaccination of Melanoma Patients With Total or CD25-depleted Peripheral Blood Mononuclear Cell (PBMC),0.0010132433250502446,0.0012187572856310644
+NCT00925314,A Study of Transgenic Lymphocyte Immunization (TLI) Against Telomerase in Subjects With Stage III Melanoma,0.0009871065169546186,0.0008536600964079723
+NCT00962845,Hydroxychloroquine in Patients With Stage III or Stage IV Melanoma That Can Be Removed by Surgery,0.0011731322690739499,0.0010695040219219796
+NCT00991250,SentoClone® Compared to Reference Treatment in Advanced Malignant Melanoma,0.001018112398613034,0.0015407429253055567
+NCT00991991,"Study of Tumor Tissue Samples From Patients With Stage I, Stage II, or Stage III Malignant Melanoma",0.0011977575139228865,0.0012583203188507087
+NCT00911443,"Thymosin Alpha 1, Interferon Alpha, or Both, in Combination With Dacarbazine in Patients With Malignant Melanoma",0.001027728158685113,0.0011701434137767809
+NCT00937625,T-cell Based Immunotherapy for of Melanoma,0.0014841430000922654,0.001197993282231234
+NCT00937781,Study of Tumor Tissue From Patients With Melanoma Treated on Clinical Trial EST-1690,0.0011608974403984787,0.001226035953918268
+NCT00937937,Dinaciclib in Treating Patients With Stage IV Melanoma,0.001340427802777142,0.001266370172564461
+NCT00071981,Vaccine Therapy Using Melanoma Peptides for Cytotoxic T Cells and Helper T Cells in Treating Patients With Metastatic Melanoma,0.0010114859389223387,0.0011188813476165527
+NCT00028431,Novel Adjuvants for Peptide-Based Melanoma Vaccines,0.0010629314046530956,0.0009295075986522219
+NCT00017121,Inhaled Sargramostim in Treating Patients With Melanoma Metastatic to the Lung,0.0010306282084355596,0.0012228150281834058
+NCT00006035,Bleomycin With or Without Electroporation Therapy in Treating Patients With Stage III or Stage IV Melanoma,0.0011594758130355233,0.0011909605713559702
+NCT00006126,"Peripheral Stem Cell Transplantation in Treating Patients With Melanoma or Small Cell Lung, Breast, Testicular, or Kidney Cancer That is Metastatic or That Cannot Be Treated With Surgery",0.0010223784084762092,0.0012070361494745936
+NCT00006243,Vaccine Therapy and Sargramostim in Treating Patients With Stage IV Malignant Melanoma,0.0012065461526747257,0.00131316170075651
+NCT00006237,S0008: Chemotherapy Plus Biological Therapy in Treating Patients With Melanoma,0.001226797654510503,0.001010636233414707
+NCT00006022,Interleukin-2 Plus Bryostatin 1 in Treating Patients With Melanoma or Kidney Cancer,0.0010759313031426098,0.001257052539666347
+NCT00006113,Vaccine Therapy Followed by Biological Therapy in Treating Patients With Stage III or Stage IV Melanoma,0.0011948246956405087,0.0012670707132011005
+NCT00006233,"Combination Chemotherapy, Total-Body Irradiation, Peripheral Stem Cell Transplantation, and Lymphocyte Infusion in Treating Patients With Stage IV Melanoma",0.0010374060016646617,0.001235131953835248
+NCT00006249,Interferon Alfa Following Surgery in Treating Patients With Stage III Melanoma,0.0012007622482052124,0.0011121344336576273
+NCT00084214,STA-4783/Paclitaxel or Paclitaxel Alone in Melanoma,0.001045888972194085,0.0014172271880751183
+NCT00084656,Monoclonal Antibody Therapy and Vaccine Therapy in Treating Patients With Resected Stage III or Stage IV Melanoma,0.0011589488210217013,0.0012148050355429668
+NCT00042783,Vaccine Therapy in Treating Patients With Stage IV Melanoma,0.0013812566106214097,0.001500358532873868
+NCT00042497,Immunotherapy With Autologous Dexosomes for Patients With Stage IV Melanoma,0.0011870567153479115,0.0011668961053797268
+NCT00087386,Tanespimycin in Treating Patients With Stage III-IV Melanoma,0.0013246694244314124,0.0010951754750604988
+NCT00087477,A Pilot Study of Pivanex in Patients With Malignant Melanoma,0.001390219542962155,0.0012893958911540514
+NCT00087776,Study of Taxoprexin Injection vs. Dacarbazine in Patients With Metastatic Malignant Melanoma,0.0011351191923191061,0.0011119761405720037
+NCT00083239,Study of Talabostat in Advanced Melanoma,0.0014160438350893972,0.0016989390782608201
+NCT00083252,Study of Talabostat and Cisplatin in Advanced Melanoma,0.001133531761828501,0.001347770762664356
+NCT00033228,Vaccine Therapy in Treating Patients With Stage IV Melanoma,0.0013812566106214097,0.0013986085647433027
+NCT00060710,CP-461 in the Treatment of Patients With Advanced Melanoma,0.0014022455459484233,0.0015832215763578916
+NCT00060125,Tipifarnib in Treating Patients With Metastatic Malignant Melanoma,0.0012611164677959572,0.0012429389737570805
+NCT00016263,Dacarbazine With or Without Oblimersen (G3139) in Treating Patients With Advanced Malignant Melanoma,0.0010958249572830515,0.0010798803075578417
+NCT00010309,"Vaccine Therapy in Treating Patients Who Have Stage II, Stage III, or Stage IV Melanoma",0.0011980755571503589,0.0014152265779327918
+NCT00085397,Vaccine Therapy in Treating Patients With Stage III or Stage IV Melanoma,0.0012898380975264656,0.0012269592502346912
+NCT00085189,Vaccine Therapy in Treating Patients With Stage IIC-IV Melanoma,0.0012874114272711712,0.0014239937707350623
+NCT00085488,Vaccine Therapy in Treating Patients With Stage III or Stage IV Melanoma,0.0012898380975264656,0.0012726855526269262
+NCT00085579,Interleukin-2 and Sargramostim After Chemotherapy in Treating Patients With Stage III or Stage IV Melanoma,0.001138124240943935,0.001081978045033754
+NCT00074308,Imatinib Mesylate and Bevacizumab in Treating Patients With Advanced Melanoma or Other Advanced Cancers,0.0010668221132858473,0.001252064186846188
+NCT00014625,E7070 in Treating Patients With Stage IV Melanoma,0.0013397156589239094,0.0014240876652066292
+NCT00014092,Chemotherapy Followed by Biological Therapy in Treating Patients With Stage IV Melanoma That Cannot be Treated With Surgery,0.001128064387163145,0.0014040711438074152
+NCT00049530,PEG-Interferon Alfa-2b in Treating Patients With Stage IV Melanoma,0.0013397156589239094,0.001240319892941522
+NCT00025181,Monoclonal Antibody and Vaccine Therapy in Treating Patients With Stage III or Stage IV Melanoma That Has Been Removed During Surgery,0.0011785820996175376,0.0013964625671319963
+NCT00003091,High-Dose Interferon Alfa and Interleukin-2 in Treating Patients With Metastatic Kidney Cancer or Melanoma,0.0010193953379651574,0.0011475032218465494
+NCT00003266,Methylphenidate in Treating Patients With Melanoma,0.0015242502985216868,0.0009384858523526055
+NCT00003646,Gene Therapy in Treating Patients With Stage III or Stage IV Melanoma,0.0012563821830331174,0.0015079314108677072
+NCT00003509,Antineoplaston Therapy in Treating Patients With Stage IV Melanoma,0.0012187468127862122,0.0010825794371515727
+NCT00003641,High-Dose Interferon Alfa in Treating Patients With Stage II or Stage III Melanoma,0.0010911503775010887,0.0010541018337230832
+NCT00003911,S9903: Whole Brain Radiotherapy Followed By Stereotactic Radiosurgery for Limited Malignant Melanoma Brain Metastases,0.0007279883331288315,0.0009511252143801754
+NCT00003346,Combination Chemotherapy in Treating Patients With Stage III or Stage IV Melanoma,0.001255790646574907,0.0013349046974972505
+NCT00003308,"Radiation Therapy in Treating Patients With Newly Diagnosed Brain Metastases From Kidney Cancer, Melanoma, or Sarcoma",0.0009918454759440941,0.0011270344895434972
+NCT00003647,Chemotherapy With or Without Immunotherapy in Treating Patients With Stage III or Stage IV Melanoma,0.0011837497204153548,0.001208648590861298
+NCT00003556,Vaccine Therapy in Treating Patients With Melanoma,0.0015787104876690944,0.0014211675739799754
+NCT00003715,Vaccine Therapy Compared With Interferon Alfa in Treating Patients With Stage III Melanoma,0.0011907572592392114,0.001128092702072301
+NCT00003789,Melphalan With or Without Tumor Necrosis Factor in Treating Patients With Locally Advanced Melanoma of the Arm or Leg,0.001055316297159344,0.0009570856116850995
+NCT00003897,Vaccine Therapy With gp100 and/or Sargramostim in Treating Patients With Malignant Melanoma,0.00110349006176566,0.0013560355463116257
+NCT00003444,"Interferon Alfa-2b With or Without Radiation Therapy in Treating Patients With Melanoma That Has Metastasized to Lymph Nodes in the Neck, Under the Arm, or in the Groin",0.0009690547312006497,0.0009523455345622229
+NCT00003895,Vaccine Therapy in Treating HLA-A2 Positive Patients With Melanoma,0.0012655036064419412,0.0012214656806831606
+NCT00003222,Vaccine Therapy Plus Interleukin-2 in Treating Patients With Stage III or Stage IV Melanoma,0.0012012531586090558,0.0013519305349146337
+NCT00003828,S9804: Vinorelbine in Treating Patients With Stage IV Melanoma,0.0013404776162555451,0.0013115154486441104
+NCT00003665,Vaccine Therapy in Treating Patients With Stage IV Melanoma,0.0013812566106214097,0.0013951229957013924
+NCT00003362,Vaccine Therapy Plus Immune Adjuvants in Treating Patients With Advanced Melanoma,0.001207804410527754,0.001328055876020834
+NCT00003339,Vaccine Therapy With or Without Interleukin-12 in Treating Patients With Stage III or Stage IV Melanoma,0.0011966794984913307,0.0012596932878769286
+NCT00062491,Study of Karenitecin (BNP1350) to Treat Malignant Melanoma,0.0012540194547958228,0.0019041020375687532
+NCT00091689,Safety and Efficacy of an Immune Response Modifier to Treat Inoperable Advanced Melanoma Skin Lesions,0.0007878801415808071,0.0010857035250118041
+NCT00057616,Study to Compare the Efficacy and Safety of CC-5013 vs. Placebo in Subjects With Metastatic Malignant Melanoma.,0.0009298681971429624,0.0010209544719286408
+NCT00055562,Study to Compare the Efficacy and Safety of Two CC-5013 Dose Regimens in Subjects With Metastatic Malignant Melanoma,0.000925551783949453,0.0010140180659897716
+NCT00040352,"Clinical, Laboratory, and Epidemiologic Characterization of Individuals and Families at High Risk of Melanoma",0.0008480361138390661,0.00095537853684356
+NCT00034554,Study of gp75 Vaccine in Patients With Stage III and IV Melanoma,0.0013163312089733228,0.0010753456913688234
+NCT00077532,Monoclonal Antibody With or Without gp100 Peptides Plus Montanide ISA-51 in Treating Patients With Stage IV Melanoma,0.0010558492299633413,0.0011574378016007355
+NCT00053391,Vaccine Therapy in Treating Patients With Stage III or Stage IV Melanoma,0.0012898380975264656,0.0014349734649732814
+NCT00023647,Vaccine Therapy in Treating Patients With Stage IV Melanoma,0.0013812566106214097,0.0013807928730238143
+NCT00039091,"Monoclonal Antibody Therapy in Treating Patients With Ovarian Epithelial Cancer, Melanoma, Acute Myeloid Leukemia, Myelodysplastic Syndrome, or Non-Small Cell Lung Cancer",0.0009552739725478658,0.0008609926367462619
+NCT00039000,Study of Heat Shock Protein-Peptide Complex (HSPPC-96) Versus IL-2/DTIC for Stage IV Melanoma,0.0009051131571660351,0.0010117663061890146
+NCT00039234,Interleukin-2 With or Without Histamine Dihydrochloride in Treating Patients With Stage IV Melanoma Metastatic to the Liver,0.0010816335565195362,0.0010573936155008601
+NCT00039572,Boron Neutron Capture Therapy in Treating Patients With Glioblastoma Multiforme or Melanoma Metastatic to the Brain,0.0010288681287826393,0.0011802914531103095
+NCT00052130,Vaccine Therapy for Patients With Stage III Melanoma,0.0013654936087026785,0.0012353385017051972
+NCT00052156,Vaccine Therapy for Patients With Stage IV Melanoma,0.0013812566106214097,0.0011801951100707912
+NCT00059800,Boron Neutron Capture Therapy in Treating Patients With Melanoma,0.0015271465023604634,0.0013550726154225544
+NCT00027742,Temozolomide and Interferon Alfa in Treating Patients With Stage III or Stage IV Melanoma,0.001181198034247343,0.0013939208741030058
+NCT00072163,Temozolomide and Thalidomide in Treating Patients With Brain Metastases Secondary to Melanoma,0.0010275784939823864,0.0010742384270019507
+NCT00072124,Dacarbazine and/or Cisplatin Compared With Complete Metastasectomy in Treating Patients With Stage IV Melanoma,0.0010941711072564872,0.0011275715230031828
+NCT00072345,"Temozolomide, Thalidomide, and Lomustine in Treating Patients With Unresectable Stage III or Stage IV Melanoma",0.0011487151802100283,0.0013718177678298654
+NCT00020358,Vaccine Therapy in Treating Patients With Melanoma,0.0015787104876690944,0.0014149360118394807
+NCT00020839,Temozolomide With or Without Radiation Therapy to the Brain in Treating Patients With Stage IV Melanoma That Is Metastatic to the Brain,0.0011063280981038145,0.0010303030964891819
+NCT00068172,Study of PI-88 in Patients With Advanced Melanoma,0.0015147442051662737,0.0020724411870275115
+NCT00068666,Temozolomide and Radiation Therapy in Treating Patients With Stage IV Malignant Melanoma With Measurable and Unresectable Cancer of the Central Nervous System,0.0010833124288098387,0.0010546242815417765
+NCT00036764,BMS-247550 in Treating Patients With Stage IV Melanoma,0.0013397156589239094,0.0014240876652066292
+NCT00002980,Decitabine in Treating Patients With Melanoma or Other Advanced Cancer,0.0010666820846631168,0.0013771367920374137
+NCT00002455,"Immunotherapy After Surgery in Treating Patients With Breast Cancer, Colon Cancer, or Melanoma",0.0010439933357878845,0.001095495186461998
+NCT00002763,High-Dose or Low-Dose Interferon Alfa Compared With No Further Therapy Following Surgery in Treating Patients With Stage III Melanoma,0.00111249682208862,0.0010487900842189154
+NCT00002781,Boron Neutron Capture Therapy in Treating Patients With Stage III Melanoma,0.0013265961482506281,0.0013211370701490203
+NCT00002973,Melphalan and Whole-Body Hyperthermia in Treating Patients With Advanced Melanoma,0.001087535386496589,0.0012802571614424082
+NCT00002882,Interferon Alfa With or Without Combination Chemotherapy Plus Interleukin-2 in Treating Patients With Melanoma,0.00107522948352756,0.0009911568017114062
+NCT00002535,Indomethacin Plus Biological Therapy in Treating Patients With Advanced Melanoma,0.0011659691782753604,0.0012242970678355406
+NCT00005057,Gene Therapy and Ganciclovir in Treating Patients With Stage IV Melanoma,0.001164950509932803,0.0012246978447390125
+NCT00005617,Vaccine Therapy in Treating Patients With Stage IV or Relapsed Malignant Melanoma,0.0011995787995048113,0.001390501492724754
+NCT00005815,Temozolomide and Thalidomide in Treating Patients With Stage III or Stage IV Melanoma,0.001178398030749537,0.00136169105916909
+NCT00005633,Vaccine Therapy in Treating Patients With Stage III or Stage IV Melanoma,0.0012898380975264656,0.0012726855526269262
+NCT00005610,Study of Aerosolized Sargramostim in Treating Patients With Melanoma Metastatic to the Lung,0.001126346477915708,0.0011461805650608379
+NCT00005968,Irofulven in Treating Patients With Stage IV Melanoma,0.0013397156589239094,0.0014240876652066292
+NCT00005841,Vaccine Therapy in Treating Patients With Stage III or Stage IV Melanoma,0.0012898380975264656,0.0012745646475416943
+NCT00005971,Flavopiridol in Treating Patients With Metastatic Malignant Melanoma,0.0012603906000775522,0.001356114223435937
+NCT00005949,Vaccine Plus Interleukin-2 in Treating Patients With Advanced Melanoma,0.0011901524440405915,0.0013538503283592697
+NCT00086866,Vaccine Therapy in Treating Patients With Stage III or Stage IV Melanoma That Cannot Be Removed With Surgery,0.0012039262499903033,0.0012158386022793168
+NCT00086489,"CP-675,206 In Patients With Advanced Melanoma",0.0016872753789608722,0.0015465828921524117
+NCT00004244,Interleukin-12 and Interferon Alfa in Treating Patients With Metastatic Kidney Cancer or Malignant Melanoma,0.001037385509478281,0.0010167542491716151
+NCT00004135,Chemotherapy Plus Peripheral Stem Cell Transplantation in Treating Patients With Melanoma or Metastatic Kidney Cancer,0.0010367687009620746,0.0012124572197618974
+NCT00004022,Biological Therapy Following Surgery in Treating Patients With Stage III or Stage IV Melanoma,0.0012003738909378246,0.0014833748667939335
+NCT00004250,Isolated Limb Infusion of Chemotherapy in Treating Patients With Melanoma or Soft Tissue Sarcoma of the Arm or Leg That Cannot Be Removed By Surgery,0.0010011199633860445,0.0009451559996644318
+NCT00004104,Vaccine Therapy Plus Interleukin-2 With or Without Interferon Alfa-2b in Treating Patients With Stage III Melanoma,0.0011134664602216611,0.0011148796706773492
+NCT00004184,Monoclonal Antibody Therapy in Treating Patients With Stage III or Stage IV Melanoma,0.0012570765828191883,0.0012508733202031329
+NCT00004153,Detection of Melanoma Markers in Lymph Nodes or Peripheral Blood of Patients With Melanoma,0.001006957149822099,0.0007967802905021855
+NCT00004152,PET and CT Scans to Evaluate Patients With Stage III or Stage IV Melanoma,0.0011304189614337076,0.0010284534813829582
+NCT00004025,Vaccine Therapy With or Without Interleukin-2 in Treating Patients With Stage III or Stage IV Melanoma,0.0012012531586090558,0.0015012778995927149
+NCT00004196,Interferon Alfa-2b in Treating Patients With Melanoma and Early Lymph Node Metastasis,0.001082207937553761,0.0012076120307103794
+NCT00080353,Vaccine Treatment in Combination With IL-2 and Treated Lymphocytes for Advanced Melanoma,0.0008916717232065208,0.0014642504050683374
+NCT00024011,PS-341 in Treating Patients With Metastatic Malignant Melanoma,0.0012611108865404003,0.0013564332590165218
+NCT00001296,"A Randomized Phase III Trial of Hyperthermic Isolated Limb Perfusion With Melphalan, Tumor Necrosis Factor, and Interferon-Gamma in Patients With Locally Advanced Extremity Melanoma",0.0010393319641681979,0.0008316243087602953
+NCT00001685,"Immunization of HLA-A201 Patients With Metastatic Melanoma Using a Combination of Immunodominant Peptides From Three Melanoma Antigens, MART-1, GP100 and Tyrosinase",0.0009948191334309064,0.0011361729171966515
+NCT00001439,A Phase I Study of gp100 Human Melanoma Peptide Vaccine With Incomplete Freund's Adjuvant,0.0008908396338074127,0.0009759801782087723
+NCT00001577,Pilot Study of a Double Isolation Perfusion Schedule Using Melphalan Alone for Intransit Melanoma or Unresectable Sarcoma of the Extremity,0.0008363302745765774,0.000723270411472284
+NCT00035165,EPO906 Therapy in Patients With Advanced Melanoma,0.0014022455459484233,0.0012914939523794265
+NCT00007969,Photodynamic Therapy in Treating Patients With Stage III or Stage IV Melanoma,0.0012552071602277154,0.0013525628562589473
+NCT00026520,Interferon Alfa and Thalidomide in Treating Patients With Stage IV Melanoma,0.0011730524743182502,0.001308740575524148
+NCT00026221,Bevacizumab With or Without Interferon Alfa in Treating Patients With Metastatic Malignant Melanoma,0.0011118494258023123,0.0009739572499121849
+NCT00026143,Interleukin-12 and Interferon Alfa in Treating Patients With Metastatic Malignant Melanoma,0.0011080360436336743,0.0012353452718602963
+NCT00056134,Vaccine Therapy in Treating Patients With Stage III or Stage IV Melanoma,0.0012898380975264656,0.0014624592292460802
+NCT00098553,Everolimus in Treating Patients With Stage IV Melanoma,0.0013411720061997738,0.0011295751803174353
+NCT00089193,"Vaccine Therapy With or Without Sargramostim in Treating Patients With Stage IIB, Stage IIC, Stage III, or Stage IV Melanoma",0.0011777774951675273,0.0011448039641483913
+NCT00089219,"Vaccine Therapy in Treating Patients With Stage IIIB, Stage IIIC, or Stage IV Melanoma",0.0012261732509992382,0.0012680273861305727
+NCT00089063,Vaccine Therapy With or Without Sargramostim in Treating Patients Who Have Undergone Surgery for Melanoma,0.0011463023406249326,0.0010980320375615388
+NCT00089206,Vaccine Therapy in Treating Patients With Stage III or Stage IV Melanoma That Cannot Be Removed By Surgery,0.0012039262499903033,0.0012574370034035564
+NCT00073892,PI-88 in Treating Patients With an Advanced Malignancy (Cancer) or Stage IV Melanoma,0.00128074928186538,0.0014126593031142448
+NCT00032045,Vaccine Therapy and Monoclonal Antibody Therapy in Treating Patients With Stage IV Melanoma,0.001200853159805665,0.0012573965693956095
+NCT00090896,"CP-675,206 (CTLA4-Blocking Monoclonal Antibody) Combined With Dendritic Cell Vaccine Therapy in Treating Patients With Stage III or Stage IV Melanoma That Cannot Be Removed With Surgery",0.001146677967440337,0.0012817252944727071
+NCT00031733,Vaccine Therapy and Interleukin-12 With Either Alum or Sargramostim After Surgery in Treating Patients With Melanoma,0.0010149729050150844,0.001091994064529907
+NCT00095108,Study of Interleukin-21 for Metastatic Malignant Melanoma and Metastatic Kidney Cancer,0.0009431049791027115,0.000977171670786807
+NCT00070642,CPG 7909 Injection in Melanoma,0.0014592843099860643,0.0012592265863179718
+NCT00070343,Oblimersen and Dacarbazine in Treating Patients With Advanced Malignant Melanoma That Has Responded to Treatment on Clinical Trial GENTA-GM301,0.001110114425533474,0.0011517504098396208
+NCT01456104,Immune Responses to Autologous Langerhans-type Dendritic Cells Electroporated With mRNA Encoding a Tumor-associated Antigen in Patients With Malignancy: A Single-arm Phase I Trial in Melanoma,0.0009998988483799953,0.0011130308626284596
+NCT01496807,Yervoy With Sylatron Unresectable Stage 3 or 4 Melanoma,0.0008682298192048978,0.0010046561808724373
+NCT01460875,Recombinant Interferon Alfa-2b in Treating Patients With Melanoma,0.0015349753409378696,0.001507505128393999
+NCT01425749,Study to Assess Safety and Immune Response of Stage IIB-IV Resected Melanoma After Treatment With MAGE-A3 ASCI,0.0008990039350784065,0.0010578096966715911
+NCT01409733,TACE With Drug Eluting Beads Loaded With Doxorubicin in Liver Metastases From Melanoma Patients,0.0009865758814099268,0.0011039476272619786
+NCT01489423,Tissue and Blood Biomarkers From Patients With Stage III or Stage IV Melanoma Treated With Ipilimumab With or Without Sargramostim,0.001156719047024193,0.0012052378163938762
+NCT01489059,Safety Study of IL-21/Ipilimumab Combination in the Treatment of Melanoma,0.00111224509428772,0.0010508503720555867
+NCT01433991,E7050 in Combination With E7080 in Subjects With Advanced Solid Tumors (Dose Escalation) and in Subjects With Recurrent Glioblastoma or Unresectable Stage III or Stage IV Melanoma After Prior Systemic Therapy (Expansion Cohort and Phase 2),0.000989363492005323,0.0011219485622734628
+NCT01482260,Comparative Microarray Analysis in Primary Cutaneous Malignant Melanoma,0.0014491462581061002,0.0010950616966098241
+NCT01480154,"Akt Inhibitor MK2206 and Hydroxychloroquine in Treating Patients With Advanced Solid Tumors, Melanoma, Prostate or Kidney Cancer",0.001061391043976745,0.0012148282489032516
+NCT01444560,"miRNA Machinery in Melanoma, Melanoma Metastases and Benign Melanocytic Naevi",0.0007469182263095744,0.0006566389900277225
+NCT01495572,Melanoma Treatment With White Blood Cells That Destroy MART Expressing Tumor Cells,0.000839301297564999,0.0010734247477225786
+NCT01495988,Trial of Vemurafenib/Cobimetinib With or Without Bevacizumab in Patients With Stage IV BRAFV600 Mutant Melanoma,0.0011098344835825805,0.0011160621921057347
+NCT01432860,A Comparison of Interventions to Teach Melanoma Patients Skin Self-examination,0.0009970783961554715,0.0006406624027037043
+NCT01462773,"Study of Patients With Stage IV Malignant Melanoma Using PS-341 (Bortezomib, Velcade) and Interferon-alpha-2b in Malignant Melanoma",0.0011637661116094536,0.0010772185137280282
+NCT01453361,Phase II FANG™ in Advanced Melanoma,0.0011844343388563376,0.0009629244548274582
+NCT01469455,DNA Repair Inhibitor & Irradiation on Melanoma,0.000852675849257123,0.0011027763694646704
+NCT01449279,Pilot Ipilimumab in Stage IV Melanoma Receiving Palliative Radiation Therapy,0.0010194954673606118,0.0009026840558245977
+NCT01435499,Safety Study of a Melanoma Vaccine (GVAX) With or Without Cyclophosphamide in Patients With Surgically Resected Melanoma,0.001130885194725438,0.0012522624096936769
+NCT01436656,A Phase I Study of Oral LGX818 in Adult Patients With Advanced or Metastatic BRAF Mutant Melanoma,0.0013536213308142117,0.0011247087001030093
+NCT01455259,Phase I/IIa AdCD40L Immunogene Therapy for Malignant Melanoma and Other Solid Tumors,0.0009383186322705578,0.0009847268879410985
+NCT01455103,Phase 1 Biomarker Study of Anti-PDL-1 in Advanced Melanoma,0.0011448572693527493,0.001424871904775438
+NCT01295931,Nuclear and Near-Infrared (NIR) Imaging in Melanoma,0.001465535395443639,0.0006582748593845153
+NCT01295827,"Study of Pembrolizumab (MK-3475) in Participants With Progressive Locally Advanced or Metastatic Carcinoma, Melanoma, or Non-small Cell Lung Carcinoma (P07990/MK-3475-001/KEYNOTE-001)",0.0009311021931065229,0.0011399563258640266
+NCT01253564,A Study of RO5185426 in Previously Treated Melanoma Patients With Brain Metastases,0.0014081453640923183,0.0013088622477728626
+NCT01253096,Intratumoral Application of L19IL2 in Patients With Malignant Melanoma,0.0015262996950358605,0.0015004211699930314
+NCT01213732,Phase 1 Dose-finding Study of L19TNFα Plus Melphalan Using Isolated Inferior Limb Perfusion (ILP) in Subjects With Intransit Stage III/IV Melanoma,0.0009183063438896439,0.000889763440039005
+NCT01266096,PET Imaging of Patients With Melanoma and Malignant Brain Tumors Using an 124I-labeled cRGDY Silica Nanomolecular Particle Tracer: A Microdosing Study,0.0010973780887442671,0.001058709623224743
+NCT01259934,Nordic Adjuvant IFN Melanoma Trial,0.002777704469023434,0.00106586210252221
+NCT01288963,"IL-2 ""SELECT"" Tissue Collection Protocol in Patients With Advanced Melanoma",0.0010913870488965557,0.001217860822154971
+NCT01227551,A Study of Intratumoral CAVATAK in Patients With Stage IIIc and Stage IV Malignant Melanoma,0.0013414461691437138,0.0012585128325953434
+NCT01227889,A Study Comparing GSK2118436 to Dacarbazine (DTIC) in Previously Untreated Subjects With BRAF Mutation Positive Advanced (Stage III) or Metastatic (Stage IV) Melanoma,0.0010938749210278,0.0010341611041809102
+NCT01216696,Ipilimumab in Patients With Advanced Melanoma and Spontaneous Preexisting Immune Response to NY-ESO-1,0.0011432203291881619,0.0011231828182664844
+NCT01216787,"RO4929097 in Treating Patients With Stage IIIB, Stage IIIC, or Stage IV Melanoma That Can Be Removed by Surgery",0.0011674484868655966,0.0012898386932013188
+NCT01256359,Docetaxel With or Without AZD6244 in Melanoma,0.0014536248192060723,0.0012392832324633432
+NCT01245062,GSK1120212 vs Chemotherapy in Advanced or Metastatic BRAF V600E/K Mutation-positive Melanoma,0.0008994125139250799,0.0009977133587918197
+NCT01245556,Safety and Efficacy Study of BMS-908662 in Combination With Ipilimumab in Subjects With Advanced Melanoma,0.0010772409272309718,0.0013677008284610854
+NCT01280565,A Phase 3 Study to Compare Efficacy and Safety of Masitinib to Dacarbazine in the Treatment of Patients With Non-Resectable or Metastatic Stage 3 or Stage 4 Melanoma Carrying a Mutation in the Juxta Membrane Domain of C-Kit,0.001332456055212043,0.0010497492188755162
+NCT01281722,Role of SLURP-1 in Melanoma and Melanoma Stem Cells,0.0008531401325465316,0.0008188626862986
+NCT01239134,Trial of TRX518 (Anti-GITR mAb) in Stage III or IV Malignant Melanoma or Other Solid Tumors,0.0009845487500925345,0.0010496879621513596
+NCT01211262,Study to Assess the Tolerability of a Bispecific Targeted Biologic IMCgp100 in Malignant Melanoma,0.0008880577394819822,0.0009990041537786037
+NCT01205815,Storage and Research Use of Human Bio-specimens From Melanoma Patients and Clinical Testing for Assignment of Treatment,0.001288279711264603,0.0010987172273953527
+NCT01247623,Trial With Telomerase Peptide Vaccine In Combination With Temozolomide in Patients With Advanced Malignant Melanoma,0.0011301606577816907,0.0013341692368101967
+NCT01274338,Ipilimumab or High-Dose Interferon Alfa-2b in Treating Patients With High-Risk Stage III-IV Melanoma That Has Been Removed by Surgery,0.001124868733719886,0.0013146331575955071
+NCT01209676,IMCgp100 in Advanced Unresectable Melanoma,0.0010036697603779633,0.0007846514051852733
+NCT01264731,Combination Therapy of Topical Imiquimod Plus Multipeptide Vaccination for Cutaneous Metastases of Melanoma,0.0007183612294272023,0.0008617744646342245
+NCT01264081,Lapatinib in Stage IV Melanoma With ERBB4 Mutations,0.0011909212053981808,0.001195761522181759
+NCT01278940,Trial of Vaccine Therapy With mRNA- Transfected Dendritic Cells in Patients With Advanced Malignant Melanoma,0.0012175291793690072,0.0009822312602475486
+NCT01258855,Aldesleukin With or Without Ziv-Aflibercept in Treating Patients With Stage III-IV Melanoma That Cannot Be Removed by Surgery,0.0010879967485385672,0.0012713501255018477
+NCT02941744,A Clinical Trial: Adjuvant Low-dose Ipilimumab + Nivolumab After Resection of Melanoma Macrometastases,0.0007414279609953307,0.0008341630248347617
+NCT02990416,A-dmDT390-bisFv(UCHT1) Fusion Protein With Ionizing Radiation and Pembrolizumab for the Treatment of Stage IV Melanoma,0.0008427890416354895,0.000949294211837867
+NCT02990611,Real-Life Efficacy and Safety of Nivolumab Monotherapy or in Combination With Ipilimumab in Patients With Advanced (Unresectable or Metastatic) Melanoma,0.0011771305566384838,0.0011395803905260922
+NCT02917473,Comparison of Two Strategies for Counseling Skin Examination and Sun Protection in First-degree Relatives of Patients With Melanoma,0.0009411583972689686,0.0008827813465334194
+NCT02907827,Whole-body DW-MRI and cfDNA Analysis for the Surveillance of Melanoma Patients at High Risk for Recurrence.,0.0009935151913433864,0.0006759773408559497
+NCT02907086,Circulating Tumor Material in Colorectal Cancer and Melanoma,0.0010695279191272355,0.0010489129460763084
+NCT02975700,A Study of PLX3397 in Patients With Unresectable or Metastatic KIT-mutated Melanoma,0.001288609191687146,0.0013325055576979702
+NCT02938728,Definition of an Immune Signature Predictive of Anti-PD1 (Programmed Death-1) Antibody in the Treatment of Advanced Melanoma,0.0008243413619569469,0.0012734439198558716
+NCT02981303,Study of Imprime PGG and Pembrolizumab in Advanced Melanoma and Triple Negative Breast Cancer,0.0009458476879039166,0.001104117394677076
+NCT02902029,Evaluating the Efficacy and Safety of a Sequencing Schedule of Cobimetinib Plus Vemurafenib Followed by Immunotherapy With an Anti- PD-L1 Antibody in Patients With Unresectable or Metastatic BRAF V600 Mutant Melanoma,0.0010363197735759238,0.0009925669492203421
+NCT02970981,Study of Combination of Ipilimumab and Nivolumab in Patients With Melanoma,0.001214651251163721,0.0013553785116028328
+NCT02909348,Immunophenotyping of Melanoma Patients on Treatment With Pembrolizumab,0.0011347873939245594,0.0010350713329541792
+NCT02939300,Ipilimumab and Nivolumab in Leptomeningeal Metastases From Melanoma,0.0009149179529810021,0.0010650796886354406
+NCT02994498,DCB-BO1301 for Advanced Melanoma,0.0016929682068813478,0.0012901544788759634
+NCT02978625,Talimogene Laherparepvec and Nivolumab in Treating Patients With Refractory Lymphomas or Advanced or Refractory Non-melanoma Skin Cancers,0.0011035736805314732,0.0012551174873332014
+NCT02905266,A Safety and Efficacy Study of Multiple Administration Regimens for Nivolumab Plus Ipilimumab in Subjects With Melanoma,0.00089707453386246,0.001014374163518702
+NCT02989064,"MAGE-A10ᶜ⁷⁹⁶T for Urothelial Cancer, Melanoma or Head and Neck Cancers",0.0010421751873831635,0.0009012372869809371
+NCT02965716,Talimogene Laherparepvec and Pembrolizumab in Treating Patients With Stage III-IV Melanoma,0.0013494437161882334,0.0013484032097980817
+NCT02962947,MELABLOCK: A Clinical Trial on the Efficacy and Safety of Propranolol 80 mg in Melanoma Patients,0.0012204330631640013,0.0011586275795735447
+NCT02974803,Concurrent Dabrafenib and Trametinib With Sterotactic Radiation in Patients With BRAF Mutation-Positive Malignant Melanoma and Brain Metastases,0.0010094910728384243,0.0009535227133426287
+NCT02993315,Melanoma Patients Immunized With Natural DenDritic Cells,0.0015526887861715309,0.0011192158778215585
+NCT02915666,A Clinical Trial of Patients With Melanoma,0.0015340150073470031,0.0011173657980811335
+NCT02983006,Study of DS-8273a With Nivolumab in Unresectable Stage III or Stage IV Melanoma,0.0010164508129813176,0.001111036241310625
+NCT02910557,Postmarketing Prospective Study of Melanoma Patients Treated With IMLYGIC® to Characterize Risk of Herpetic Infection,0.0012082189775871324,0.001099463749145916
+NCT02967692,"A Study of the Anti-PD1 Antibody PDR001, in Combination With Dabrafenib and Trametinib in Advanced Melanoma",0.0009533065548264777,0.0009835459898731248
+NCT02908672,A Study of Atezolizumab Plus Cobimetinib and Vemurafenib Versus Placebo Plus Cobimetinib and Vemurafenib in Previously Untreated BRAFv600 Mutation-Positive Participants With Metastatic or Unresectable Locally Advanced Melanoma,0.00097784289725248,0.0009358325259698938
+NCT02507947,SPECTAmel: Screening Patients With Melanoma Tumors for Efficient Clinical Trial Access,0.0010942341499211178,0.0010063564403177336
+NCT02507076,Isolated Limb Perfusion With Melphalan in Treating Patients With Stage IIIB-IV Melanoma or Sarcoma,0.0010206454386756526,0.0011398702593284113
+NCT02519322,Neoadjuvant and Adjuvant Checkpoint Blockade in Patients With Clinical Stage III or Oligometastatic Stage IV Melanoma,0.001131463771448268,0.001160537120826499
+NCT02573259,"A Dose Escalation Study Of PF-06801591 In Melanoma, Head And Neck Cancer (SCCHN), Ovarian, Sarcoma, Hodgkin Lymphoma or Other Solid Tumors",0.0008198406790119306,0.0007910947665575293
+NCT02508909,Videoscopic Ilioinguinal Lymphadenectomy for Melanoma,0.0014506189293849111,0.0006726198849822156
+NCT02545075,A Comparative Study in Chinese Subjects With Chemotherapy Naïve Stage IV Melanoma Receiving Ipilimumab (3 mg/kg) vs. Dacarbazine,0.000853653756275923,0.0010212304192088783
+NCT02553642,Relationship Between Tumor Mutation Burden and Predicted Neo-antigen Burden in Patients With Advanced Melanoma or Bladder Cancer Treated With Nivolumab or Nivolumab Plus Ipilimumab (CA209-260),0.0010967538464619548,0.0010736741216647986
+NCT02537600,Vemurafenib and Cobimetinib Combination in BRAF Mutated Melanoma With Brain Metastasis,0.0008098435113459456,0.00113685193700106
+NCT02511119,Application of Genomic Techniques and Image Processing Using Artificial Intelligence to Obtain a Predictor Model Risk of Melanoma,0.000696853425247771,0.0007490851511742536
+NCT02574377,myDC/pDC in Stage III Melanoma Patients,0.0016727462566609114,0.0012034292513998426
+NCT02574533,Pilot Study of Vigil™ + Pembrolizumab for Advanced Melanoma,0.0010125913442231465,0.0012536841021653024
+NCT02509598,"A Study Comparing Lymphoseek® and Vital Blue Dye as Lymphoid Tissue Targeting Agents in Pediatric Patients With Melanoma, Rhabdomyosarcoma, or Other Solid Tumors Who Are Undergoing Lymph Node Mapping",0.0010944508481502229,0.0009373589871999554
+NCT02565992,Phase I Study of Intratumoral CAVATAK™ and Pembrolizumab in Subjects With Advanced Melanoma,0.0011560774855946879,0.001014027102771911
+NCT02599402,Nivolumab Combined With Ipilimumab Followed by Nivolumab Monotherapy as First-Line Treatment for Patients With Advanced Melanoma,0.001145603988418555,0.0013287875211664536
+NCT02506153,"High-Dose Recombinant Interferon Alfa-2B, Ipilimumab, or Pembrolizumab in Treating Patients With Stage III-IV High Risk Melanoma That Has Been Removed by Surgery",0.0011275686788602898,0.0011208315493833644
+NCT02581228,"Multi-Centre, Retrospective, Open Label Study, to Validate ML-PrediCare by Patients With Melanoma Under 1st and 2nd Lines of Immunotherapy",0.0011441083055790883,0.0011049759284864336
+NCT02562625,Trial of Pembrolizumab and Radiotherapy in Melanoma,0.0010785229411146087,0.001092299782270548
+NCT02575404,GR-MD-02 Plus Pembrolizumab in Melanoma Patients,0.0015576092866015443,0.0019076887945290075
+NCT02501551,"Regorafenib, C-kit Mutated Malignant Melanoma, 2nd Line Therapy",0.0008973353531635346,0.000815140789629685
+NCT02523313,Immunotherapy With Nivolumab or Nivolumab Plus Ipilimumab vs. Double Placebo for Stage IV Melanoma w. NED,0.0008680459020376191,0.0008196901019685101
+NCT02587650,Trial of TKF Inhibition in Unresectable Stage III/IV BRAF/NRAS WT Melanoma,0.0009926289321846216,0.0010802062288726856
+NCT00685750,Expression Analysis of Specific Markers in Non-small Cell Lung Cancer or Melanoma,0.0007247398811463303,0.00104036116394775
+NCT00626405,Bevacizumab and Temozolomide or Bevacizumab and Paclitaxel Albumin-Stabilized Nanoparticle Formulation and Carboplatin in Treating Patients With Stage IV Malignant Melanoma That Cannot Be Removed by Surgery,0.0010956546127876788,0.0011252719388582385
+NCT00626860,The Use of Dendritic Cell/Tumor Hybridomas as a Novel Tumor Vaccine in Patients With Advance Melanoma,0.0011279338872468997,0.0013966715747139565
+NCT00616564,Phase II Trial of (IL-2) With Priming and (GM-CSF) in Patients With Advanced Melanoma,0.0016872753789608722,0.001253341837433527
+NCT00667901,Riluzole in Treating Patients With Stage III or Stage IV Melanoma That Can Be Removed by Surgery,0.0011726180388929159,0.0013087843497081749
+NCT00667082,"NPI-0052 and Vorinostat in Patients With Non-small Cell Lung Cancer, Pancreatic Cancer, Melanoma or Lymphoma",0.000967037042677423,0.0006706741876034365
+NCT00667953,Study of Temzolomide and Gleevec in Advanced Melanoma,0.0011306015423038318,0.001177183742283012
+NCT00623766,Evaluation of Tumor Response to Ipilimumab in the Treatment of Melanoma With Brain Metastases,0.0008193658009906513,0.0014466073941620955
+NCT00636168,Efficacy Study of Ipilimumab Versus Placebo to Prevent Recurrence After Complete Resection of High Risk Stage III Melanoma,0.0009135698613182459,0.0008391347326232111
+NCT00673361,"Pilot Trial of ""Chemo-Switch"" Regimen to Treat Advanced Melanoma",0.000954748714604975,0.0009549389444929551
+NCT00610311,Anti-gp100 Cells Plus ALVAC gp100 Vaccine to Treat Advanced Melanoma,0.0008784807275135109,0.0011834791434730306
+NCT00610857,Safety and Efficacy of Combination HDI and Anti-CTLA4 for Recurrent Inoperable Stage III or Stage IV Melanoma,0.001107969672632554,0.0009618100526999561
+NCT00625768,Study of AS1409 in Patients With Either Metastatic Renal Cell Carcinoma or Metastatic Malignant Melanoma,0.0011601062376857115,0.0011753202080042413
+NCT00683670,Dendritic Cells (White Blood Cells) Vaccination for Advanced Melanoma,0.000873152981443003,0.0010867712370907009
+NCT00665470,Chemotherapy Followed by gp100 Lymphocytes and Aldesleukin to Treat Melanoma,0.0007606048306126702,0.0012948532814306395
+NCT00672542,Immunotherapy of Melanoma With Tumor Antigen RNA and Small Inhibitory RNA Transfected Autologous Dendritic Cells,0.0008069811605179233,0.0010354295537792157
+NCT00672321,"Answering Questions About Vitamin D Supplementation and Sun Exposure in Patients Who Have Undergone Surgery for Stage IB, Stage II, or Stage IIIA Melanoma",0.0009952293657387494,0.0007257494420971569
+NCT00669019,Saracatinib in Treating Patients With Stage III or Stage IV Melanoma That Cannot Be Removed By Surgery,0.0011717237648243976,0.0012101297825794857
+NCT00658892,Monoclonal Antibody Therapy in Treating Patients With Stage IV Melanoma,0.0013426054112444545,0.0009157039738185075
+NCT00658437,CY503 for the Treatment of Malignant Melanoma Stage IV After Failure of Prior Therapy,0.0010226607324252696,0.0012330892755483003
+NCT00651703,Safety and Immunogenicity of CYT004-MelQbG10 Vaccine With and Without Adjuvant in Advanced Stage Melanoma Patients,0.0010888384711512133,0.0011982070981749712
+NCT00612222,Anti-MART-1 F5 Cells Plus ALVAC MART-1 Vaccine to Treat Advanced Melanoma,0.0009939957539743674,0.00118786951625107
+NCT00612664,"Phase II, 2nd Line Melanoma - RAND Monotherapy",0.0014551920819305382,0.0011468101945897517
+NCT00675727,Safety Study of CADI-05 in Patients With Advanced Stage Melanoma,0.0013417718460997559,0.0012495936869760613
+NCT00688090,Safety and Immune Response to a Multi-component Immune Based Therapy (MKC1106-MT) for Patients With Melanoma.,0.0010155882688154992,0.0010669411701797228
+NCT00601861,Effect of rIL-21 on Metastases in Lymph Nodes in Melanoma Skin Cancer,0.0007571412353350489,0.0007357517884961811
+NCT00661336,A Phase I Trial of Normothermic Isolated Limb Infusion (ILI) With Melphalan Plus Buthionine Sulfoximine (BSO) in Patients With Locally Advanced Malignant Melanoma,0.001056948841511512,0.0010435298140199026
+NCT00602576,Temozolomide and Sorafenib in Treating Patients With Metastatic or Unresectable Melanoma,0.0010777594624882248,0.0010570952533592401
+NCT00615095,Differential Risks for Melanoma: p16 and DNA Repair,0.0014506528774767117,0.0007819431915348058
+NCT00615160,PTK/ZK in Disseminated Malignant Melanoma,0.001450693722745973,0.0009455037214076147
+NCT00698100,"Vaccination of AJCC Stage IIB, IIC, III and IV Melanoma Patients With Human and Mouse Tyrosinase DNA Vaccines",0.0010993898211564754,0.0010174491621203429
+NCT00671554,Trial of Melaxin Cancer Vaccine Plus Bacillus Calmette-Guerin (BCG) to Treat Malignant Melanoma,0.001028313937268623,0.0010890165301208306
+NCT00671918,Trial of Lymphoseek in Intraoperative Localization of Lymph Nodes in Breast Cancer and Melanoma,0.000704666935298876,0.0006291982831314205
+NCT00398073,"Vaccine Therapy in Treating Patients With Stage IIB, Stage IIC, Stage III, or Stage IV Melanoma",0.001217411230587593,0.0011961102175145353
+NCT00349206,"Sorafenib and Temsirolimus in Treating Patients With Metastatic, Recurrent, or Unresectable Melanoma",0.0010634799689310391,0.0010572094427446404
+NCT00306553,Safety and Immunogenicity of a Melan-A VLP Vaccine in Advanced Stage Melanoma Patients,0.001112280800368296,0.0012280420970564503
+NCT00306566,Safety and Immunogenicity of a Melan-A VLP Vaccine in Early Stage Melanoma Patients,0.0010921049957352447,0.0011293959773126018
+NCT00306514,Safety and Immunogenicity of a Melan-A VLP Vaccine in Advanced Stage Melanoma Patients,0.001112280800368296,0.0012097315898125871
+NCT00358319,Phase I/II Trial of Valproic Acid and Karenitecin for Melanoma,0.001022425829792442,0.001046540681891098
+NCT00383292,A Study of LY573636 in Treating Patients With Malignant Melanoma,0.001755885322770282,0.0013180033434836392
+NCT00383851,Randomized Trial of ATN-224 and Temozolomide in Advanced Melanoma,0.0009758146447826926,0.0011406968014290918
+NCT00328861,Natural Killer Cells Plus IL-2 Following Chemotherapy to Treat Advanced Melanoma or Kidney Cancer,0.0008584392968126742,0.0013898988880542444
+NCT00346008,Studying Genes to Identify Melanoma in Patients in Iceland and Their Family Members,0.0015261906849186413,0.0008544172828202019
+NCT00368615,Characterization of the Melanoma-Specific Immune Response,0.0008525956057258961,0.0010241914751895906
+NCT00370136,Sentinel Node With Ultrasound Contrast in Melanoma,0.0008310467036407313,0.0005374269792572794
+NCT00350597,GM-CSF as Adjuvant Therapy of Melanoma,0.0014551206522656196,0.0008805410787366355
+NCT00348088,Melanoma Biomarker Study,0.001271736012242769,0.0009254290428558503
+NCT00304200,Temodar and Sutent as Therapy for Melanoma,0.0008951160247837145,0.0009800529734690507
+NCT00397982,Temsirolimus and Bevacizumab in Treating Patients With Stage III or Stage IV Malignant Melanoma,0.001167886111418585,0.001033541199426766
+NCT00394134,Targeted Intervention for Melanoma Prevention,0.0010244335151624448,0.0007030845619424592
+NCT00365937,Immunization of Disease-Free Melanoma Patients With Different HLA-A2 Peptides,0.0010737927390736457,0.0008956882764064031
+NCT00356460,Safety and Efficacy Study of GC1008 to Treat Renal Cell Carcinoma or Malignant Melanoma,0.0012560158978572986,0.0009183451670174951
+NCT00313235,Combined Modality Treatment for Patients With Stage IV Melanoma,0.001341981395559125,0.0012738279021439391
+NCT00387751,Bevacizumab and Sorafenib in Treating Patients With Unresectable Stage III or Stage IV Malignant Melanoma,0.0011604931183225014,0.0010568139531487153
+NCT00391300,Bioelectric Field Imaging in Diagnosing Melanoma and Other Skin Cancers in Patients With Skin Lesions,0.0009605240326141445,0.0007467571027874316
+NCT00341991,Molecular Epidemiology of Cutaneous Malignant Melanoma,0.0010248935585762304,0.0007449174919403603
+NCT00357461,Ipilimumab With or Without Vaccine Therapy in Treating Patients With Previously Treated Stage IV Melanoma,0.0012507600137373683,0.0012188197211792367
+NCT00395070,A Phase 3 Pivotal Trial Comparing Allovectin-7® Alone vs Chemotherapy Alone in Patients With Stage 3 or Stage 4 Melanoma,0.0011748836045864764,0.0011514474399412535
+NCT00300612,Vaccine Treatment for Advanced Malignant Melanoma,0.0010375597907212606,0.0014088427516756978
+NCT00390338,Vaccine Therapy in Treating Patients With Stage III or Stage IV Melanoma,0.0012898380975264656,0.0012379529865871564
+NCT00317759,Fludarabine Followed By Adoptive Immunotherapy in Treating Patients With Stage IV Melanoma,0.0011651184659548614,0.0013253478680256788
+NCT00327600,Safety and Efficacy Trial of Imexon Plus DTIC in Advanced Malignant Melanoma,0.0009709174800171403,0.00106827387813135
+NCT00339222,Family Study of Melanoma in Italy,0.0014491462581061002,0.0007370474081623207
+NCT00324155,Dacarbazine and Ipilimumab vs. Dacarbazine With Placebo in Untreated Unresectable Stage III or IV Melanoma,0.0008440436681153037,0.000981291951451807
+NCT00324727,Hepatic Arterial Infusion With Melphalan Compared With Standard Therapy in Treating Patients With Unresectable Liver Metastases Due to Melanoma,0.0010227481142789706,0.0010776046618467885
+NCT00323206,Phase I Trial of Intratumoral pIL-12 Electroporation in Malignant Melanoma,0.0010292963106361959,0.0010383161180143074
+NCT00791271,Parallel Phase I/II Trial of Decitabine and Peg-Interferon in Melanoma: Phase I Portion,0.0008400930567910673,0.0009039153716202052
+NCT00723710,Effect of Proactive Management of Side Effects on Treatment Compliance in Malignant Melanoma Patients on High-dose Intron A Therapy (Study P04600),0.0011153654354874646,0.0009996815971674608
+NCT00794235,Monocentric Pilot Study Investigating the Metabolic Activity of Melanoma in Vivo During Sorafenib and Dacarbazine,0.0008518755092589717,0.0009596782232017279
+NCT00790010,Bevacizumab Plus Ipilimumab in Patients With Unresectable Stage III or IV Melanoma,0.001154205367582515,0.001131904441744894
+NCT00746746,A Phase II Study of an Anti-Tumor Immunotherapy Regimen Comprised of Pegylated Interferon-Alpha 2b and HyperAcute Melanoma Vaccine for Subjects With Advanced Melanoma,0.0009285172613512238,0.0009732516953638085
+NCT00749684,Efficacy and Safety of High-dose Interferon Alfa-2b (Intron A®) for the Adjuvant Treatment of Malignant Melanoma (Study P04083),0.0009007135521226305,0.000839448125239933
+NCT00716495,"Safety and Pharmacodynamic Study of a New Formulation, AGI - 101H Vaccine in the Treatment of Advanced Melanoma",0.0009933960332054483,0.0010277701345214442
+NCT00726739,Aldesleukin With or Without Vaccine Therapy in Treating Patients With Stage IV Melanoma,0.0012042501355946286,0.001183431222473423
+NCT00733798,A Safety and Efficacy Study of Intravenous 131I-TM601 in Adult Patients With Malignant Melanoma,0.001393181359893279,0.0015910526387742157
+NCT00700882,"Dasatinib in Treating Patients With Locally Advanced or Metastatic Mucosal Melanoma, Acral Melanoma, or Vulvovaginal Melanoma That Cannot Be Removed By Surgery",0.0011081311520957002,0.0010434716419966722
+NCT00769704,Efficacy and Safety Study of Talimogene Laherparepvec Compared to Granulocyte Macrophage Colony Stimulating Factor (GM-CSF) in Melanoma,0.0010121204396575261,0.001116062327589292
+NCT00796445,"A Phase III Study to Test the Benefit of a New Kind of Anti-cancer Treatment in Patients With Melanoma, After Surgical Removal of Their Tumor",0.0011402814988369983,0.001128782258461837
+NCT00707161,Radiation Therapy and Concurrent Cisplatin Chemotherapy for Locally Advanced or Metastatic Malignant Melanoma,0.0008479494867006455,0.0011203359871895715
+NCT00788775,"Nilotinib in TKI Resistant or Intolerant Patients With Metastatic Mucosal, Acral, or Chronically Sun Damaged Melanoma",0.0009881087385026233,0.0009435223993283191
+NCT00755976,Sulindac and Epirubicin in Treating Patients With Metastatic Malignant Melanoma,0.001098346686044261,0.001058097888094872
+NCT00706992,Anti-MART-1 F5 Lymphocytes to Treat High-Risk Melanoma Patients,0.0012415891419439037,0.0014181529851982658
+NCT00722098,Comparison Study of Dendritic Cell Vaccine With and Without Cyclophosphamide to Treat Stage IV Melanoma Patients,0.0011795715553504088,0.001186378332505487
+NCT00776945,Feasibility and Functionality of fPAM Imaging in Melanoma,0.0010338403225543494,0.0006545575273221014
+NCT00743496,"A Phase I Trial Of The Humanized Anti-GD2 Antibody In Children And Adolescents With Neuroblastoma, Osteosarcoma, Ewing Sarcoma and Melanoma",0.0007402517138990301,0.0009470846935891158
+NCT00705640,Vaccine Therapy in Treating Patients With Advanced Melanoma,0.0013781770152279035,0.0012679968138687668
+NCT00729950,Study of MDX-010 in Subjects With Unresectable Stage III or Stage IV Malignant Melanoma,0.0011229631982353108,0.0011892535013552667
+NCT00445783,Study of Families With Melanoma,0.0017944866535682719,0.0011070783289912798
+NCT00466687,Erlotinib and Bevacizumab in Treating Patients With Stage IV Melanoma,0.0011713136175530992,0.0009810284760974968
+NCT00477906,M-Vax + Low Dose Interleukin-2 Versus Placebo Vaccine in Metastatic Melanoma in Patients With Stage IV Melanoma,0.0010480077815819844,0.0013558194646852344
+NCT00450255,VEGF Trap in Treating Patients With Recurrent Stage III or Stage IV Melanoma That Cannot Be Removed by Surgery,0.001171723764824398,0.0010920570604009445
+NCT00450593,Identifying Gene Mutations in Patients With Melanoma and in Families With a History of Hereditary Melanoma,0.0012128752439638725,0.0011066352405797264
+NCT00457418,High-Dose PEG-Intron Pharmacokinetic Study in Patients With Melanoma (Study P04831 AM2),0.0011405999030910362,0.0011472370277635965
+NCT00492505,"Sorafenib, Tamoxifen, and Cisplatin in Treating Patients With High-Risk Stage III Melanoma",0.0010481148232250402,0.0010462787433368126
+NCT00412828,A Phase I/II Study of CR011-vcMMAE in Subjects With Unresectable Stage III or Stage IV Melanoma,0.0010401626931369258,0.0009974786078181508
+NCT00409383,Abraxane and Temodar Plus Genasense in Advanced Melanoma,0.0008439078255343922,0.0009949060624796844
+NCT00429312,A Study of Recombinant Vaccinia Virus to Treat Malignant Melanoma,0.0010061130733471217,0.0013983447964816724
+NCT00472459,PDT With Metvix® 160 mg/g Cream in Organ Transplant Recipients With Non-melanoma Skin Cancer,0.0007396997864632829,0.0009511742342754088
+NCT00463892,High-resolution Magnetic Resonance Imaging (MRI) Scans to Look for Spread of Melanoma to Nearby Lymph Nodes,0.0007129427886265216,0.0009434575054123611
+NCT00424515,Imatinib in Patients With Mucosal or Acral/Lentiginous Melanoma,0.0012150570753340644,0.0009299093259667956
+NCT00436605,Dasatinib in Treating Patients With Stage III Melanoma That Cannot Be Removed By Surgery or Stage IV Melanoma,0.001172556826114719,0.001152567469834906
+NCT00462280,Lovastatin in Treating Patients At High Risk of Melanoma,0.0012180482860776052,0.001403255821813604
+NCT00462423,"Abraxane and Avastin as Therapy for Patients With Malignant Melanoma, a Phase II Study",0.001174437376693247,0.0010711025178161678
+NCT00462982,Sunitinib in Treating Patients With Brain Metastases Caused by Kidney Cancer or Melanoma,0.001081969403387478,0.0011407933983300777
+NCT00447356,High-Dose Interferon Alfa in Treating Patients With Stage II or StageIII Melanoma,0.0010866734877862994,0.0009534766157807873
+NCT00406900,Melanoma Inhibitory Activity (MIA): A Serological Marker for Metastatic Uveal Melanoma,0.0007896360372302001,0.0009444624548412788
+NCT00432107,A Study to Assess APO866 for the Treatment of Advanced Melanoma,0.0011961959088296536,0.0011108557755902771
+NCT00432471,Optical Imaging of Skin Cancers for Margin Delineation of Non-melanoma Skin Cancers,0.0010305447923445515,0.0007996508826840282
+NCT00416988,Educational Program in Skin Self-Examination To Detect Melanoma in Healthy Participants,0.0007431250487551121,0.0005740200171450103
+NCT00404235,Carboplatin and ABI-007 in Treating Patients With Stage IV Melanoma That Cannot Be Removed By Surgery,0.0011464836098622091,0.0011164124675849178
+NCT00470015,"Vaccine Therapy and GM-CSF With or Without Low-Dose Aldesleukin in Treating Patients With Stage II, Stage III, or Stage IV Melanoma",0.001142396262390648,0.0011661808838476257
+NCT00470379,"Vaccine Therapy and Resiquimod in Treating Patients With Stage II, Stage III, or Stage IV Melanoma That Has Been Completely Removed by Surgery",0.0011749449857902977,0.0011746967152101682
+NCT00470470,Imatinib Mesylate in Treating Patients With Stage III or Stage IV Melanoma That Cannot Be Removed by Surgery,0.0011721396655572877,0.0012104206589071322
+NCT00438984,"Therapeutic Autologous Lymphocytes, Cyclophosphamide, and Aldesleukin in Treating Patients With Stage IV Melanoma",0.001089964346494486,0.001179807957675597
+NCT00438009,A Safety Study of Two Intratumoural Doses of Coxsackievirus Type A21 in Melanoma Patients,0.001390952481963604,0.0009848943861583371
+NCT00471133,Safety and Immunogenicity of a Melanoma DNA Vaccine Delivered by Electroporation,0.0008366151830253391,0.0008580498346424683
+NCT00471887,"Ticilimumab (CP-675,206) in Treating Patients With Stage IIIC or Stage IV Melanoma",0.0011915402816495438,0.0010398718785226645
+NCT00471471,Vaccine Therapy in Treating Patients With Recurrent Stage III or Stage IV Melanoma That Cannot Be Removed by Surgery,0.0012039262499903033,0.0011490897628054244
+NCT00498979,"Sodium Stibogluconate and IFNa-2b Followed By CDDP, VLB and DTIC Treating Pts.With Advanced Melanoma or Other Cancers",0.0008189232005331611,0.0009049514438395422
+NCT00498836,"Multicentre, Dose Finding, Ph II,CP-4055 in Comb. With Sorafenib - Patients With Metastatic Malignant Melanoma",0.0010266317158010877,0.000785045980606419
+NCT00453050,Imiquimod and Laser Therapy With or Without a Green Dye in Treating Patients With Stage III or Stage IV Melanoma That Has Spread to Other Parts of the Skin,0.0010993387948009426,0.0011118984080226342
+NCT00482105,Early Diagnosis of Melanoma Using Expression Profiling and Non-Invasive Sampling of Skin Cells,0.0006972988089366253,0.0006348941229055911
+NCT00495066,Compassionate Use Trial for Unresectable Melanoma With Ipilimumab,0.0009423195245683221,0.000992398999027747
+NCT01886235,Intravital Microscopy for Identifying Tumor Vessels in Patients With Stage IA-IV Melanoma That is Being Removed by Surgery,0.0010383920467728484,0.001218652023383072
+NCT01840527,Utility of Novel BRAF Test for Melanoma,0.0014564324876534134,0.0009168033037871902
+NCT01840007,Pilot Study Evaluating the Efficacy and Safety of Metformin in Melanoma,0.0012559887805096215,0.0009679276693539812
+NCT01888081,A-dmDT390-bisFv(UCHT1) Fusion Protein in Combination With Ionizing Radiation for Treatment of Stage IV Melanoma,0.0008517629401861536,0.0010378131202399726
+NCT01863108,Safety Study of a Dendritic Cell-based Cancer Vaccine in Melanoma,0.0010326552137345016,0.001036138228662384
+NCT01864538,A Phase 2 Biomarker - Enriched Study of TH-302 in Subjects With Advanced Melanoma,0.0011448572693527493,0.001179426402348439
+NCT01826448,"A Phase 1b Open Label, Dose Escalation Study of PLX3397 in Combination With Vemurafenib in V600-mutated BRAF Melanoma",0.0009430716470571264,0.0009491280684086136
+NCT01826864,Sargramostim or Hypertonic Saline Before Sentinel Lymph Node Biopsy in Treating Patients With Stage IB-II Melanoma,0.0010202155629153167,0.0013107325943023872
+NCT01883323,Tumor-Infiltrating Lymphocytes And Low-Dose Interleukin-2 Therapy Following Cyclophosphamide And Fludarabine In Patients With Melanoma,0.0010193920267964384,0.0011550342420222923
+NCT01894672,"BRAF Inhibitor, LGX818, Utilizing a Pulsatile Schedule in Patients With Stage IV or Unresectable Stage III Melanoma Characterized by a BRAFV600 Mutation",0.0011538227142385959,0.001359513322999973
+NCT01897116,A Phase I Trial of Vemurafenib and Hydroxychloroquine in Patients With Advanced BRAF Mutant Melanoma,0.0011849916413470272,0.0015883488645451233
+NCT01867619,"Temozolomide, Thalidomide, and Lomustine (TTL) in Melanoma Patients",0.001081030377155767,0.001102665308868893
+NCT01813214,The Effects of Vemurafenib + Cobimetinib on Immunity in Patients With Melanoma,0.0010852622235816632,0.001201607445409344
+NCT01878396,Circulating Melanoma Cells in Metastatic Patients Treated With Selective BRAF Inhibitors,0.0011167524716288464,0.0013722720225850182
+NCT01820364,LGX818 in Combination With Agents (MEK162; BKM120; LEE011; BGJ398; INC280) in Advanced BRAF Melanoma,0.0009967467885733854,0.0013955655863844482
+NCT01859845,Melanoma Simulation Model With Smartphone Devices: Training Physicians for Early Detection of Melanoma,0.0006797290177610054,0.000689613275396553
+NCT01866319,Study to Evaluate the Safety and Efficacy of Two Different Dosing Schedules of Pembrolizumab (MK-3475) Compared to Ipilimumab in Participants With Advanced Melanoma (MK-3475-006/KEYNOTE-006),0.0009727292559466199,0.0009954820769274742
+NCT01844505,Phase 3 Study of Nivolumab or Nivolumab Plus Ipilimumab Versus Ipilimumab Alone in Previously Untreated Advanced Melanoma (CheckMate 067),0.0009658271674347571,0.0010930378576760509
+NCT01898403,Lymph Node Mapping Using Indocyanine Green Solution in Diagnosing Patients With Malignant Melanoma,0.0010638837794460015,0.0010637179335700098
+NCT01841463,Study of an Oral Cdk Inhibitor Administered With an Oral BRAF Inhibitor in Patients With Advanced or Inoperable Malignant Melanoma With BRAF Mutation,0.0013182955521558683,0.0010237253715862135
+NCT01835184,Cabozantinib-S-Malate and Vemurafenib in Treating Patients With Solid Tumors or Melanoma That is Metastatic or That Cannot Be Removed By Surgery,0.0010554896358530713,0.001208220482265504
+NCT01851408,"Sorafenib and Temsirolimus in Treating Patients With Metastatic, Recurrent, or Unresectable Melanoma",0.0010634799689310391,0.0010572094427446404
+NCT01950390,Ipilimumab With or Without Bevacizumab in Treating Patients With Stage III-IV Melanoma That Cannot Be Removed by Surgery,0.0011323946618445016,0.0011744017880147145
+NCT01920516,Isolated Limb Perfusion of Melphalan for Melanoma and Sarcoma Treatment,0.0008034306266454221,0.0010719112284276015
+NCT01909453,Study Comparing Combination of LGX818 Plus MEK162 Versus Vemurafenib and LGX818 Monotherapy in BRAF Mutant Melanoma,0.0010703253434054692,0.0011452979644948527
+NCT01989585,"Dabrafenib, Trametinib, and Navitoclax in Treating Patients With BRAF Mutant Melanoma or Solid Tumors That Are Metastatic or Cannot Be Removed by Surgery",0.0010610083744931633,0.0011485532913335624
+NCT01989572,Sargramostim and/or Vaccine Therapy in Preventing Disease Recurrence in Patients With Advanced Melanoma,0.0010891672962774625,0.0012454582502693361
+NCT01989559,Booster Vaccination in Preventing Disease Recurrence in Previously Vaccinated Patients With Melanoma That Has Been Removed By Surgery,0.0010006407651421516,0.0011452732177909374
+NCT01996202,A Pilot Study of Ipilumimab and Radiation in Poor Prognosis Melanoma,0.0009002895846933817,0.0009062279386862753
+NCT01990859,Phase 2 Study of Ipilimumab in Japanese Advanced Melanoma Patients,0.0013663586088378853,0.0021240836716761285
+NCT01959633,Study of the Combination Vemurafenib Plus PEG-interferon in Advanced Melanoma Patients Harboring the V600BRAF Mutation,0.0012105851946469424,0.0012794911078883417
+NCT01946373,T Cell Transfer With or Without Dendritic Cell Vaccination in Patients With Melanoma,0.0010898770105172099,0.0010683575461788311
+NCT01943422,Safety and Efficacy Study of Vemurafenib and High-dose Interferon Alfa-2b in Melanoma,0.0009281590403767403,0.0013365861249767825
+NCT01944709,Phase I/II Study of Vaccination With Antigen Loaded Dendritic Cells (DCs) in Patients With Inoperable Stage III and Stage IV Melanoma,0.0012748539539433861,0.001233941152877348
+NCT01986712,A Study to Compare Quality of Life and Compliance in Patients Receiving High-dose Interferon Versus Pegylated Interferon in Patients With Surgically Resected Melanoma,0.0011237972575715272,0.0011047803222138958
+NCT01940809,"Ipilimumab With or Without Dabrafenib, Trametinib, and/or Nivolumab in Treating Patients With Melanoma That Is Metastatic or Cannot Be Removed by Surgery",0.0010940015555028638,0.0012509669784438555
+NCT01972347,Neoadjuvant Dabrafenib + Trametinib for AJCC Stage IIIB-C BRAF V600 Mutation Positive Melanoma,0.0007592664198933797,0.001064948837321902
+NCT01973608,MSB0010445 and Stereotactic Body Radiation Therapy in Advanced Melanoma,0.0011844343388563376,0.0007498929451399986
+NCT01961115,Epacadostat and Vaccine Therapy in Treating Patients With Stage III-IV Melanoma,0.00118437990727618,0.0014292432576415322
+NCT01941927,Trametinib With GSK2141795 in BRAF Wild-type Melanoma,0.0014860224687529365,0.0010997346309515297
+NCT01983124,Vemurafenib + Fotemustine to Treat Advanced Melanoma Patients With V600BRAF Mutation Recurred While on Vemurafenib,0.0011838524546789705,0.0013510718037516181
+NCT01970358,A Phase I Study With a Personalized NeoAntigen Cancer Vaccine in Melanoma,0.0012599081838152596,0.001014871891763132
+NCT01970527,Phase II Trial of Stereotactic Body Radiotherapy Followed by Ipilimumab in Treating Patients With Stage IV Melanoma,0.0012161391179931647,0.0011443128884721613
+NCT01904123,A Phase I Trial of WP1066 in Patients With Recurrent Malignant Glioma and Brain Metastasis From Melanoma,0.001230043482968612,0.001104502792717271
+NCT01942993,The Effects of Treatment With Vemurafenib on the Immune System in Advanced Melanoma,0.000924955781833943,0.0011765852324113204
+NCT01988831,Efficacy of Propranolol Treatment to Prevent Melanoma Progression,0.0007923673558769121,0.00094180262302037
+NCT01978236,"Dabrafenib/Trametinib, BRAF or BRAF AND MEK Pre-op With BRAF and MEK Post-op, Phase IIB, Melanoma With Brain Mets,Biomarkers and Metabolites",0.0007356612751638727,0.0008547545011659686
+NCT01984255,"A Two-arm, Single Center Phase 1b Trial of Bavituximab Plus Ipilimumab in Advanced Melanoma Patients",0.0010780558146260603,0.0009680698573265346
+NCT02694965,Understanding Immunotherapy Resistance Mechanisms in Advanced Melanoma,0.0008584875779631397,0.000903990597110599
+NCT02602756,Study Assessing Two Models of Hypofractionated Protontherapy on Large Choroidal Melanomas,0.0010084286236967254,0.0008390107015560885
+NCT02605473,Parallel Trial of Decitabine and Peg-Interferon in Melanoma: Phase II Portion,0.0008400930567910673,0.000947240262289468
+NCT02659540,A Pilot Study to Evaluate the Safety and Efficacy of Combination Checkpoint Blockade Plus External Beam Radiotherapy in Subjects With Stage IV Melanoma,0.0009339172126329653,0.0009445854399464579
+NCT02696356,Phase 1 Study of GRN-1201 in HLA-A*02 Subjects With Resected Melanoma,0.0012696598548393313,0.0011802586285802564
+NCT02612168,Melanoma Image Analysis Algorithm (MIAA) Validation Study,0.00100782926004589,0.0007789846055213711
+NCT02671513,A Tolerability and Pharmacokinetics Study of SHR6390 in Advanced Melanoma Patients,0.0013175427134373614,0.0017542228890375107
+NCT02613325,fPAM for the in Vivo Depth Measurement of Pigmented Lesions and Melanoma Depth,0.0008328432656718039,0.0009178742720163196
+NCT02625337,Study Comparing Pembrolizumab With Dual MAPK Pathway Inhibition Plus Pembrolizumab in Melanoma Patients,0.0011438332881386574,0.0009903949773611479
+NCT02650492,Immunostimulating Interstitial Laser Thermotherapy in Malignant Melanoma,0.0007392023918207855,0.0009742146470658452
+NCT02600169,Retrospective Analysis of Response Markers and Adverse Events in Melanoma Patients Treated With Pembrolizumab,0.0010230540321824182,0.001116180684957334
+NCT02600143,Identification of Predictive Parameters for Colitis in Melanoma Patients Treated With Immunotherapy.,0.0010032979309537156,0.0008348693312565018
+NCT02668887,Employment and Quality of Life in Patients With Malignant Melanoma,0.0015271618699940848,0.0010465846980602695
+NCT02656706,BrUOG 324: Adjuvant Nivolumab and Low Dose Ipilimumab for Stage III and Resected Stage IV Melanoma: A Phase II Brown University Oncology Research Group Trial,0.0009080568959669388,0.0008398884107266888
+NCT02673970,Biomarkers for the Activity of Immune Checkpoint Inhibitor Therapy in Patients With Advanced Melanoma,0.0011052426893543184,0.0011599863208909822
+NCT02662725,Ipilimumab Combined With a Stereotactic Radiosurgery in Melanoma Patients With Brain Metastases,0.0011284984813955412,0.0009095230438706713
