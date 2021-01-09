@@ -1,7 +1,7 @@
 ## COMPACT: A COncept-based, Metapath and Aspect-driven Approach for Clinical Trial Search
 Authors: Soumyadeep Roy, Koustav Rudra, Shamik Sural, Niloy Ganguly
 
-This is the codebase of the journal paper submitted to the [ACM Transactions on Computing for Healthcare 2020](https://dl.acm.org/journal/health). 
+This is the codebase of the journal paper submitted to the [ACM Transactions on Computing for Healthcare](https://dl.acm.org/journal/health). 
 
 This work is an extension of a previous conference paper: "Soumyadeep Roy, Koustav Rudra, Nikhil Agrawal, Shamik Sural, and Niloy Ganguly. Towards an Aspect-Based Ranking Model for Clinical Trial Search. In International Conference on Computational Data and Social Networks, pp. 209-222 (2019) [Paper link](https://link.springer.com/chapter/10.1007/978-3-030-34980-6_25)
 
