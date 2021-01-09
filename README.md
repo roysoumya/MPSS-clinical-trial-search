@@ -9,10 +9,13 @@ This work is an extension of a previous conference paper: "Soumyadeep Roy, Koust
 ### Folder Strucutre
 
 #### ExtendedRetrieval_MainCodes (new for COMPACT)
+Contains the code and data files for the retrieval component of metaSTM, metaADV, metaRRF and COMPACT
 
 #### ExtendedRetrieval_Miscellaneous (new for COMPACT)
+Contains the codes for heterogeneous information network construction, aspect-based rank fusion and other miscellaneous codes.
 
 #### R codes (new for COMPACT)
+Contains the code to generate the bar plot comparing the retrieval performance of Pubmed in terms of "Only Clinical trials" and "All" filter (Figure 3 of the paper).
 
 #### AllAnnotatedData
 1. It contains the 25 annotated queries.
