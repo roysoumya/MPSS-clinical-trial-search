@@ -1,21 +1,18 @@
-## Concepts(UMLS) based Clinincal Trial Retrieval Model
+## COMPACT: A COncept-based, Metapath and Aspect-driven Approach for Clinical Trial Search
+Authors: Soumyadeep Roy, Koustav Rudra, Shamik Sural, Niloy Ganguly
 
-### Rquirements
-1. Dump Of the Clinical Trials from the follwing link.
-[https://clinicaltrials.gov/AllPublicXML.zip]
+This is the codebase of the journal paper submitted to the [ACM Transactions on Computing for Healthcare 2020](https://dl.acm.org/journal/health). 
 
-2. Setup of QuickUMLS tool.
-[https://github.com/Georgetown-IR-Lab/QuickUMLS]
-
-3. Download Adversity Events Reported from the site.
-[https://aact.ctti-clinicaltrials.org/pipe_files]
-
-4. Download Elastic Search for the baseline.
-
-4. Enviorment all packages in requirements.txt
+This work is an extension of a previous conference paper: "Soumyadeep Roy, Koustav Rudra, Nikhil Agrawal, Shamik Sural, and Niloy Ganguly. Towards an Aspect-Based Ranking Model for Clinical Trial Search. In International Conference on Computational Data and Social Networks, pp. 209-222 (2019) [Paper link](https://link.springer.com/chapter/10.1007/978-3-030-34980-6_25)
 
 
 ### Folder Strucutre
+
+#### ExtendedRetrieval_MainCodes (new for COMPACT)
+
+#### ExtendedRetrieval_Miscellaneous (new for COMPACT)
+
+#### R codes (new for COMPACT)
 
 #### AllAnnotatedData
 1. It contains the 25 annotated queries.
@@ -53,3 +50,18 @@ Robustness study
 Find:-
 1. Precision@10
 2. Recall
+
+### Requirements
+1. Dump Of the Clinical Trials from the follwing link.
+[https://clinicaltrials.gov/AllPublicXML.zip]
+
+2. Setup of QuickUMLS tool.
+[https://github.com/Georgetown-IR-Lab/QuickUMLS]
+
+3. Download Adversity Events Reported from the site.
+[https://aact.ctti-clinicaltrials.org/pipe_files]
+
+4. Download Elastic Search for the baseline.
+
+4. Enviorment all packages in requirements.txt
+
