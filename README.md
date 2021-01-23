@@ -1,9 +1,11 @@
-## COMPACT: A COncept-based, Metapath and Aspect-driven Approach for Clinical Trial Search
-Authors: Soumyadeep Roy, Koustav Rudra, Shamik Sural, Niloy Ganguly
+## COMPACT: A Concept-based, Metapath and Aspect-driven Approach for Clinical Trial Search
+**Authors**: Soumyadeep Roy, Koustav Rudra, Shamik Sural, Niloy Ganguly
 
 This is the codebase of the journal paper submitted to the [ACM Transactions on Computing for Healthcare](https://dl.acm.org/journal/health). 
 
-This work is an extension of a previous conference paper: "Soumyadeep Roy, Koustav Rudra, Nikhil Agrawal, Shamik Sural, and Niloy Ganguly. Towards an Aspect-Based Ranking Model for Clinical Trial Search. In International Conference on Computational Data and Social Networks, pp. 209-222 (2019) [Paper link](https://link.springer.com/chapter/10.1007/978-3-030-34980-6_25)
+**Abstract**: Clinical Trials are considered very important for the practice of evidence-based medicine. They provide updated and essential health-related information for the patients. Sometimes, clinical trials provide the first source of information about new drugs and treatments. Different stakeholders, such as trial volunteers, investigators, and meta-analyses researchers often need to search for trials. The major limitations of the existing methods/tools are as follows: (i) most of them focus only on the clinical trials but not on the Pubmed articles referenced by these trials, (ii) ignore the different requirements of different stakeholders, and (iii) mostly focus on retrieval of oncology-based clinical trials. In this paper, we propose a generic and novel metapath-based similarity search approach (COMPACT) that retrieves information from both clinical trials and their associated Pubmed articles. To address the requirement of different stakeholders, we rank the retrieved clinical trials based on the following four aspects: Relevance, Adversity, Recency, and Popularity. Finally, we develop a novel two-stage rank-fusion approach that combines all the aspects to form a single ranked list. A rigorous annotation scheme is followed to create an annotated retrieval set for 25 queries, across five disease categories. Extensive experiments establish the efficacy of COMPACT over state-of-the-art techniques.
+
+**Important Note**: This work is an extension of a previous conference paper: "Soumyadeep Roy, Koustav Rudra, Nikhil Agrawal, Shamik Sural, and Niloy Ganguly. Towards an Aspect-Based Ranking Model for Clinical Trial Search. In International Conference on Computational Data and Social Networks, pp. 209-222 (2019) [Paper link](https://link.springer.com/chapter/10.1007/978-3-030-34980-6_25)
 
 
 ### Folder Strucutre
