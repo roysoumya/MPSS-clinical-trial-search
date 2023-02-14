@@ -1,22 +1,19 @@
-## COMPACT: A Concept-based, Metapath and Aspect-driven Approach for Clinical Trial Search
-**Authors**: Soumyadeep Roy, Koustav Rudra, Shamik Sural, Niloy Ganguly
+## Developing an Interpretable Clinical Trial Retrieval System using Pubmed Citation Network
 
-This is the codebase of the journal paper submitted to the [ACM Transactions on Computing for Healthcare](https://dl.acm.org/journal/health). 
-
-**Abstract**: Clinical Trials are considered very important for the practice of evidence-based medicine. They provide updated and essential health-related information for the patients. Sometimes, clinical trials provide the first source of information about new drugs and treatments. Different stakeholders, such as trial volunteers, investigators, and meta-analyses researchers often need to search for trials. The major limitations of the existing methods/tools are as follows: (i) most of them focus only on the clinical trials but not on the Pubmed articles referenced by these trials, (ii) ignore the different requirements of different stakeholders, and (iii) mostly focus on retrieval of oncology-based clinical trials. In this paper, we propose a generic and novel metapath-based similarity search approach (COMPACT) that retrieves information from both clinical trials and their associated Pubmed articles. To address the requirement of different stakeholders, we rank the retrieved clinical trials based on the following four aspects: Relevance, Adversity, Recency, and Popularity. Finally, we develop a novel two-stage rank-fusion approach that combines all the aspects to form a single ranked list. A rigorous annotation scheme is followed to create an annotated retrieval set for 25 queries, across five disease categories. Extensive experiments establish the efficacy of COMPACT over state-of-the-art techniques.
-
-**Important Note**: This work is an extension of a previous conference paper: "Soumyadeep Roy, Koustav Rudra, Nikhil Agrawal, Shamik Sural, and Niloy Ganguly. Towards an Aspect-Based Ranking Model for Clinical Trial Search. In International Conference on Computational Data and Social Networks, pp. 209-222 (2019) [Paper link](https://link.springer.com/chapter/10.1007/978-3-030-34980-6_25)
-
+**Abstract**: Clinical trials are an essential source of information for practicing Evidence-Based Medicine because they help to determine the efficacy of newly developed treatments and drugs. However, most of the existing trial search systems focus on a specific disease (e.g., cancer) and utilize disease-specific knowledge bases that hinder the adaptation of such methods to new diseases. In this work, we overcome both limitations and propose a graph-based model that explores both clinical trials and the Pubmed databases to alleviate the shortage of relevant clinical trials for a query. We construct a large heterogeneous graph (750K nodes and 1.2 Million edges) made of clinical trials and Pubmed articles linked to clinical trials. As both the graph edges and nodes are labeled, we develop a novel metapath-based similarity search (MPSS) method to retrieve and rank clinical trials across multiple disease classes. We primarily focus on consumers and users that do not have any prior medical knowledge. As there are no multiple disease-wide trial search evaluation datasets, we contribute a high-quality, well-annotated query-relevant trial set comprising around 25 queries and, on average, approximately 95 annotated trials per query. We also perform a detailed evaluation of MPSS on the TREC Precision Medicine Benchmark Dataset, a disease-specific clinical trial search setting.
 
 ### Folder Strucutre
 
-#### ExtendedRetrieval_MainCodes (new for COMPACT)
+#### AdditionalCodes2023
+Contains the code and data files for the MPSS model adapted to the TREC 2018 Precision Medicine Track
+
+#### ExtendedRetrieval_MainCodes (new for MPSS)
 Contains the code and data files for the retrieval component of metaSTM, metaADV, metaRRF and COMPACT
 
-#### ExtendedRetrieval_Miscellaneous (new for COMPACT)
+#### ExtendedRetrieval_Miscellaneous (new for MPSS)
 Contains the codes for heterogeneous information network construction, aspect-based rank fusion and other miscellaneous codes.
 
-#### R codes (new for COMPACT)
+#### R codes (new for MPSS)
 Contains the code to generate the bar plot comparing the retrieval performance of Pubmed in terms of "Only Clinical trials" and "All" filter (Figure 3 of the paper).
 
 #### AllAnnotatedData
